@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/live_stable.txt",
+      "url": "https://jihulab.com/mfkdy/cy/-/blob/main/lib/live_stable.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "一起看 ",
-      "name": "👻一起看┃老公帅的掉渣",
+      "name": "👻一起看┃",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -25,7 +25,7 @@
     },
          {
             "key": "ok", 
-            "name": "👌FREEOK┃老婆美若天仙沉鱼落雁，闭月羞花倾国倾城国色天香天生丽质霸气侧漏冰肌玉肤", 
+            "name": "👌FREEOK┃", 
             "type": 3, 
             "api": "csp_XBPQ", 
             "playerType": "1", 
@@ -33,7 +33,7 @@
         },
     {
       "key": "Mino",
-      "name": "🎉Mino┃老婆半夜看小说",
+      "name": "🎉Mino┃",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -43,28 +43,28 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "🔥玩偶|俺老孙乃东胜神州花果山水帘洞齐天大圣美猴王孙悟空",
+      "name": "🔥玩偶|",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "https://jihulab.com/mfkdy/cy/-/raw/main/token.txt"
     },
     {
       "key": "csp_wogg_t4",
-      "name": "🔥玩偶[T4]老公爱云高清",
+      "name": "🔥玩偶[T4]",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=6cb4ab4927df42bfa42ce04213442689&sort=原画,蓝光,超清,高清",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "https://jihulab.com/mfkdy/cy/-/raw/main/token.txt"
     },
    {
       "key": "csp_Ysgc",
-      "name": "🏭工场┃老婆爱工场",
+      "name": "🏭工场┃",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -187,41 +187,7 @@
         "港台动漫",
         "海外动漫"
       ]
-      },
-     {
-      "key": "dr_码上看_哔哩影视",
-      "name": "🔥码上看动漫",
-      "type": 3,
-      "api": "./lib/merge.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/哔哩影视.js"
-    },
-      {
-      "key": "drpy_js_路漫漫",
-      "name": "♻️路漫漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/路漫漫.js"
-    },
-        {
-            "key": "drpy_js_58动漫",
-            "name": "58动漫[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/58动漫.js"
-        },
-
-        {"key":"蚂蚁",
-    "name":"🐜蚂蚁直连",
-    "type":3,
-    "api":"csp_Mayiys",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"http://rzys.xyz"
-    }   
+      }
     
   ],
   "parses": [
