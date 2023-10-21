@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "一起看 ",
-      "name": "👻一起看┃老公帅的掉渣",
+      "name": "👻一起看┃",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -25,7 +25,7 @@
     },
          {
             "key": "ok", 
-            "name": "👌FREEOK┃老婆美若天仙沉鱼落雁，闭月羞花倾国倾城国色天香天生丽质霸气侧漏冰肌玉肤", 
+            "name": "👌FREEOK┃", 
             "type": 3, 
             "api": "csp_XBPQ", 
             "playerType": "1", 
@@ -49,7 +49,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "csp_wogg_t4",
@@ -60,7 +60,7 @@
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
    {
       "key": "csp_Ysgc",
