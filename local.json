@@ -202,6 +202,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.cz01.pro/"
+    },
+    {
+      "key": "哔哩影视",
+      "name": "🔥哔哩动漫",
+      "type": 3,
+      "api": "./lib/merge.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/哔哩影视.js"
     }
 
  
