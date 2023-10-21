@@ -31,16 +31,7 @@
             "playerType": "1", 
             "ext":"./lib/free.json"
         },
-    {
-      "key": "Mino",
-      "name": "🎉Mino🎉",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
-    },
+
     {
       "key": "csp_WoGG",
       "name": "🔥玩偶🔥",
