@@ -115,7 +115,6 @@
       "name": "🍉非凡🍉",
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      //"api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list ",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -188,8 +187,8 @@
         "港台动漫",
         "海外动漫"
       ]
-      }，
-  {"key":"橘子","name":"橘子┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"playerType":2,"filterable":0,"ext":"hAwqx1CJISx3nkxuzIZkJQ3xH2vP8DZvYLTSyMuXmgBdBGtRCS9BLGYf16Mhkw0NSz+CxLAOaflLmWx4pHPUjA9MRdf+RPTICTeE567C5KCDrcTx/HV0T9IXWQYiHLIc+2QIHRae641xS+ZJMalDFunbpu2cfgq0nXfgN9eKrJYUzbYFeaCgcKaeWFtte1e2hEH41DqfBp77Z/aFtUY2nIG4K4I3iRlXiBlXWXYwUojrLN9MGrmbp91K1Ij11q4g/gzF817kkx8RlOXzR2BWQ0ZeHTQEHKb0Epl5p9cN/UHrw/p4boC23Myt7gLNhohiP58PLpCn32myEkBB3ZRgvy0KX7FOZFrmILRnsESyg3NZbHljDl5CdcXS9TVe1iNrXEkPkPcoOGDVi3mVHv65SQkCcYWOoNyCIusRrPlii6WIsoEkpNbdOJhk4iHR7Ksyr1N+jNVT0rPYU76T86BlEOILXG1AASO3FuAmsaK4uIsko8LC6k+xCHCQ+u3iUbJ2FVv8iglaCnOb7RHNn6FAIgyEmeFUwHuwlticO7elPQS8zD2DL681AKglic3Qi5V2hN0zMxXbkzdcQqVhMNA62B1BST762gwjxm/BJ2PUtsRKMnDMxX39g86c0N/dfEu77BFglB5Cx3zEoVeynm9WP4TSMuDviRMBoQ+bVUTzuoqU="}，
+      },
+
 {"key":"蚂蚁","name":"蚂蚁┃App","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"}
  
     
