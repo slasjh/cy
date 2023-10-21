@@ -1,7 +1,7 @@
 {
   "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "晨曦免费制作，广告扫码皆是诈骗，谨防受骗！！！",
+  "warningText": "晨曦免费制作，广告皆是诈骗，拒绝扫码，谨防受骗！！！",
   "lives": [
     {
       "name": "live",
@@ -114,7 +114,8 @@
       "key": "非凡",
       "name": "🍉非凡🍉",
       "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      //"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list ",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -192,15 +193,7 @@
     
   ],
   "parses": [
-    {
-		"name": "蚂蚁",
-		"type": 1,
-		"url": "http://118.99.2.230:6688/api/?key=vAhZ67qzRdW2czQEo2&url=",
-		"ext": {
-			"flag": ["NBY"],
-			"header":{"User-Agent":"okhttp/4.1.0"}
-	         	}
-  }		,  
+
 		{
       "name": "聚合1",
       "type": 3,
