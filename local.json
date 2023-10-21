@@ -23,14 +23,14 @@
       "quickSearch": 1,
       "changeable": 1
     },
-         {
-            "key": "ok", 
-            "name": "👌FREEOK👌", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "playerType": "1", 
-            "ext":"./lib/free.json"
-        },
+    {
+      "key": "ok", 
+      "name": "👌FREEOK👌", 
+      "type": 3, 
+      "api": "csp_XBPQ", 
+      "playerType": "1", 
+      "ext":"./lib/free.json"
+    },
 
     {
       "key": "csp_WoGG",
