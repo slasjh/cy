@@ -14,6 +14,17 @@
     }
   ],
   "sites": [
+       {
+      "key": "csp_Ysgc",
+      "name": "🏭工场🏭",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.ysgc1.cc/"
+    },  
+    
     {
       "key": "一起看 ",
       "name": "👻一起看👻",
@@ -53,16 +64,7 @@
       "filterable": 1,
       "ext": "./token.txt"
     },
-   {
-      "key": "csp_Ysgc",
-      "name": "🏭工场🏭",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.ysgc1.cc/"
-    },    
+  
     
    {
       "key": "量子",
