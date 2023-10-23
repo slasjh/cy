@@ -146,19 +146,7 @@
       ]
     },
 
-    {
-           "key": "YYCMSA",
-           "name": "🚤1080P站-C",
-           "type": 3,
-           "playerType": 2,
-           "api": "csp_AppYsV2",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "ext": "http://106.52.241.21:83/api.php/app/"
-
-    },
-
+ 
     {
       "key": "Xinsj",
       "name": "👓视觉直连",
