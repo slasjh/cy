@@ -209,10 +209,10 @@
 {"key":"csp_xml_忆梦","name":"🐝忆 梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
     {
-      "key": "csp_czys",
+      "key": "Czsapp",
       "name": "🏭厂长|海外",
       "type": 3,
-      "api": "csp_czys",
+      "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
