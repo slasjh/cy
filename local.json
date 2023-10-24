@@ -1,7 +1,7 @@
 {
   "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "晨曦影视友情提示：广告都是骗子，谨防受骗！！！",
+  "warningText": "晨曦影视友情提示：广告都是骗子，，谨防受骗！！！",
   "lives": [
     {
       "name": "live",
