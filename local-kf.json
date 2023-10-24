@@ -208,8 +208,11 @@
       },
 
 {"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_外国影源","name":"🐝外国影源","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_天堂","name":"🐝天堂","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
     {
-      "key": "Czsapp",
+      "key": "Czs_厂长",
       "name": "🏭厂长|海外",
       "type": 3,
       "api": "csp_Czsapp",
