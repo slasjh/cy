@@ -1,7 +1,7 @@
 {
   "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "晨曦免费制作，不相信广告，拒绝扫码，谨防受骗！！！！",
+  "warningText": "晨曦影视友情提示：广告都是骗子，谨防受骗！！！",
   "lives": [
     {
       "name": "live",
@@ -19,7 +19,7 @@
     
     {
       "key": "一起看 ",
-      "name": "👻一起看👻",
+      "name": "👻一起看",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -28,7 +28,7 @@
     },
     {
       "key": "csp_Ysgc",
-      "name": "🏭工场🏭",
+      "name": "🏭工场",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -38,7 +38,7 @@
     }, 
     {
       "key": "ok", 
-      "name": "👌FREEOK👌", 
+      "name": "👌FREEOK", 
       "type": 3, 
       "api": "csp_XBPQ", 
       "playerType": "1", 
@@ -47,7 +47,7 @@
 
     {
       "key": "csp_WoGG",
-      "name": "🔥玩偶🔥",
+      "name": "🔥玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -58,7 +58,7 @@
 
     {
       "key": "csp_wogg_t4",
-      "name": "🔥玩偶[T4]🔥",
+      "name": "♻️玩偶[T4]",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=6cb4ab4927df42bfa42ce04213442689&sort=原画,蓝光,超清,高清",
       "searchable": 1,
@@ -70,7 +70,7 @@
     
    {
       "key": "量子",
-      "name": "💎量子💎",
+      "name": "🥑量子",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -108,7 +108,7 @@
 
    {
       "key": "非凡",
-      "name": "🍉非凡🍉",
+      "name": "🍉非凡",
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -146,18 +146,6 @@
       ]
     },
 
-    {
-           "key": "YYCMSA",
-           "name": "🚤1080P站-C",
-           "type": 3,
-           "playerType": 2,
-           "api": "csp_AppYsV2",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "ext": "http://106.52.241.21:83/api.php/app/"
-
-    },
 
     {
       "key": "Xinsj",
@@ -175,13 +163,13 @@
    {"key": "蚂蚁", "name": "🐜蚂蚁直连", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
    }, 
    {"key": "xml_火狐",
-   "name": "🚄火狐🌎",
+   "name": "🚄火狐",
    "type": 1,
    "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1
     },
     {
       "key": "暴風",
-      "name": "♻️暴風♻️",
+      "name": "🌀暴風",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -217,6 +205,9 @@
         "港台动漫",
         "海外动漫"
       ]
+      },
+
+      {"key": "dr_码上看_素白白", "name": "💎码上看白白", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/素白白.js"
       }
 
 
