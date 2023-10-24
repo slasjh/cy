@@ -41,6 +41,8 @@
       "name": "👌FREEOK", 
       "type": 3, 
       "api": "csp_XBPQ", 
+      "searchable": 1,
+      "quickSearch": 1,
       "playerType": "1", 
       "ext":"./lib/free.json"
     },
@@ -166,7 +168,8 @@
    {"key": "xml_火狐",
    "name": "🚄火狐",
    "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1
+   "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,"quickSearch": 0,"filterable": 1
     },
 
     {
