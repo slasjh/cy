@@ -48,7 +48,7 @@
       "key": "在线之家", 
       "name": "在线之家", 
       "type": 3, 
-      "api": "./merge.min.js", 
+      "api": "./lib/merge.min.js", 
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 0,
