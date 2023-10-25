@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"https://www.zxzj.site"
+      "ext":"./lib/在线之家.js"
     },
     {
       "key": "csp_WoGG",
