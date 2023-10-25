@@ -243,6 +243,10 @@
     {"key": "dr_码上看在线", "name": "🔥码上看在线", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/在线之家.js"
     },
     {"key": "dr_码上看动漫", "name": "🔥码上看动漫", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/哔哩影视.js"
+    },
+    {"key": "jar_码上看JOJO", "name": "🔥码上看JOJO", "type": 3, "api": "csp_JOJO", "searchable": 1, "playerType": 2, "quickSearch": 1, "changeable": 1
+    },
+     {"key": "jar_码上看农民", "name": "🔥码上看农民", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/农民影视.json"
     }
 
  
