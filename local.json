@@ -209,7 +209,13 @@
         "港台动漫",
         "海外动漫"
       ]
-      }
+      },
+           {"key": "dr_码上看在线", "name": "在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
+ "ext": "./lib/在线之家.js"
+    },
+    {"key": "jar_码上农民", "name": "🔥农民影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json"
+    },
+    {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} 
 
          
 
