@@ -212,9 +212,6 @@
       ]
       },
 
-      {"key": "dr_码上看_素白白", "name": "💎素白白", "type": 3, 
-      "api": "./lib/merge.min.js",    "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/素白白.js"
-      },
            {"key": "看在线", "name": "看在线", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
  "ext": "./lib/在线之家.js"
 
