@@ -214,7 +214,12 @@
 
       {"key": "dr_码上看_素白白", "name": "💎素白白", "type": 3, 
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js",    "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/素白白.js"
-      }
+      },
+           {"key": "看在线", "name": "看在线", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
+ "ext": "https://jihulab.com/mfkdy/cy/-/raw/main/lib/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.js"
+
+    }
+
 
 
  
