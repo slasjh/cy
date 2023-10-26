@@ -46,13 +46,13 @@
       "ext":"./lib/free.json"
     },
     
-     {"key": "dr_码上看在线", "name": "看在线", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
+     {"key": "dr_码上看在线", "name": "在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
  "ext": "./lib/在线之家.js"
     },
     {"key": "jar_码上农民", "name": "🔥农民影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json"
     },
-    {"key": "dr_码上看动漫", "name": "🔥看动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"}, 
-    {"key": "dr_码上看白白", "name": "🔥看白白", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/素白白.js"},
+    {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"}, 
+    
     {
       "key": "csp_WoGG",
       "name": "🔥玩偶🔥",
@@ -245,13 +245,8 @@
 
     { "key": "乐猪TV",  "name": "乐猪┃影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"    
     },
-    {"key": "dr_码上看在线", "name": "🔥码上看在线", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/在线之家.js"
-    },
-    {"key": "dr_码上看动漫", "name": "🔥码上看动漫", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/哔哩影视.js"
-    },
+
     {"key": "jar_码上看JOJO", "name": "🔥码上看JOJO", "type": 3, "api": "csp_JOJO", "searchable": 1, "playerType": 2, "quickSearch": 1, "changeable": 1
-    },
-     {"key": "jar_码上看农民", "name": "🔥码上看农民", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/农民影视.json"
     }
 
  
