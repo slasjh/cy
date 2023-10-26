@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
+  "spider": "./custom_spider_stable.jar;md5;60A9856A6DEB7DCFF27F3056626BBB5A",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "晨曦免费制作，不要相信任何广告，拒绝扫码，谨防受骗！！！",
   "lives": [
@@ -45,7 +45,7 @@
       "ext":"./lib/free.json"
     },
      {"key": "看在线", "name": "看在线", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
- "ext": "https://jihulab.com/mfkdy/cy/-/raw/main/lib/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.js"
+ "ext": "./lib/在线之家.js"
 
     },
     {
