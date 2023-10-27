@@ -16,6 +16,8 @@
 
   "sites": [
     {"key": "dr_时光机在线豆瓣", "name": "晨曦影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
+    {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"}, 
+
     {
       "key": "csp_XYQHiker_影视工场",
       "name": "🏭工场🏭",
@@ -46,13 +48,10 @@
       "playerType": "1", 
       "ext":"./lib/free.json"
     },
-    
+    {"key": "jar_码上农民", "name": "🔥农民影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json"},
+
      {"key": "dr_码上看在线", "name": "在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
- "ext": "./lib/在线之家.js"
-    },
-    {"key": "jar_码上农民", "name": "🔥农民影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json"
-    },
-    {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"}, 
+ "ext": "./lib/在线之家.js"}, 
     
     {
       "key": "csp_WoGG",
@@ -63,18 +62,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "./token.txt+4k|auto|fhd"
-    },
-
-    {
-      "key": "csp_wogg_t4",
-      "name": "🔥玩偶[T4]🔥",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=6cb4ab4927df42bfa42ce04213442689&sort=原画,蓝光,超清,高清",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./token.txt"
     },
     
    {
@@ -111,8 +98,7 @@
         "欧美动漫",
         "体育",
         "足球",
-        "篮球"
-      ]
+        "篮球"]
     },
 
    {
@@ -151,11 +137,13 @@
         "欧美综艺",
         "欧美动漫",
         "港台动漫",
-        "海外动漫"
-      ]
+        "海外动漫"]
     },
-
- 
+    {"key": "csp_无尽",
+   "name": "🚄无尽|海外",
+   "type": 1,
+   "api": "https://api.wujinapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1
+    },
     {
       "key": "Xinsj",
       "name": "👓视觉直连",
@@ -167,7 +155,6 @@
       "ext": "https://www.6080yy3.com/"
     },
 
-
    {"key": "蚂蚁", "name": "🐜蚂蚁直连", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
    }, 
   {"key": "xml_火狐",
@@ -175,7 +162,17 @@
    "type": 1,
    "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1
     },
-
+    {
+      "key": "csp_wogg_t4",
+      "name": "🔥玩偶[T4]🔥",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=6cb4ab4927df42bfa42ce04213442689&sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./token.txt"
+    },
     {"key": "暴風",
       "name": "♻️暴風♻️",
       "type": 1,
@@ -221,11 +218,7 @@
 "playUrl":"","searchable":1,"quickSearch":1},
 
 
-     {"key": "csp_无尽",
-   "name": "🚄无尽|海外",
-   "type": 1,
-   "api": "https://api.wujinapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1
-    },
+     
    {"key": "csp_U酷",
    "name": "🚄U酷|海外",
    "type": 1,
@@ -245,13 +238,7 @@
     },
 
     { "key": "乐猪TV",  "name": "乐猪┃影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "./lib/乐猪TV.json"    
-    },
-
-    {"key": "jar_码上看JOJO", "name": "🔥码上看JOJO", "type": 3, "api": "csp_JOJO", "searchable": 1, "playerType": 2, "quickSearch": 1, "changeable": 1
-    },
-{"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/电影港磁力.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-{"key": "csp_XYQHiker_蚂蚁4K","name":"🧲蚂蚁4K(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/蚂蚁4K.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}
-
+    }
  
   //结尾  
   ],
