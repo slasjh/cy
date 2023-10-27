@@ -38,7 +38,7 @@
 
     {
       "key": "csp_Ysgc",
-      "name": "🏭工场",
+      "name": "🏭影视工场",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -212,7 +212,7 @@
         "海外动漫"
       ]
       },
-    { "key": "乐猪TV",  "name": "乐猪┃影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "./lib/乐猪TV.json"    
+    { "key": "乐猪TV",  "name": "乐猪影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "./lib/乐猪TV.json"    
     }
           
          
