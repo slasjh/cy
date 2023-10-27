@@ -1,7 +1,9 @@
-晨曦影视,#genre#
-欢笑剧场,https://cntv.sbs/tv?auth=2310201855&id=hxjc
+晨曦影视推荐,#genre#
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
-🇨🇳晨曦央视,#genre#
+
+🇨🇳央视,#genre#
 CCTV-1综合,https://cntv.sbs/tv?auth=2310201855&id=cctv1
 CCTV-2财经,https://cntv.sbs/tv?auth=2310201855&id=cctv2
 CCTV-3综艺,https://cntv.sbs/tv?auth=2310201855&id=cctv3
@@ -23,7 +25,7 @@ CCTV-17农业农村,https://cntv.sbs/tv?auth=2310201855&id=cctv17
 CCTV-4K超高清,https://cntv.sbs/tv?auth=2310201855&id=cctv4k
 CCTV-164K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 
-🇨🇳晨曦卫视,#genre#
+🇨🇳卫视,#genre#
 北京卫视,https://cntv.sbs/tv?auth=2310201855&id=bjws
 东方卫视,https://cntv.sbs/tv?auth=2310201855&id=dfws
 天津卫视,https://cntv.sbs/tv?auth=2310201855&id=tjws
@@ -66,7 +68,7 @@ CETV1,https://cntv.sbs/tv?auth=2310201855&id=cetv1
 CETV2,https://cntv.sbs/tv?auth=2310201855&id=cetv2
 CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 
-🇨🇳晨曦数字,#genre#
+🇨🇳数字,#genre#
 北京纪实科教,https://cntv.sbs/tv?auth=2310201855&id=bjjskj
 纪实人文,https://cntv.sbs/tv?auth=2310201855&id=shjsrw
 动漫秀场,https://cntv.sbs/tv?auth=2310201855&id=dmxc
@@ -103,7 +105,7 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 文化精品,http://hls.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
 兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
-🇨🇳晨曦地方,#genre#
+🇨🇳地方,#genre#
 上海新闻综合,https://cntv.sbs/tv?auth=2310201855&id=shxwzh
 上海都市,https://cntv.sbs/tv?auth=2310201855&id=shds
 上海ICS外语,https://cntv.sbs/tv?auth=2310201855&id=shics
@@ -140,7 +142,7 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
-🇨🇳晨曦百视,#genre#
+🇨🇳百视,#genre#
 看天下精选,https://cntv.sbs/tv?auth=2310201855&id=ktxjx
 华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
 电竞天堂,https://cntv.sbs/tv?auth=2310201855&id=djtt
@@ -162,7 +164,7 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 百视通体育6,https://cntv.sbs/tv?auth=2310201855&id=sport6
 百视通体育7,https://cntv.sbs/tv?auth=2310201855&id=sport7
 
-🇨🇳晨曦港澳,#genre#
+🇨🇳港澳,#genre#
 翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
 明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
 澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
@@ -172,7 +174,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 莲花卫视,https://cntv.sbs/tv/lhws.php
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
-🇨🇳晨曦国际,#genre#
+🇨🇳国际,#genre#
 CGTN,https://cntv.sbs/tv?auth=2310201855&id=cgtn
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -190,7 +192,7 @@ FASHIONTV4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_
 亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻1080P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-🇨🇳晨曦测试频道,#genre#
+🇨🇳测试频道,#genre#
 日·QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 韩·BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 韩·EBS-1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
@@ -247,7 +249,7 @@ NOSTALGIA,http://51.210.199.20/hls/stream.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 
-🇨🇳晨曦央视频道,#genre#
+🇨🇳央视频道,#genre#
 CCTV-1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV-3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
@@ -288,12 +290,12 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
-🇨🇳晨曦香港频道,#genre#
+🇨🇳香港频道,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
-🇨🇳晨曦卫视频道,#genre#
+🇨🇳卫视频道,#genre#
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
@@ -330,16 +332,16 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 兵团卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 
-🇨🇳晨曦教育频道,#genre#
+🇨🇳教育频道,#genre#
 中国教育1台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 中国教育2台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 中国教育4台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 
-🇨🇳晨曦北京频道,#genre#
+🇨🇳北京频道,#genre#
 北京纪实科教,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8
 卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 
-🇨🇳晨曦上海频道,#genre#
+🇨🇳上海频道,#genre#
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
 上海ICS外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
@@ -359,7 +361,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 哈哈炫动,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 
-🇨🇳晨曦浙江频道,#genre#
+🇨🇳浙江频道,#genre#
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -369,27 +371,27 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
-🇨🇳晨曦海南频道,#genre#
+🇨🇳海南频道,#genre#
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
 海南文旅,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?fmmv6
 海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
 海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
 
-🇨🇳晨曦湖南频道,#genre#
+🇨🇳湖南频道,#genre#
 金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
 茶友频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 
-🇨🇳晨曦广东频道,#genre#
+🇨🇳广东频道,#genre#
 嘉佳卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
 
-🇨🇳晨曦其他频道,#genre#
+🇨🇳其他频道,#genre#
 家庭理财,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
 财富天下,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
 中国天气,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 
-🌍晨曦融合,#genre#
+🌍融合,#genre#
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 翡翠台,http://r.jdshipin.com/n90gt
 虎牙影院,https://live.metshop.top/huya/11601968
