@@ -17,7 +17,7 @@
   "sites": [
     {"key": "dr_时光机在线豆瓣", "name": "晨曦影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
     {
-      "key": "csp_Ysgc",
+      "key": "csp_XYQHiker_影视工场",
       "name": "🏭工场🏭",
       "type": 3,
       "api": "csp_XYQHiker",
@@ -248,7 +248,9 @@
     },
 
     {"key": "jar_码上看JOJO", "name": "🔥码上看JOJO", "type": 3, "api": "csp_JOJO", "searchable": 1, "playerType": 2, "quickSearch": 1, "changeable": 1
-    }
+    },
+    {"key": "csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/BT天堂.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+    {"key": "csp_XYQHiker_高清MP4","name":"🧲高清MP4(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/高清MP4.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}
 
  
   //结尾  
