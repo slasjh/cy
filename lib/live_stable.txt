@@ -1,6 +1,8 @@
 晨曦影视推荐,#genre#
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+美国中文电视,https://jpts.sinovision.net/livestream.m3u8
+中天新闻,zlive://173.208.209.114:7719/9011998207735731140a6271e559d549
 
 
 🇨🇳央视,#genre#
