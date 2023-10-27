@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
+  "spider": "./custom_spider_stable.jar;md5;60A9856A6DEB7DCFF27F3056626BBB5A",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "晨曦免费制作，不要相信任何广告，拒绝扫码，谨防受骗！！！",
   "lives": [
@@ -15,15 +15,17 @@
   ],
 
   "sites": [
+    {"key": "dr_时光机在线豆瓣", "name": "晨曦影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
     {
       "key": "csp_Ysgc",
       "name": "🏭工场🏭",
       "type": 3,
-      "api": "csp_Ysgc",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.ysgc1.cc/"
+      "ext": "./lib/影视工场.json",
+      "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
     },  
     
     {
@@ -35,7 +37,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
+//freeok
     {
       "key": "ok", 
       "name": "👌FREEOK👌", 
@@ -44,13 +46,14 @@
       "playerType": "1", 
       "ext":"./lib/free.json"
     },
-{"key": "dr_码上看在线", "name": "在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
+    
+     {"key": "dr_码上看在线", "name": "在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
  "ext": "./lib/在线之家.js"
     },
     {"key": "jar_码上农民", "name": "🔥农民影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json"
     },
     {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"}, 
-
+    
     {
       "key": "csp_WoGG",
       "name": "🔥玩偶🔥",
@@ -59,7 +62,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./token.txt"
+      "ext": "./token.txt+4k|auto|fhd"
     },
 
     {
@@ -173,8 +176,7 @@
    "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1
     },
 
-    {
-      "key": "暴風",
+    {"key": "暴風",
       "name": "♻️暴風♻️",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -213,17 +215,12 @@
       ]
       },
 
-{"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-    {
-      "key": "Czsapp",
-      "name": "🏭厂长|海外",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czz9.com/"
-    },  
+    {"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+"playUrl":"","searchable":1,"quickSearch":1},
+    {"key":"csp_xml_外国影源","name":"🐝外国影源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+"playUrl":"","searchable":1,"quickSearch":1},
+
+
      {"key": "csp_无尽",
    "name": "🚄无尽|海外",
    "type": 1,
@@ -234,15 +231,40 @@
    "type": 1,
    "api": "https://api.ukuapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1
     },
-    {"key": "dr_码上看_素白白", "name": "🔥码上看白白", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/素白白.js"},
-    {"key": "Czsapp", "name": "码上👓饭-📔厂长┃直连", "type": 3, "api": "csp_Czsapp", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.czz9.com/", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"}, {"key": "Mino", "name": "码上👓饭-👻Mino┃App", "type": 3, "api": "csp_AppMao", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"}, {"key": "橘子", "name": "码上👓饭-🍊橘子┃App", "type": 3, "api": "csp_AppMao", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA=", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"},
+    //{"key": "dr_码上看_素白白", "name": "🔥码上看白白", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1,  "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/素白白.js" },
+    {"key": "Czsapp", "name": "码上👓饭-📔厂长┃直连", "type": 3, "api": "csp_Czsapp", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.czz9.com/", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"},
+    
+     {"key": "Mino", "name": "码上👓饭-👻Mino┃App", "type": 3, "api": "csp_AppMao", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
+     }, 
+     {"key": "橘子", "name": "码上👓饭-🍊橘子┃App", "type": 3, "api": "csp_AppMao", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA=", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
+     },
 
-     {      "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    },
-{"key":"快看","name":"🍎快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/","categories": ["国产剧","港台剧","欧美剧","韩国剧","国产动漫","日本动漫"]},
-{      "key": "乐猪TV",      "name": "乐猪┃影视",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"    }
+     { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
+     },
+    {"key":"快看","name":"🍎快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/","categories": ["国产剧","港台剧","欧美剧","韩国剧","国产动漫","日本动漫"]
+    },
+
+    { "key": "乐猪TV",  "name": "乐猪┃影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "./lib/乐猪TV.json"    
+    },
+
+    {"key": "jar_码上看JOJO", "name": "🔥码上看JOJO", "type": 3, "api": "csp_JOJO", "searchable": 1, "playerType": 2, "quickSearch": 1, "changeable": 1
+    }
+
  
   //结尾  
   ],
+
+
+
+
+
+
+
+
+
+
+
+
 
   "parses": [
 
