@@ -249,8 +249,8 @@
 
     {"key": "jar_码上看JOJO", "name": "🔥码上看JOJO", "type": 3, "api": "csp_JOJO", "searchable": 1, "playerType": 2, "quickSearch": 1, "changeable": 1
     },
-    {"key": "csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/BT天堂.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-    {"key": "csp_XYQHiker_高清MP4","name":"🧲高清MP4(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/高清MP4.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}
+{"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1, "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+{"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1, "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}
 
  
   //结尾  
