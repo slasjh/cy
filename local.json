@@ -16,16 +16,26 @@
 
   "sites": [
  
+   {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
+       {
+      "key": "csp_WoGG",
+      "name": "🔥玩偶",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./token.txt+4k|auto|fhd"
+    },
     
-    {
-      "key": "一起看 ",
+    {"key": "一起看 ",
       "name": "👻一起看",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
-    },
+      "changeable": 1},
+
     {
       "key": "csp_Ysgc",
       "name": "🏭工场",
@@ -47,28 +57,25 @@
       "playerType": "1", 
       "ext":"./lib/free.json"
     },
-
     {
-      "key": "csp_WoGG",
-      "name": "🔥玩偶",
+      "key": "Xinsj",
+      "name": "👓视觉直连",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Xinsj",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./token.txt+4k|auto|fhd"
+      "ext": "https://www.6080yy3.com/"
     },
+        {"key": "jar_码上农民", "name": "🔥农民影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json"},
 
-    {
-      "key": "csp_wogg_t4",
-      "name": "♻️玩偶[T4]",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=6cb4ab4927df42bfa42ce04213442689&sort=原画,蓝光,超清,高清",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./token.txt"
+    {"key": "dr_码上看在线", "name": "在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
+ "ext": "./lib/在线之家.js"},
+   {"key": "xml_火狐",
+   "name": "🚄火狐",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,"quickSearch": 0,"filterable": 1
     },
     
    {
@@ -150,27 +157,21 @@
     },
 
 
-    {
-      "key": "Xinsj",
-      "name": "👓视觉直连",
-      "type": 3,
-      "api": "csp_Xinsj",
+    
+ {
+      "key": "csp_wogg_t4",
+      "name": "♻️玩偶[T4]",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=6cb4ab4927df42bfa42ce04213442689&sort=原画,蓝光,超清,高清",
       "searchable": 1,
+      "playerType": 2,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.6080yy3.com/"
+      "filterable": 1,
+      "ext": "./token.txt"
     },
-
 
    {"key": "蚂蚁", "name": "🐜蚂蚁直连", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
    }, 
-
-   {"key": "xml_火狐",
-   "name": "🚄火狐",
-   "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,"quickSearch": 0,"filterable": 1
-    },
 
     {
       "key": "暴風",
@@ -210,14 +211,8 @@
         "港台动漫",
         "海外动漫"
       ]
-      },
-           {"key": "dr_码上看在线", "name": "在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
- "ext": "./lib/在线之家.js"
-    },
-    {"key": "jar_码上农民", "name": "🔥农民影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json"
-    },
-    {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} 
-
+      }
+          
          
 
 
