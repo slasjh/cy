@@ -249,8 +249,8 @@
 
     {"key": "jar_码上看JOJO", "name": "🔥码上看JOJO", "type": 3, "api": "csp_JOJO", "searchable": 1, "playerType": 2, "quickSearch": 1, "changeable": 1
     },
-{"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影港磁力.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-{"key": "csp_XYQHiker_蚂蚁4K","name":"🧲蚂蚁4K(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蚂蚁4K.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}
+{"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/电影港磁力.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+{"key": "csp_XYQHiker_蚂蚁4K","name":"🧲蚂蚁4K(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/蚂蚁4K.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}
 
  
   //结尾  
