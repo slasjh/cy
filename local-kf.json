@@ -244,7 +244,7 @@
     {"key":"快看","name":"🍎快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/","categories": ["国产剧","港台剧","欧美剧","韩国剧","国产动漫","日本动漫"]
     },
 
-    { "key": "乐猪TV",  "name": "乐猪┃影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"    
+    { "key": "乐猪TV",  "name": "乐猪┃影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "./lib/乐猪TV.json"    
     },
 
     {"key": "jar_码上看JOJO", "name": "🔥码上看JOJO", "type": 3, "api": "csp_JOJO", "searchable": 1, "playerType": 2, "quickSearch": 1, "changeable": 1
