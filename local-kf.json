@@ -33,7 +33,12 @@
       "ext": "./lib/影视工场.json",
       "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
     },  
-    
+{"key": "csp_XYQHiker_VSYY",
+"name": "🎦VSY短剧",
+"type": 3,
+ "searchable": 1,           "quickSearch": 1,                 "filterable": 1,
+"api": "csp_XYQHiker",               "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
+"ext": "./lib/VS影院.json },
     {
       "key": "一起看 ",
       "name": "👻一起看👻",
