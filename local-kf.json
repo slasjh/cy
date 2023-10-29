@@ -144,6 +144,7 @@
    "type": 1,
    "api": "https://api.wujinapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1
     },
+    {"key":"gszy", "name":"光速┃资源", "type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
     {
       "key": "Xinsj",
       "name": "👓视觉直连",
@@ -214,7 +215,7 @@
 
     {"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
 "playUrl":"","searchable":1,"quickSearch":1},
-    {"key":"csp_xml_外国影源","name":"🐝外国影源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+    {"key":"csp_xml_新浪影源","name":"🐝新浪影源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
 "playUrl":"","searchable":1,"quickSearch":1},
 
 
