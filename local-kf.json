@@ -22,8 +22,8 @@
 {
  "key": "csp_XYQHiker_VSYY",
  "name": "🎦VSY短剧", "type": 3,
-"searchable": 1,"quickSearch": 1,"filterable": 1, "api": "csp_XYQHiker","jar": "./lib/spider.txt","ext": "./lib/VS影院,json"                              },
-}
+"searchable": 1,"quickSearch": 1,"filterable": 1, "api": "csp_XYQHiker",""ext": "./lib/VS影院.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+},
 {"key": "迷你影视", "name": "码上👓猫-🐼┃肥肥┃影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://www.miniku.cc/xgapp.php/v1/", "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"},
 {"key": "索尼", "name": "码上👓蜜-索尼 ", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod", "searchable": 1, "changeable": 1}, {"key": "快帆", "name": "码上👓蜜-快帆", "type": 1, "api": "https://api.kuaifan.tv/api.php/provide/vod", "searchable": 1, "changeable": 1},
 {"key": "haiwaikan", "name": "码上👓蜜-海外看", "type": 1, "api": "https://haiwaikan.com/api.php/provide/vod", "searchable": 1, "changeable": 1, "categories": ["日本动漫", "国产动漫", "欧美动漫", "国产剧", "韩剧", "日剧", "台剧", "泰剧", "港剧", "欧美剧", "动画电影", "韩国综艺", "国产综艺", "日本综艺", "欧美综艺", "冒险片",  "动作片", "喜剧片", "奇幻片", "恐怖片", "悬疑片", "惊悚片", "战争片", "歌舞片", "灾难片", "犯罪片", "科幻片", "纪录片", "经典片"]}, {"key": "暴風", "name": "码上👓蜜-暴風", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod", "searchable": 1, "changeable": 1}, 
