@@ -26,18 +26,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1},
-
-    {
-      "key": "csp_Ysgc",
-      "name": "🏭影视工场",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.ysgc1.cc/",
-      "jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"
-    }, 
     {
       "key": "ok", 
       "name": "👌FREEOK", 
@@ -58,54 +46,33 @@
       "changeable": 0,
       "ext": "https://www.6080yy3.com/"
     },
-    {"key": "jar_码上农民", "name": "🔥农民影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json"
-    },
-
-    {"key": "dr_码上看在线", "name": "在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "./lib/在线之家.js"
-    },
-   {"key": "xml_火狐",
+    {"key": "xml_火狐",
    "name": "🚄火狐",
    "type": 1,
    "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
    "searchable": 1,"quickSearch": 0,"filterable": 1
     },
-    
+    {"key": "jar_码上农民", "name": "🔥农民影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json"
+    },
+    {
+      "key": "csp_Ysgc",
+      "name": "🏭影视工场",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.ysgc1.cc/",
+      "jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"
+    }, 
+  
    {
       "key": "量子",
       "name": "🥑量子",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "港台动漫",
-        "海外动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "体育",
-        "足球",
-        "篮球"
-      ]
+      "changeable": 1
     },
 
    {
@@ -114,43 +81,18 @@
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
+      "changeable": 1
     },
-
+    { "key": "乐猪TV",  "name": "乐猪影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "./lib/乐猪TV.json"    
+    },
    {"key": "蚂蚁", "name": "🐜蚂蚁直连", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
    }, 
-
+   
+    {"key": "dr_码上看在线", "name": "在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "./lib/在线之家.js"
+    },
+ {"key":"csp_xml_新浪资源","name":"🐝新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+"playUrl":"","searchable":1,"quickSearch":1
+},
     {
       "key": "暴風",
       "name": "🌀暴風",
@@ -190,19 +132,14 @@
         "海外动漫"
       ]
       },
-     {"key": "csp_无尽",
+  {"key": "csp_无尽",
    "name": "🚄无尽|海外","type": 1,
    "api": "https://api.wujinapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1
-    },
+  },
   {"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
 "playUrl":"","searchable":1,"quickSearch":1
 },
-  {"key":"csp_xml_新浪资源","name":"🐝新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-"playUrl":"","searchable":1,"quickSearch":1
-},
-
-    { "key": "乐猪TV",  "name": "乐猪影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "./lib/乐猪TV.json"    
-    },
+ 
      {
       "key": "csp_WoGG",
       "name": "🔥玩偶",
