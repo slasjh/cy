@@ -20,7 +20,7 @@
 
     {
       "key": "csp_XYQHiker_影视工场",
-      "name": "🏭工场",
+      "name": "🏭工场3443",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -28,7 +28,19 @@
       "changeable": 1,
       "ext": "./lib/影视工场.json",
       "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
-    },  
+    }, 
+        {
+      "key": "csp_Ysgc",
+      "name": "🏭工场3443",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.3443.tv/",
+      "jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"
+    },
+ 
 
 {"key": "短剧网", "name": "码上👓裙-💢短剧网", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, 
 "filterable": 1, "ext": "分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng", "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;632ADF6446656E28A9F31033F3C2F416"
@@ -45,7 +57,7 @@
 "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/短剧网.json"
 },
 
- {"key": "49zy","name": "🍚49影视",
+ {"key": "49zy","name": "🍚49",
  "type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list",
 "searchable": 1,"quickSearch": 1, "filterable": 1, "changeable": 1,
 "categories": [
@@ -219,19 +231,7 @@
    "type": 1,
    "api": "https://api.wujinapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1
     },
-    {
-      "key": "Xinsj",
-      "name": "👓视觉直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.6080yy3.com/"
-    },
 
-   {"key": "蚂蚁", "name": "🐜蚂蚁直连", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
-   }, 
   {"key": "xml_火狐",
    "name": "🚄火狐",
    "type": 1,
