@@ -17,17 +17,7 @@
   "sites": [
    {"key": "dr_时光机在线豆瓣", "name": "晨曦影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
    {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-       {
-      "key": "csp_WoGG",
-      "name": "🔥玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./token.txt",
-      "jar": "./custom_spider_stable20231030.jar;md5;3EB3583BC70B80EC673D88397967DBEC"
-    },
+      
     
     {"key": "一起看 ",
       "name": "👻一起看",
@@ -158,20 +148,6 @@
       ]
     },
 
-
-    
- {
-      "key": "csp_wogg_t4",
-      "name": "♻️玩偶[T4]",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=6cb4ab4927df42bfa42ce04213442689&sort=原画,蓝光,超清,高清",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./token.txt"
-    },
-
    {"key": "蚂蚁", "name": "🐜蚂蚁直连", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
    }, 
 
@@ -226,6 +202,28 @@
 },
 
     { "key": "乐猪TV",  "name": "乐猪影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "./lib/乐猪TV.json"    
+    },
+     {
+      "key": "csp_WoGG",
+      "name": "🔥玩偶",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./token.txt",
+      "jar": "./custom_spider_stable20231030.jar;md5;3EB3583BC70B80EC673D88397967DBEC"
+    }, 
+    {
+      "key": "csp_wogg_t4",
+      "name": "♻️玩偶[T4]",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=6cb4ab4927df42bfa42ce04213442689&sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./token.txt"
     }
           
          
