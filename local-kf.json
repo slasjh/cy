@@ -31,12 +31,15 @@
       "ext": "./lib/影视工场.json",
       "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
     },  
+
 {"key": "csp_XYQHiker_VSYY",
-"name": "🎦VSY短剧",
+"name": "🎦VS影院",
 "type": 3,"searchable": 1,    "quickSearch":1,              "filterable": 1,
 "api":"csp_XYQHiker",         "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
 "ext": "./lib/VS影院.json"
 },
+{"key": "csp_XYQHiker_子子影视","name":"子子影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./XYQHiker/子子影视.json"},
+
     {
       "key": "一起看 ",
       "name": "👻一起看👻",
