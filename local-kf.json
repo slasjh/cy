@@ -132,16 +132,7 @@
      {"key": "dr_码上看在线", "name": "在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, 
  "ext": "./lib/在线之家.js"}, 
     
-    {
-      "key": "csp_WoGG",
-      "name": "🔥玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"
-    },
+
     
    {
       "key": "量子",
@@ -229,11 +220,21 @@
    "type": 1,
    "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1
     },
+        {
+      "key": "csp_WoGG",
+      "name": "🔥玩偶",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"
+    },
     {
       "key": "csp_wogg_t4",
       "name": "🔥玩偶[T4]",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=6cb4ab4927df42bfa42ce04213442689&sort=原画,蓝光,超清,高清",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=74eee16a9a874fb185981fbc05d9b1df&sort=原画,蓝光,超清,高清",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
