@@ -88,7 +88,7 @@
         "海外剧"
       ]
     },
-   {"key": "快帆", "name": "码上👓蜜-快帆", "type": 1, "api": "https://api.kuaifan.tv/api.php/provide/vod", "searchable": 1, "changeable": 1},
+
    {"key": "應用商店", "name": "码上👓蜜-應用商店", "type": 3, "api": "csp_Market", "searchable": 0, "changeable": 0, "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json", "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d0ae5fa6fb705a6c020f930a73f44714"},
            {
             "key": "卧龙资源",
@@ -180,19 +180,7 @@
                 "战争片"
             ]
         },
-        {
-            "key": "新片热播",
-            "name": "🔷┃新片┃热播",
-            "type": 1,
-            "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "连续剧",
-                "动漫"
-            ]
-        },
+        
     		{
 			"key": "索尼资源",
 			"name": "索尼┃3K资源",
@@ -319,7 +307,70 @@
         "足球",
         "篮球"]
     },
-
+  {
+      "key": "量子资源",
+      "name": "🥑┃量子┃资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+    {
+"key": "量子云播",
+"name": "量子云播|影院",
+"type": 1,
+"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+"playUrl": "https://lziplayer.com/?url=",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"categories": [
+"动作片",
+"喜剧片",
+"爱情片",
+"科幻片",
+"恐怖片",
+"剧情片",
+"战争片",
+"国产剧",
+"香港剧",
+"韩国剧",
+"欧美剧",
+"记录片",
+"台湾剧",
+"日本剧",
+"海外剧",
+"泰国剧",
+"大陆综艺",
+"港台综艺",
+"日韩综艺",
+"欧美综艺",
+"国产动漫",
+"日韩动漫",
+"欧美动漫",
+"港台动漫",
+"海外动漫",
+"电影解说"
+]
+},
    {
       "key": "非凡",
       "name": "🍉非凡",
