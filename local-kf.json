@@ -226,6 +226,7 @@
                 "美综艺"
             ]			
         },
+
     {
       "key": "一起看 ",
       "name": "👻一起看",
@@ -413,6 +414,11 @@
    "name": "🚄无尽|海外",
    "type": 1,
    "api": "https://api.wujinapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1
+    },
+    {"key": "csp_优质",
+   "name": "🚄优质",
+   "type": 1,
+   "api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1
     },
 
   {"key": "xml_火狐",
