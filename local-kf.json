@@ -88,7 +88,7 @@
         "海外剧"
       ]
     },
-    
+   {"key": "快帆", "name": "码上👓蜜-快帆", "type": 1, "api": "https://api.kuaifan.tv/api.php/provide/vod", "searchable": 1, "changeable": 1},
     {
       "key": "一起看 ",
       "name": "👻一起看",
