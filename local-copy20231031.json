@@ -1186,7 +1186,7 @@
    {"name": "ff", "hosts": ["vip.ffzy", "hd.ffzy"], "regex": []}, 
    {"name": "bf", "hosts": ["bfzy", "s5.bfzycdn"], "regex": []}, 
    {"name": "hs", "hosts": ["huoshan.com"], "regex": ["item_id="]},   {"name": "dy", "hosts": ["douyin.com"], "regex": ["is_play_url="]},
-    {"name": "cl", "hosts": ["magnet"], "regex": ["更多","社 區","x u u","最 新","直 播","更 新","社 区","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","新片首发","UUE29"]}
+    {"name": "cl", "hosts": ["magnet"], "regex": ["更多","社 區","x u u","最 新","直 播","更 新","社 区","有 趣","英皇体育","全中文","澳门皇冠赌场","美女荷官","新片首发","UUE29"]}
     ],
 
   "flags": [
