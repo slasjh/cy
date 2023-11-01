@@ -89,6 +89,7 @@
       ]
     },
    {"key": "快帆", "name": "码上👓蜜-快帆", "type": 1, "api": "https://api.kuaifan.tv/api.php/provide/vod", "searchable": 1, "changeable": 1},
+   {"key": "應用商店", "name": "码上👓蜜-應用商店", "type": 3, "api": "csp_Market", "searchable": 0, "changeable": 0, "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json", "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d0ae5fa6fb705a6c020f930a73f44714"},
     {
       "key": "一起看 ",
       "name": "👻一起看",
