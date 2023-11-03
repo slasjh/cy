@@ -116,25 +116,29 @@
       "filterable": 1,
       "ext": "./token.txt"
     },
+  {"key": "csp_XYQHiker_子子影视","name":"子子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,
+"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/子子影视.json"
+},
+{"key": "csp_XYQHiker_奈飞中文","name":"奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
+   {"key": "csp_XYQHiker_voflixHD","name":"voflixHD","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/voflix HD.json"},
+
   {"key": "csp_XYQHiker_VSYY",
 "name": "🎦VS影院","type": 3,"searchable": 1,    "quickSearch":1,              "filterable": 1,
 "api":"csp_XYQHiker",         "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "./lib/VS影院.json"
 },
-{"key": "csp_XYQHiker_子子影视","name":"子子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,
-"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/子子影视.json"
-},
+
 {"key": "csp_XYQHiker_短剧网","name":"💢短剧网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/短剧网.json"
 },
  {"key": "csp_XYQHiker_好戏网","name":"好戏网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/好戏网.json"},
  {"key": "csp_XYQHiker_秋霞电影","name":"🦞秋霞电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/秋霞电影.json"},
  {"key": "csp_XYQHiker_555影视","name":"555影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
- {"key": "csp_XYQHiker_奈飞中文","name":"奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
+ 
  {"key": "csp_XYQHiker_MOFLIX影院","name":"MOFLIX影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/MOFLIX影院.json"},
  {"key": "csp_XYQHiker_奇趣影视","name":"奇趣影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奇趣影视.json"},
  {"key": "csp_XYQHiker_厂长影视","name":"厂长影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/厂长影视.json"},
  {"key": "csp_XYQHiker_锐行加速影院","name":"锐行加速影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/锐行加速影院.json"},
-   {"key": "csp_XYQHiker_voflixHD","name":"voflixHD","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/voflix HD.json"},
+
 
   {"key": "xml_火狐",
    "name": "🚄火狐资源",
@@ -157,7 +161,22 @@
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1},
-    
+   { "key": "速博资源",
+            "name": "速播资源",
+            "type": 1,
+            "api": "https://subocaiji.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+    {
+      "key": "csp_xml_享看",
+      "name": "♻️享看资源",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://xkanzy10.com/api.php/provide/vod" },
         {"key":"快看","name":"🍎快看资源","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/","categories": [              
                "国产剧",
                 "韩国剧",
@@ -180,14 +199,7 @@
                 "综艺",
                 "动漫"] },
 
-  {
-      "key": "csp_xml_享看",
-      "name": "♻️享看资源",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://xkanzy10.com/api.php/provide/vod" },
+  
  {"key":"csp_xml_新浪资源","name":"🐝新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
 "playUrl":"","searchable":1,"quickSearch":1},
     {
@@ -228,58 +240,7 @@
         "港台动漫",
         "海外动漫" ]
       },
-     { "key": "速博资源",
-            "name": "速播资源",
-            "type": 1,
-            "api": "https://subocaiji.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-     {
-            "key": "虎牙",
-            "name": "虎牙资源",
-            "type": 1,
-            "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "内地剧",
-                "动作片",
-                "科幻片",
-                "战争片",
-                "喜剧片",
-                "爱情片",
-                "恐怖片",
-                "犯罪片",
-                "剧情片",
-                "冒险片",
-                "记录片",
-                "呢理片",
-                "韩剧",
-                "香港剧",
-                "台湾剧",
-                "欧美剧",
-                "日剧",
-                "马泰剧",
-                "体育赛事",
-                "综艺",
-                "动画片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫"
-            ]
-        },
-  {"key": "csp_无尽",
-   "name": "🚄无尽资源","type": 1,
-   "api": "https://api.wujinapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
-  {"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
-"playUrl":"","searchable":1,"quickSearch":1},
-
-  {"key":"csp_xml_新浪资源","name":"🐝新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-"playUrl":"","searchable":1,"quickSearch":1},
-
-{"key": "49zy","name": "🍚49资源",
+  {"key": "49zy","name": "🍚49资源",
  "type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list",
 "searchable": 1,"quickSearch": 1, "filterable": 1, "changeable": 1,
 "categories": [
@@ -315,9 +276,16 @@
         "悬疑片",
         "其他片",
         "体育赛事",
-        "海外剧"
-      ]
-    },
+        "海外剧" ]
+    },   
+     
+  {"key": "csp_无尽",
+   "name": "🚄无尽资源","type": 1,
+   "api": "https://api.wujinapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
+  {"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+"playUrl":"","searchable":1,"quickSearch":1},
+
+
             {
             "key": "csp_SNzy",
             "name": "🐉索尼3k资源",
@@ -364,7 +332,7 @@
    "type": 1,
    "api": "https://api.ukuapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1
     },
-   {
+       {
             "key": "卧龙资源",
             "name": "卧龙资源",
             "type": 1,
@@ -375,10 +343,41 @@
                 "国产剧",
                 "香港剧",
                 "恐怖片",
-                "动作片"
-            ]
+                "动作片"]
         },
-
+      {
+            "key": "虎牙",
+            "name": "虎牙资源",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "内地剧",
+                "动作片",
+                "科幻片",
+                "战争片",
+                "喜剧片",
+                "爱情片",
+                "恐怖片",
+                "犯罪片",
+                "剧情片",
+                "冒险片",
+                "记录片",
+                "呢理片",
+                "韩剧",
+                "香港剧",
+                "台湾剧",
+                "欧美剧",
+                "日剧",
+                "马泰剧",
+                "体育赛事",
+                "综艺",
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫"]
+        },
 
   { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
      }
