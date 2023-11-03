@@ -53,6 +53,7 @@
  {"key": "csp_XYQHiker_奇趣影视","name":"奇趣影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奇趣影视.json"},
  {"key": "csp_XYQHiker_厂长影视","name":"厂长影视(XYQH)","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/厂长影视.json"},
  {"key": "csp_XYQHiker_锐行加速影院","name":"锐行加速影院(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/锐行加速影院.json"},
+   {"key": "csp_XYQHiker_voflixHD","name":"voflixHD(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/voflix HD.json"},
  {"key": "49zy","name": "🍚49",
  "type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list",
 "searchable": 1,"quickSearch": 1, "filterable": 1, "changeable": 1,
