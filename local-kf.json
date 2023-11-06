@@ -530,11 +530,7 @@
    "type": 0,
    "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1
     },
-       {"key": "影图资源",
-   "name": "影图资源",
-   "type": 1,
-   "api": "https://cj.voding.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1
-    },
+
 
     		{
 			"key": "秒看资源",
@@ -551,19 +547,18 @@
 			]
 		},
 {"key":"394tv","name":"39","type":1,"api":"https://www.394tv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
-{"key":"languang","name":"蓝光","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
 {"key":"lehuo","name":"乐活","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
 {"key":"piaoling","name":"飘零","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
+
 {"key":"feisu","name":"飞速","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/","searchable": 1,"quickSearch": 1 },
 {"key":"guangsu","name":"光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/","searchable": 1,"quickSearch": 1 },
-
 {"key":"jinying","name":"金鹰","type":1,"api":"https://jinyingzy.com/provide/vod/from/jinyingm3u8/","searchable": 1,"quickSearch": 1 },
 {"key":"jisu","name":"极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable": 1,"quickSearch": 1 },
 {"key":"kuaiche","name":"快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/","searchable": 1,"quickSearch": 1 },
 {"key":"qihu","name":"奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","searchable": 1,"quickSearch": 1 },
 
-{"key":"哈喽","name":"影视 | 哈喽","type":3,"api":"./lib/AppYsV2.js","ext":"http://www.miniku.cc/xgapp.php/v1/"},
-{"key":"1080dyw","name":"影视 | 视界","type":3,"api":"./lib/AppYsV2.js","ext":"https://www.1080dyw.cc/api.php/v1.vod"},
+{"key":"哈喽","name":"影视 | 哈喽","type":1,"api":"http://www.miniku.cc/xgapp.php/v1/"},
+{"key":"1080dyw","name":"影视 | 视界","type":1,"api":"https://www.1080dyw.cc/api.php/v1.vod"},
 {"key":"miniku","name":"影视 | 迷你","type":3,"api":"./lib/AppYsV2.js","ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"aidi","name":"影视 | 爱迪","type":3,"api":"./lib/AppYsV2.js","ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"yaya","name":"影视 | 鸭鸭","type":3,"api":"./lib/AppYsV2.js","ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
@@ -577,7 +572,7 @@
 {"key":"sukan","name":"影视 | 速看","type":3,"api":"./lib/AppYsV2.js","ext":"https://sk100.tv/api.php/app/"},
 {"key":"midi","name":"影视 | 明帝","type":3,"api":"./lib/AppYsV2.js","ext":"https://ys.md214.cn/api.php/app/"},
 {"key":"dadou","name":"影视 | 大豆","type":3,"api":"./lib/AppYsV2.js","ext":"http://www.dadou.cm/api.php/app/"},
-{"key":"qtw","name":"影视 | 彩虹","type":3,"api":"./lib/AppYsV2.js","ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
+{"key":"qtw","name":"影视 | 彩虹","type":1,"api":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
 
     
      {"key": "Mino", "name": "码上👓饭-👻Mino┃App", "type": 3, "api": "csp_AppMao", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
