@@ -93,28 +93,6 @@
    }, 
 
     { "key": "乐猪TV",  "name": "🐷乐猪影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "./lib/乐猪TV.json"    },
-   {
-      "key": "csp_WoGG",
-      "name": "🔥玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./token.txt",
-      "jar": "./custom_spider_stable20231030.jar;md5;3EB3583BC70B80EC673D88397967DBEC"
-    }, 
-    {
-      "key": "csp_wogg_t4",
-      "name": "🔥玩偶[T4]",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=6cb4ab4927df42bfa42ce04213442689&sort=原画,蓝光,超清,高清",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./token.txt"
-    },
   {"key": "csp_XYQHiker_子子影视","name":"子子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,
 "filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/子子影视.json"
 },
