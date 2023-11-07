@@ -3,6 +3,7 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "晨曦免费制作，不要相信任何广告，拒绝扫码，谨防受骗！！！",
   "lives": [
+    {"name":"YuanHsing•油管","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"},
     {
       "name": "live",
       "type": 0,
@@ -24,8 +25,8 @@
 {"name":"肥羊•斗鱼","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u","playerType":1},
 {"name":"肥羊•虎牙","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u","playerType":1},
 {"name":"肥羊•YY","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yylunbo.m3u","playerType":1},
-{"name":"初秋语•哔哩","type":0,"url":"./bili.m3u","playerType":1},
-{"name":"YuanHsing•油管","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"}
+{"name":"初秋语•哔哩","type":0,"url":"./bili.m3u","playerType":1}
+
   ],
 
   "sites": [
