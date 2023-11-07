@@ -53,9 +53,7 @@
 "name": "🎦VS影院","type": 3,"searchable": 1,    "quickSearch":1,              "filterable": 1,
 "api":"csp_XYQHiker",         "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "./lib/VS影院.json"
 },
-{"key": "csp_XYQHiker_子子影视","name":"子子影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,
-"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/子子影视.json"
-},
+
 {"key": "csp_XYQHiker_短剧网","name":"短剧网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/短剧网.json"
 },
@@ -65,7 +63,7 @@
  {"key": "csp_XYQHiker_奈飞中文","name":"奈飞中文(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
  {"key": "csp_XYQHiker_MOFLIX影院","name":"MOFLIX影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/MOFLIX影院.json"},
  {"key": "csp_XYQHiker_奇趣影视","name":"奇趣影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奇趣影视.json"},
- {"key": "csp_XYQHiker_厂长影视","name":"厂长影视(XYQH)","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/厂长影视.json"},
+ 
  {"key": "csp_XYQHiker_锐行加速影院","name":"锐行加速影院(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/锐行加速影院.json"},
    {"key": "csp_XYQHiker_voflixHD","name":"voflixHD(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/voflix HD.json"},
    {"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/哔嘀影视.json"},
@@ -526,11 +524,7 @@
 {"key":"jisu","name":"极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable": 1,"quickSearch": 1 },
 {"key":"kuaiche","name":"快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/","searchable": 1,"quickSearch": 1 },
 {"key":"qihu","name":"奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","searchable": 1,"quickSearch": 1 },
-
-
-    
-     {"key": "Mino", "name": "码上👓饭-👻Mino┃App", "type": 3, "api": "csp_AppMao", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
-     },    
+  
 
      { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
      },
