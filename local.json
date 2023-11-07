@@ -108,19 +108,17 @@
  {"key": "csp_XYQHiker_秋霞电影","name":"🦞秋霞电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/秋霞电影.json"},
  {"key": "csp_XYQHiker_555影视","name":"555影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
  
- {"key": "csp_XYQHiker_MOFLIX影院","name":"MOFLIX影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/MOFLIX影院.json"},
  {"key": "csp_XYQHiker_奇趣影视","name":"奇趣影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奇趣影视.json"},
  
  {"key": "csp_XYQHiker_锐行加速影院","name":"锐行加速影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/锐行加速影院.json"},
 {"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/哔嘀影视.json"},
    {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆鸭奈飞影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
   {"key": "csp_XYQHiker_爱看影院","name":"爱看影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/爱看影院.json"},
-   {"key": "csp_XYQHiker_宝仙HD","name":"宝仙HD(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/宝仙HD.json"},
 {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/4KHDR.json"},
 
-{"key":"394tv","name":"39","type":1,"api":"https://www.394tv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
-{"key":"lehuo","name":"乐活","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
-{"key":"piaoling","name":"飘零","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
+{"key":"394tv","name":"39影视","type":1,"api":"https://www.394tv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
+{"key":"lehuo","name":"乐活影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
+{"key":"piaoling","name":"飘零影视","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
 
 
   {"key": "xml_火狐",
@@ -366,28 +364,12 @@
    "type": 0,
    "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1
     },
-
-
-    		{
-			"key": "秒看资源",
-			"name": "秒看┃切片",
-			"type": 1,
-			"api": "https://www.xy1080.net/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"综艺",
-				"电视剧",
-				"电影",
-				"动漫"
-			]
-		},
-{"key":"feisu","name":"飞速","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/","searchable": 1,"quickSearch": 1 },
-{"key":"guangsu","name":"光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/","searchable": 1,"quickSearch": 1 },
-{"key":"jinying","name":"金鹰","type":1,"api":"https://jinyingzy.com/provide/vod/from/jinyingm3u8/","searchable": 1,"quickSearch": 1 },
-{"key":"jisu","name":"极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable": 1,"quickSearch": 1 },
-{"key":"kuaiche","name":"快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/","searchable": 1,"quickSearch": 1 },
-{"key":"qihu","name":"奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","searchable": 1,"quickSearch": 1 },
+{"key":"feisu","name":"飞速资源","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/","searchable": 1,"quickSearch": 1 },
+{"key":"guangsu","name":"光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/","searchable": 1,"quickSearch": 1 },
+{"key":"jinying","name":"金鹰资源","type":1,"api":"https://jinyingzy.com/provide/vod/from/jinyingm3u8/","searchable": 1,"quickSearch": 1 },
+{"key":"jisu","name":"极速资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable": 1,"quickSearch": 1 },
+{"key":"kuaiche","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/","searchable": 1,"quickSearch": 1 },
+{"key":"qihu","name":"奇虎资源","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","searchable": 1,"quickSearch": 1 },
 
 
   { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
