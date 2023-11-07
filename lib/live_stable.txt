@@ -3,6 +3,7 @@
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
+
 🇨🇳央视频道,#genre#
 CCTV-1综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
@@ -155,10 +156,29 @@ CCTV16-4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cct
 高二540P,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三540P,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
-🇨🇳香港频道,#genre#
+🇨🇳港澳台频道,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+民视,http://iiimkk.v2.goodday2.top/smt.php?id=ftvhd_taiwan
+台视新闻,http://iiimkk.v2.goodday2.top/smt.php?id=ttvnews_twn
+华视,http://iiimkk.v2.goodday2.top/smt.php?id=ctshd_twn
+中视,http://iiimkk.v2.goodday2.top/smt.php?id=zhongshihd_twn
+公视,http://iiimkk.v2.goodday2.top/smt.php?id=ctv_taiwan
+中视新闻,http://iiimkk.v2.goodday2.top/smt.php?id=ca73a13c37
+中视新闻,http://iiimkk.v2.goodday2.top/smt.php?id=zhongshinews_twn
+民视新闻台,http://iiimkk.v2.goodday2.top/smt.php?id=ftvnew_taiwan
+民视台湾台,http://iiimkk.v2.goodday2.top/smt.php?id=ftvtaiwan_twn
+民视第一台,http://iiimkk.v2.goodday2.top/smt.php?id=lunghuajingdian_twn
+三立台湾,http://iiimkk.v2.goodday2.top/smt.php?id=sanlitaiwan
+三立综合台,http://iiimkk.v2.goodday2.top/smt.php?id=sanlizhonghe
+三立戏剧台,http://iiimkk.v2.goodday2.top/smt.php?id=sanlixiju_twn
+中天综合,http://iiimkk.v2.goodday2.top/smt.php?id=ctizhonghe
+中天娱乐,http://iiimkk.v2.goodday2.top/smt.php?id=ctient
+中天新闻,http://iiimkk.v2.goodday2.top/smt.php?id=ctinews
+中天亚洲台,http://iiimkk.v2.goodday2.top/smt.php?id=ctiasia_twn
+TVBS,http://iiimkk.v2.goodday2.top/smt.php?id=tvbs
+TVBS新闻台,http://iiimkk.v2.goodday2.top/smt.php?id=tvbs_n
 
 直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
