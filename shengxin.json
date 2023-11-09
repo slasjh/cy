@@ -15,7 +15,7 @@
   ],
 
   "sites": [
-   {"key": "dr_在线豆瓣", "name": "X影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
+   
     
     
  //备用    {"key": "一起看 ","name": "🚄专线(1)","type": 3,"api": "csp_YQKan",
