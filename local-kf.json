@@ -143,15 +143,15 @@
 
 {"key":"394tv","name":"39影视","type":1,"api":"https://www.394tv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
 {"key":"lehuo","name":"乐活影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
+{"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"piaoling","name":"飘零影视","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
 {"key": "xgapp","name": "🎦西瓜秒播","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
-{"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 
 {"key": "csp_黑狐","name": "🎦黑狐┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/heihu.json"},
-{"key":"OXS","name":"🚆O先生影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+
 #优质资源
-    {"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-       
+ 
+  {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { 			
 "key": "csp_xpath_yinfans", 			"name": "💥音范丝4K", 			"type": 3, 			
 "api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
@@ -402,15 +402,7 @@
       "filterable": 1,
       "ext": "./token.txt"
     },
-{"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js","playerType":"2"},
-{"key":"drpy_js_相声随身听","name":"相声 | 相声随身听[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/相声随身听.js","playerType":"2"},
-{"key":"drpy_js_i275听书","name":"听书 | i275听书[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/i275听书.js","playerType":"2"},
-{"key":"drpy_js_喜马拉雅","name":"听书 | 喜马拉雅[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/喜马拉雅.js","playerType":"2"},
-{"key":"drpy_js_六月听书","name":"听书 | 六月听书[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六月听书.js","playerType":"2"},
-{"key":"drpy_js_博看听书","name":"听书 | 博看听书[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/博看听书.js","playerType":"2"},
-{"key":"drpy_js_海洋听书","name":"听书 | 海洋听书[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/海洋听书.js","playerType":"2"},
-{"key":"drpy_js_听书网","name":"听书 | 听书网[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/听书网.js","playerType":"2"},
-{"key":"drpy_js_有声小说","name":"听书 | 有声小说[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/有声小说吧.js","playerType":"2"},
+
 
   { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
      }
