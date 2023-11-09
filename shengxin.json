@@ -16,18 +16,16 @@
 
   "sites": [
    
-    
-    
- //备用    {"key": "一起看 ","name": "🚄专线(1)","type": 3,"api": "csp_YQKan",
- //    "searchable": 1,"quickSearch": 1, "changeable": 1},
-{"key": "yqikan",    "name": "🚄专线(1)",  "type": 3, "api": "csp_YQKAPP",
-    "ext": "https://api-aws.ctdy.cc",   "jar": "./lib/fix1170.jar"},
-
-
-    {"key": "ok", "name": "🚄专线(2)", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
+      {"key": "ok", "name": "🚄专线(1)", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
     "quickSearch": 1,"playerType": "1",  "ext":"./lib/free.json"},
-//备用{"key": "csp_Free", "name": "🚄专线(2)", "type": 3, "api": "csp_XBPQ","searchable": 1,
-//"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json","jar": "./lib/小米ab.jar" },
+//备用{"key": "csp_Free", "name": "🚄专线(1)", "type": 3, "api": "csp_XBPQ","searchable": 1,
+//"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json","jar": "./lib/小米ab.jar" }, 
+    
+
+ //备用    {"key": "一起看 ","name": "🚄专线(2)","type": 3,"api": "csp_YQKan",
+ //    "searchable": 1,"quickSearch": 1, "changeable": 1},
+{"key": "yqikan",    "name": "🚄专线(2)",  "type": 3, "api": "csp_YQKAPP",
+    "ext": "https://api-aws.ctdy.cc",   "jar": "./lib/fix1170.jar"},
 
 
     { "key": "Xinsj","name": "🚄专线(3)", "type": 3,"api": "csp_Xinsj","searchable": 1,
