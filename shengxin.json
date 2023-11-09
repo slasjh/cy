@@ -22,16 +22,16 @@
 //"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json","jar": "./lib/小米ab.jar" }, 
     
 
- //备用    {"key": "一起看 ","name": "🚄专线(2)","type": 3,"api": "csp_YQKan",
- //    "searchable": 1,"quickSearch": 1, "changeable": 1},
-{"key": "yqikan",    "name": "🚄专线(2)",  "type": 3, "api": "csp_YQKAPP",
-    "ext": "https://api-aws.ctdy.cc",   "jar": "./lib/fix1170.jar"},
+    {"key": "一起看 ","name": "🚄专线(2)","type": 3,"api": "csp_YQKan",
+   "searchable": 1,"quickSearch": 1, "changeable": 1},
+ //备用{"key": "yqikan",    "name": "🚄专线(2)",  "type": 3, "api": "csp_YQKAPP",
+  //    "ext": "https://api-aws.ctdy.cc",   "jar": "./lib/fix1170.jar"},
 
 
-    { "key": "Xinsj","name": "🚄专线(3)", "type": 3,"api": "csp_Xinsj","searchable": 1,
-      "quickSearch": 1,"changeable": 0,"ext": "https://www.6080yy3.com/"},
- //备用   {"key":"csp_视觉","name":"🚄专线(3)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
-// "filterable":1,"ext":"./lib/xinshijue.json"},
+ //备用     { "key": "Xinsj","name": "🚄专线(3)", "type": 3,"api": "csp_Xinsj","searchable": 1,
+ //     "quickSearch": 1,"changeable": 0,"ext": "https://www.6080yy3.com/"},
+  {"key":"csp_视觉","name":"🚄专线(3)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
+ "filterable":1,"ext":"./lib/xinshijue.json"},
 
 
     {"key": "dr_看在线", "name": "🚄专线(4)", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "./lib/在线之家.js"},
