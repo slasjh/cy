@@ -146,12 +146,93 @@
 {"key":"piaoling","name":"飘零影视","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1 },
 {"key": "xgapp","name": "🎦西瓜秒播","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
-{"key":"酷影","name":"🎦酷影┃2K","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+
 {"key": "csp_黑狐","name": "🎦黑狐┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/heihu.json"},
 {"key":"OXS","name":"🚆O先生影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 #优质资源
     {"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+       {
+            "key": "ky", 
+            "name": "👑酷影4k┃APP", 
+            "type": 3, 
+            "api": "csp_AppYsV2", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "http://cms.realdou.cn/api.php/app/","categories":["4K电视剧","4K电影","儿童4K","电视剧","电影","动漫","综艺"]},
+   {
+            "key": "dr_ymzz",
+            "name": "👑猫技至尊4K👑",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E8%B7%AF%E4%BA%BA%E9%A3%9E.js"},   
+    {
+            "key": "dr_ymzx",
+            "name": "👑猫技尊享4K👑",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/猫技尊享.js"}, 
+     {"key":"影探4K","name":"👑公众号猫技4K👑","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"http://ytcms.lfytyl.com/api.php/app/"},
+ 
+    {
+            "key": "dr_ymry",
+            "name": "👑猫技如意4K👑",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/如意_V2_.js"},         
+  {
+            "key": "飞",
+            "name": "👑猫技云4K👑",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/飞云4k.json" }, 
+   {
+            "key": "ymzy",
+            "name": "👑猫技自营蓝光👑",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E8%87%AA%E8%90%A5.js"
+        },          
+        {"key":"EMO","name":"👑猫技蓝光APP👑","type":3,"api":"csp_AppYsV2","ext":"https://one2.emofun.top/mogai_api.php/v1.vod"},
+          {   "key": "csp_XYQHiker_‍dyx",      "name": "🚢电影港磁力4k",      
+      "type": 3,      
+      "api": "csp_XYQHiker", 
+      "searchable": 1,                     "quickSearch": 1,      
+      "filterable": 1,      
+      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/电影港.json"}, 
 
+   { 			
+"key": "csp_xpath_yinfans", 			"name": "💥音范丝4K", 			"type": 3, 			
+"api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
+"ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"},  
+{"key": "ity","name": "爱TV丨4k","type": 3,"api": "csp_XBPQ","playerType":2,"ext": {"数组":"<div class=\"stui-vodlist__box\">&&</div>","副标题":"<span class=\"pic-text text-right\"><b>&&</b></span>","分类":"电影$1#电视剧$2#动漫$4#综艺$3#记录$5#动画片$6","分类url":"https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"}},   
+   {"key":"drpy_js_荐片","name":"👑 | 荐片蓝光","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/荐片1.js","playerType":"1"},       
+  {
+            "key": "csp_kkj",
+            "name": "👁️看看剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E7%9C%8B%E7%9C%8B%E5%89%A7.json"},   
+ 
+   {"key":"csp_slgq","name":"🏵️石榴蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/石榴高清.json"}, 
+{
+            "key": "dr_ymi",
+            "name": "⭐┃映迷蓝光┃",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/映迷影院.js"},  
+
+{
+            "key": "dr_xc",
+            "name": "⭐┃星辰蓝光┃",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/星辰.js"}, 
+            
 
   {"key": "xml_火狐",
    "name": "🚄火狐资源",
