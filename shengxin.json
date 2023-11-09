@@ -16,31 +16,31 @@
 
   "sites": [
    
-      {"key": "ok", "name": "🚄专线(1)", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
+      {"key": "ok", "name": "🚄X影视专线①", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
     "quickSearch": 1,"playerType": "1",  "ext":"./lib/free.json"},
-//备用{"key": "csp_Free", "name": "🚄专线(1)", "type": 3, "api": "csp_XBPQ","searchable": 1,
+//备用{"key": "csp_Free", "name": "🚄X影视专线①", "type": 3, "api": "csp_XBPQ","searchable": 1,
 //"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json","jar": "./lib/小米ab.jar" }, 
     
 
-    {"key": "一起看 ","name": "🚄专线(2)","type": 3,"api": "csp_YQKan",
+    {"key": "一起看 ","name": "🚄X影视专线②","type": 3,"api": "csp_YQKan",
    "searchable": 1,"quickSearch": 1, "changeable": 1},
- //备用{"key": "yqikan",    "name": "🚄专线(2)",  "type": 3, "api": "csp_YQKAPP",
+ //备用{"key": "yqikan",    "name": "🚄X影视专线②",  "type": 3, "api": "csp_YQKAPP",
   //    "ext": "https://api-aws.ctdy.cc",   "jar": "./lib/fix1170.jar"},
 
 
- //备用     { "key": "Xinsj","name": "🚄专线(3)", "type": 3,"api": "csp_Xinsj","searchable": 1,
+ //备用     { "key": "Xinsj","name": "🚄X影视专线(3)", "type": 3,"api": "csp_Xinsj","searchable": 1,
  //     "quickSearch": 1,"changeable": 0,"ext": "https://www.6080yy3.com/"},
-  {"key":"csp_视觉","name":"🚄专线(3)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
+  {"key":"csp_视觉","name":"🚄X影视专线(3)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"./lib/xinshijue.json"},
 
 
-    {"key": "dr_看在线", "name": "🚄专线(4)", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "./lib/在线之家.js"},
-  //备用 {"key": "csp_XYQHiker_在线之家","name":"🚄专线(4)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,//"ext":"./lib/在线之家.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+    {"key": "dr_看在线", "name": "🚄X影视专线(4)", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "./lib/在线之家.js"},
+  //备用 {"key": "csp_XYQHiker_在线之家","name":"🚄X影视专线(4)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,//"ext":"./lib/在线之家.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
 
 
-//备用     {"key": "csp_Ysgc","name": "🚄专线(5)","type": 3, "api": "csp_Ysgc", "searchable": 1,"quickSearch": 1,"changeable": 1,
+//备用     {"key": "csp_Ysgc","name": "🚄X影视专线(5)","type": 3, "api": "csp_Ysgc", "searchable": 1,"quickSearch": 1,"changeable": 1,
 //      "ext": "https://www.ysgc3.cc/","jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"},
- {"key": "csp_XYQHiker_影视工场","name": "🚄专线(5)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
+ {"key": "csp_XYQHiker_影视工场","name": "🚄X影视专线(5)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
 "changeable": 1,"ext": "./lib/影视工场.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
 
    {"key": "dr_看动漫", "name": "🔥动漫特供", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
