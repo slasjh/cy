@@ -375,6 +375,27 @@
             ]
         },
    
+ {
+      "key": "csp_WoGG",
+      "name": "🔥玩偶",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"
+    },
+    {
+      "key": "csp_wogg_t4",
+      "name": "🔥玩偶[T4]",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=74eee16a9a874fb185981fbc05d9b1df&sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./token.txt"
+    },
 
 
   { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
