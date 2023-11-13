@@ -17,33 +17,7 @@
   "sites": [
    {"key": "dr_时光机在线豆瓣", "name": "晨曦影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
    {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-   {
-            "key": "南瓜",
-            "name": "🎃南瓜┃App",
-            "type": 3,
-            "api": "csp_NanGua",
- "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",        
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },   
-   {
-            "key": "Bili",
-            "name": "🅱哔哔┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
-        },     
-    
+  
     {"key": "一起看 ",
       "name": "👑一起看",
       "type": 3,
@@ -165,7 +139,46 @@
     
   { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
      },
+      {
+            "key": "南瓜",
+            "name": "🎃南瓜┃App",
+            "type": 3,
+            "api": "csp_NanGua",
+ "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",        
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },   
+   {
+            "key": "Bili",
+            "name": "🅱哔哔┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
+        },     
+    
 #4K
+{"key": "jar_码上看玩偶", "name": "🔥码上看玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"},
+    {
+      "key": "csp_wogg_t4",
+      "name": "🔥玩偶[T4]",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=74eee16a9a874fb185981fbc05d9b1df&sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./token.txt"
+    },
 
   {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { 			
