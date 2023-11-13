@@ -1,7 +1,7 @@
 {
   "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "X影视友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
+  "warningText": "影视友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
   "lives": [
     {
       "name": "live",
@@ -15,7 +15,7 @@
   ],
 
   "sites": [
-   {"key": "dr_时光机在线豆瓣", "name": "X影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
+   {"key": "dr_时光机在线豆瓣", "name": "影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
    {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
    
     
