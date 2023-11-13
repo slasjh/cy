@@ -149,7 +149,7 @@
             "quickSearch": 1,
             "changeable": 1
         },  
-        {"key": "js_nangua", "name": "码上👓多-🎃┃南瓜┃影视", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"} 
+        {"key": "js_nangua", "name": "码上👓多-🎃┃南瓜┃影视", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"} ,
    {
             "key": "Bili",
             "name": "🅱哔哔┃合集",
