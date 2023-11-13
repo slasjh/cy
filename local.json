@@ -148,7 +148,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },   
+        },  
+        {"key": "js_nangua", "name": "码上👓多-🎃┃南瓜┃影视", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"} 
    {
             "key": "Bili",
             "name": "🅱哔哔┃合集",
@@ -167,6 +168,7 @@
   {"key": "dr_码上看荐片", "name": "🔥荐片", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 0, "filterable": 1, "ext": "./lib/荐片.js"},    
 
   {"key": "lurenjia", "name": "路人甲影视", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="},
+  {"key": "csp_XBP南坊", "name": "码上👓米-🏡南坊┃影视", "type": 3, "api": "csp_XBPQ", "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"站名": "南坊影视", "主页url": "https://www.nfapp.fun/appto/v1/home/cateData?id=1", "请求头": "User-Agent$Dart/2.10 (dart:io)", "数组": "{&&}", "播放二次截取": "&&[替换]", "播放列表": "{&&}", "跳转解析": "默认$空#主线[A]$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#主线[B]$http://110.42.3.71:5000/api/jiexi/xg?Key=IljsrKnj7T0M38IEWh&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=", "搜索url": "https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type", "分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0t", "分类": "电影$2#电视剧$1#综艺$4#动漫$3"}},
   
 #4K
 {"key": "jar_码上看玩偶", "name": "🔥玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"},
