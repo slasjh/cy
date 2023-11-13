@@ -1,7 +1,7 @@
 {
   "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "晨曦影视友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
+  "warningText": "X影视友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
   "lives": [
     {
       "name": "live",
@@ -15,34 +15,9 @@
   ],
 
   "sites": [
-   {"key": "dr_时光机在线豆瓣", "name": "晨曦影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
+   {"key": "dr_时光机在线豆瓣", "name": "X影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
    {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-   {
-            "key": "南瓜",
-            "name": "🎃南瓜┃App",
-            "type": 3,
-            "api": "csp_NanGua",
- "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",        
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },   
-   {
-            "key": "Bili",
-            "name": "🅱哔哔┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
-        },     
+   
     
     {"key": "一起看 ",
       "name": "👑一起看",
@@ -163,13 +138,55 @@
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"
     }, 
 
+#4K资源
+{"key": "jar_码上看玩偶", "name": "🔥码上看玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"},
+{
+  "key": "csp_wogg_t4",
+      "name": "🔥玩偶[T4]",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=74eee16a9a874fb185981fbc05d9b1df&sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./token.txt"
+    },
+
   {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { 			
 "key": "csp_xpath_yinfans", 			"name": "💥音范丝4K", 			"type": 3, 			
 "api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
 "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"}, 
-
-
+   {
+            "key": "南瓜",
+            "name": "🎃南瓜┃App",
+            "type": 3,
+            "api": "csp_NanGua",
+ "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",        
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },   
+   {
+            "key": "Bili",
+            "name": "🅱哔哔┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
+        }, 
+        
+  { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
+     }, 
+#接口资源
   {"key": "xml_火狐",
    "name": "🚄火狐资源",
    "type": 1,
@@ -235,7 +252,7 @@
 
    {"key": "csp_U酷","name": "🚄U酷资源","type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","犯罪片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","搞笑","音乐"] },
 
-       {"key": "卧龙资源","name": "卧龙资源","type": 1,"api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+   {"key": "卧龙资源","name": "卧龙资源","type": 1,"api": "https://collect.wolongzyw.com/api.php/provide/vod/",
   "searchable": 1,"quickSearch": 1,"categories": ["动作片","喜剧片","科幻片","惊悚片","恐怖片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","香港剧","韩国剧","泰国剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
       {"key": "虎牙","name": "虎牙资源","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable": 1,
@@ -255,16 +272,37 @@
 
 {"key":"qihu","name":"奇虎资源","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","searchable": 1,"quickSearch": 1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"] },
 
+ {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-  { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
-     }
+ {"key":"天空资源","name":"天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1"quickSearch":1},
+{"key": "csp_xml_ckzy","name": "🈁CK", "type": 1,
+ "api": "https://ckzy.me/api.php/provide/vod/?ac=list",  "searchable": 1, "quickSearch": 1,
+ "filterable": 1, "playUrl": "", "playerType": 2,
+ "categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "悬疑片",  "剧情片", "战争片", "记录片", "动画电影", "国产剧",
+ "欧美剧", "犯罪片", "香港剧", "韩国剧", "泰剧", "港台剧", "日韩剧", "海外剧", "其他剧",  "悬疑片", "奇幻片",  "动画片", "体育赛事",
+ "中国动漫", "日本动漫", "欧美动漫", "港台动漫",  "海外动漫",  "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"  ]},
+ { "key": "淘片资源", "name": "🐁淘片",  "type": 1, "api": "https://taopianapi.com/cjapi/mc/vod/json.html","searchable": 1, "quickSearch": 1 },
+{ "key": "搜狐资源", "name": "🦊搜狐", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",
+  "playUrl": "https://jx.xmflv.com/?url=", "searchable": 1, "quickSearch": 1, "filterable": 1,
+   "categories": [ "国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "战争片", "奇幻片",  "喜剧片",
+  "爱情片", "恐怖片", "犯罪片", "悬疑片", "惊悚片", "剧情片","冒险片", "记录片", "综艺", "动漫"  ]},
+
+ {"key": "js_i275听书", "name": "码上👓多-📚️┃听书┃i275", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/i275.js"},  
+ {"key": "js_六月听书", "name": "码上👓多-📚️┃听书┃六月", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/6yue.js"}, 
+ {"key": "js_听书网", "name": "码上👓多-📚️┃听书┃天天", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/tingshu.js"}, {"key": "js_有声小说", "name": "码上👓多-📚️┃听书┃有声", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/yousheng.js"}, {"key": "js_中华听书网", "name": "码上👓多-📚️┃听书┃中华", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/zhonghua.js"},
+
+
+
+
+
+{"key": "js_博看听书", "name": "码上👓多-📚️┃听书┃博看", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/bokan.js"} 
+ 
+
           
          
 
-
-
  
-  //结尾  
+#结尾  
   ],
 
   "parses": [
