@@ -162,6 +162,10 @@
       "filterable": 1,
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"
     }, 
+    
+  { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
+     },
+#4K
 
   {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { 			
@@ -256,8 +260,10 @@
 {"key":"qihu","name":"奇虎资源","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","searchable": 1,"quickSearch": 1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"] },
 
 
-  { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
-     }
+     {"key": "js_i275听书", "name": "码上👓多-📚️┃听书┃i275", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/i275.js"},  
+ {"key": "js_六月听书", "name": "码上👓多-📚️┃听书┃六月", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/6yue.js"}, 
+ {"key": "js_听书网", "name": "码上👓多-📚️┃听书┃天天", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/tingshu.js"}, {"key": "js_有声小说", "name": "码上👓多-📚️┃听书┃有声", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/yousheng.js"}, {"key": "js_中华听书网", "name": "码上👓多-📚️┃听书┃中华", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/zhonghua.js"},
+{"key": "js_博看听书", "name": "码上👓多-📚️┃听书┃博看", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/bokan.js"}
           
          
 
