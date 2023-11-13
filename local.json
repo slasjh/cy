@@ -162,7 +162,7 @@
             "changeable": 0,
             "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
         },  
-  {"key": "dr_码上看荐片", "name": "🔥码上看荐片", "type": 3, "api": "./sites/码上/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 0, "filterable": 1, "ext": "./lib/荐片.js"},    
+  {"key": "dr_码上看荐片", "name": "🔥码上看荐片", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 0, "filterable": 1, "ext": "./lib/荐片.js"},    
   
 #4K
 {"key": "jar_码上看玩偶", "name": "🔥码上看玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"},
