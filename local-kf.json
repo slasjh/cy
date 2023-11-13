@@ -169,7 +169,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"
     }, 
- {"key": "drpy_js_两个BT", "name": "码上👓豆-1080P站-A", "type": 3, "api": "http://106.52.241.21:99/JS/lib/drpy2.min.js", "ext": "http://106.52.241.21:99/JS/js/两个BT.js"}, 
+ 
  {"key": "lurenjia", "name": "码上👓豆-1080P站-B", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="},
             
 
