@@ -61,6 +61,7 @@
       "name": "👓视觉直连",
       "type": 3,
       "api": "csp_Xinsj",
+      "jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
