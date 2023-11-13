@@ -25,7 +25,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1},
-          {
+   {
       "key": "yqikan",
       "name": "👩‍❤️‍💋‍👨一起看",
       "type": 3,
@@ -33,6 +33,8 @@
       "ext": "https://api-aws.ctdy.cc",
      "jar": "./lib/fix1170.jar"
   },
+  #{"key": "csp_YQKAPP", "name": "码上👓多-👨‍👩‍👧‍👦┃一起┃电视", "type": 3, "api": "csp_YQKAPP", "searchable": 1, "quickSearch": 1,   #"filterable": 1, "ext": "https://hk-api-cf.yqk5659.com", 
+  #"jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;521D78A10B5DA52046832A14735A901B"},
     {
       "key": "ok", 
       "name": "👌FREEOK", 
@@ -93,6 +95,9 @@
    {"key": "蚂蚁", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
    }, 
    { "key": "蚂蚁2k", "name": "🐜蚂蚁2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wushutvcms.byzz.top/api.php/app/"},
+   {"key": "XBPQ_蚂蚁","name": " 麻衣","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,
+      "filterable": 1, "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"}, 
+
     { "key": "乐猪TV",  "name": "🐷乐猪影视",  "type": 3,  "api": "csp_XBPQ", "searchable": 1,    "quickSearch": 1,     "filterable": 1,      "changeable": 1,      "ext": "./lib/乐猪TV.json"    },
  
 {"key": "csp_XYQHiker_奈飞中文","name":"🎦奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
@@ -107,7 +112,7 @@
 "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/短剧网.json"
 },
 {"key": "csp_XBPQ_aoaotv", "name": "码上👓多-🎦┃短剧嗷嗷", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html", "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}, "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"},
-{"key": "XBPQ_葡萄", "name": "码上👓多-🎦┃短剧┃葡萄", "type": 3, "api": "csp_XBPQ", "ext": {"分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html", "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}, "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"}, 
+{"key": "XBPQ_葡萄", "name": "码上👓多-🎦┃短剧葡萄", "type": 3, "api": "csp_XBPQ", "ext": {"分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html", "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}, "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"}, 
 
 
  {"key": "csp_XYQHiker_好戏网","name":"好戏网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/好戏网.json"},
@@ -126,16 +131,7 @@
 {"key": "xgapp","name": "🎦西瓜秒播","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
  
  {"key": "csp_黑狐","name": "🎦黑狐┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/heihu.json"},
-    {
-      "key": "XBPQ_蚂蚁",
-      "name": " 麻衣呀呼",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"
-    }, 
+
     
   { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
      },
@@ -165,7 +161,7 @@
             "changeable": 0,
             "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
         },     
-    
+  
 #4K
 {"key": "jar_码上看玩偶", "name": "🔥码上看玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"},
     {
