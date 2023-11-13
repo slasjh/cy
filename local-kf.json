@@ -124,7 +124,7 @@
    {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆鸭奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
    
   {"key": "csp_XYQHiker_VSYY",
-"name": "🎦VS影院","type": 3,"searchable": 1,    "quickSearch":1,              "filterable": 1,
+"name": "🎦VS短剧","type": 3,"searchable": 1,    "quickSearch":1,              "filterable": 1,
 "api":"csp_XYQHiker",         "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "./lib/VS影院.json"
 },
 
@@ -152,7 +152,7 @@
 
 {"key": "csp_黑狐","name": "🎦黑狐┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/heihu.json"},
 
-#优质资源
+#4K资源
  
   {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { 			
@@ -169,7 +169,8 @@
       "filterable": 1,
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"
     }, 
-
+ {"key": "drpy_js_两个BT", "name": "码上👓豆-1080P站-A", "type": 3, "api": "http://106.52.241.21:99/JS/lib/drpy2.min.js", "ext": "http://106.52.241.21:99/JS/js/两个BT.js"}, 
+ {"key": "lurenjia", "name": "码上👓豆-1080P站-B", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="},
             
 
   {"key": "xml_火狐",
@@ -258,8 +259,7 @@
 {"key":"qihu","name":"奇虎资源","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","searchable": 1,"quickSearch": 1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"] },
    
     {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
- 
-    {"key":"八戒资源","name":"八戒资源(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+
     {"key":"天空资源","name":"天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
             {
             "key": "csp_xml_ckzy",
@@ -307,52 +307,7 @@
                 "欧美综艺"
             ]
         },
-        {
-            "key": "csp_xml_鱼乐资源",
-            "name": "🐳鱼乐",
-            "type": 1,
-            "api": "https://api.yulecj.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playUrl": "",
-            "playerType": 2,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "悬疑片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "动画电影",
-                "国产剧",
-                "美国剧",
-                "犯罪片",
-                "香港剧",
-                "韩国剧",
-                "泰剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "其他剧",
-                "悬疑片",
-                "奇幻片",
-                "动画片",
-                "体育赛事",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ]
-        },
+       
                 {
             "key": "淘片资源",
             "name": "🐁淘片",
@@ -407,8 +362,11 @@
       "ext": "./token.txt"
     },
     
-{"key": "网易CC", "name": "码上👓多-🐠┃网易┃[CC]", "type": 3, "api": "csp_XYQBiu", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/网易CC.json", "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"}, {"key": "js_i275听书", "name": "码上👓多-📚️┃听书┃i275", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/i275.js"}, {"key": "js_爱上你听书网", "name": "码上👓多-📚️┃听书┃爱尚", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/aishang.js"}, {"key": "js_博看听书", "name": "码上👓多-📚️┃听书┃博看", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/bokan.js"}, {"key": "js_海洋听书", "name": "码上👓多-📚️┃听书┃海洋", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/sea.js"}, {"key": "js_六月听书", "name": "码上👓多-📚️┃听书┃六月", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/6yue.js"}, {"key": "js_听书网", "name": "码上👓多-📚️┃听书┃天天", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/tingshu.js"}, {"key": "js_有声小说", "name": "码上👓多-📚️┃听书┃有声", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/yousheng.js"}, {"key": "js_中华听书网", "name": "码上👓多-📚️┃听书┃中华", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/zhonghua.js"},
-
+ {"key": "js_i275听书", "name": "码上👓多-📚️┃听书┃i275", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/i275.js"},  
+ {"key": "js_六月听书", "name": "码上👓多-📚️┃听书┃六月", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/6yue.js"}, 
+ {"key": "js_听书网", "name": "码上👓多-📚️┃听书┃天天", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/tingshu.js"}, {"key": "js_有声小说", "name": "码上👓多-📚️┃听书┃有声", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/yousheng.js"}, {"key": "js_中华听书网", "name": "码上👓多-📚️┃听书┃中华", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/zhonghua.js"},
+{"key": "js_博看听书", "name": "码上👓多-📚️┃听书┃博看", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/bokan.js"}, 
+ 
 
 
   { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",      "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"    
