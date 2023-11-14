@@ -33,7 +33,7 @@
       "ext": "https://api-aws.ctdy.cc",
      "jar": "./lib/fix1170.jar"
   },
-  #//https://hk-api-cf.yqk5659.com
+  #其他网址https://hk-api-cf.yqk5659.com
 
     {
       "key": "ok", 
@@ -66,7 +66,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.6080yy3.com/"
-    },//https://www.80yy1.com/ & https://www.6080dy4.com &发布页： https://www.5280.fun
+    },
+    #其他网址https://www.80yy1.com/ & https://www.6080dy4.com &发布页： https://www.5280.fun
     {"key":"csp_视觉","name":"👓新视觉2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/xinshijue.json"},
     {"key": "dr_码上看在线", "name": "🏠在线之家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "./lib/在线之家.js"},
    {"key": "csp_XYQHiker_在线之家","name":"🏠在线影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
@@ -181,7 +182,8 @@
   {"key": "Lib_饭", "name": "🌟利播直连", "type": 3, "api": "csp_Libvio", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.libvio.pro/", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d"},
   
 #4K
-{"key": "jar_码上看玩偶", "name": "🔥玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd","jar": "./custom_spider.jar;md5;F6CE0CE7BD8B398540BE062EBEF7051D"},//api.wogg.xyz
+{"key": "jar_码上看玩偶", "name": "🔥玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd","jar": "./custom_spider.jar;md5;F6CE0CE7BD8B398540BE062EBEF7051D"},
+#api.wogg.xyz
     {
       "key": "csp_wogg_t4",
       "name": "🔥玩偶[T4]",
@@ -192,7 +194,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./token.txt"
-    },//home.jundie.top:9520
+    },
+#home.jundie.top:9520
   {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { "key": "csp_xpath_yinfans", 			"name": "💥音范丝4K", 			"type": 3, 			
 "api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
