@@ -408,7 +408,6 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 贵州卫视,http://rihou.cc:61/qiepian/as.php?id=gzws
 四川卫视,http://rihou.cc:61/qiepian/as.php?id=scws
 新疆卫视,http://rihou.cc:61/qiepian/as.php?id=xjws
-兵团卫视,http://rihou.cc:61/qiepian/as.php?id=btws
 西藏卫视,http://rihou.cc:61/qiepian/as.php?id=xzws
 海南卫视,http://rihou.cc:61/qiepian/as.php?id=hinws
 三沙卫视,http://rihou.cc:61/qiepian/as.php?id=ssws
@@ -453,7 +452,6 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 天津卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 贵州卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
-兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 山西卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
 海南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
@@ -464,8 +462,6 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
@@ -590,7 +586,6 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 甘肃卫视,http://111.20.35.103:6610/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=00
 新疆卫视,http://111.20.35.103:6610/000000001000/5802765535081445534/index.m3u8?channel-id=ystenlive&Contentid=5802765535081445534&livemode=1&stbId=00
 西藏卫视,http://111.20.35.103:6610/000000001000/6603041244077933770/index.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=00
-山东教育卫视,http://111.20.35.103:6610/000000001000/1000000002000004097/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=00
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
@@ -647,9 +642,7 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 
 中天新闻,http://38.207.160.104:11012/live.php?date=231108&id=cti-news
 台视新闻,http://38.207.160.104:11012/live.php?date=231108&id=ttv-news
-中视新闻,http://38.207.160.104:11012/live.php?date=231108&id=ctv-news
 台视新闻,https://i.125011.xyz/live.php?auth=230930&id=tsxw
-中视新闻,https://i.125011.xyz/live.php?auth=230930&id=zsxw
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -669,7 +662,6 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-中视新闻,rtmp://pull-f5-spe.ixigua.com/live/vtkspnvgyjstujkbsdcvbfqazsdfasdwetymkljhjuiocnzsxw
 台视新闻,rtmp://pull-f5-spe.ixigua.com/live/vtksnczgtriutklgcvbcvntikgsfwetgfvcbcxvgbdfflvcdtsxw
 东森财经新闻,rtmp://119.81.124.89/sat/tv571
 东森财经新闻,rtmp://219.80.97.77/sat/tv571
