@@ -34,8 +34,6 @@
      "jar": "./lib/fix1170.jar"
   },
 
-
-
     {
       "key": "ok", 
       "name": "👌FREEOK", 
@@ -128,7 +126,6 @@
         "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
         "分类": "短剧$20"
       }},
-
 
  {"key": "csp_XYQHiker_好戏网","name":"好戏网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/好戏网.json"},
  {"key": "csp_XYQHiker_秋霞电影","name":"🦞秋霞电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/秋霞电影.json"},
