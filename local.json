@@ -35,6 +35,8 @@
   },
   {"key": "csp_YQKAPP", "name": "码上👓多-👨‍👩‍👧‍👦┃一起┃电视", "type": 3, "api": "csp_YQKAPP", "searchable": 1, "quickSearch": 1,   "filterable": 1, "ext": "https://hk-api-cf.yqk5659.com", 
   "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;521D78A10B5DA52046832A14735A901B"},
+    {"key": "csp_YQKAPP2", "name": "一起┃电视", "type": 3, "api": "csp_YQKAPP", "searchable": 1, "quickSearch": 1,   "filterable": 1, "ext": "https://hk-api-cf.yqk5659.com",  "jar": "./lib/fix1170.jar"},
+
     {
       "key": "ok", 
       "name": "👌FREEOK", 
