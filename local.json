@@ -1,7 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;F6CE0CE7BD8B398540BE062EBEF7051D",
-  "spider": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e",
-  "spider": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
+  "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "X影视友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
   "lives": [
@@ -35,8 +33,8 @@
       "ext": "https://api-aws.ctdy.cc",
      "jar": "./lib/fix1170.jar"
   },
-  #{"key": "csp_YQKAPP", "name": "码上👓多-👨‍👩‍👧‍👦┃一起┃电视", "type": 3, "api": "csp_YQKAPP", "searchable": 1, "quickSearch": 1,   #"filterable": 1, "ext": "https://hk-api-cf.yqk5659.com", 
-  #"jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;521D78A10B5DA52046832A14735A901B"},
+  {"key": "csp_YQKAPP", "name": "码上👓多-👨‍👩‍👧‍👦┃一起┃电视", "type": 3, "api": "csp_YQKAPP", "searchable": 1, "quickSearch": 1,   "filterable": 1, "ext": "https://hk-api-cf.yqk5659.com", 
+  "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;521D78A10B5DA52046832A14735A901B"},
     {
       "key": "ok", 
       "name": "👌FREEOK", 
@@ -174,7 +172,7 @@
 {"key": "Upyunso", "name": "码上👓多-🌤️┃阿里┃云搜", "type": 3, "api": "csp_UpYun", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9", "ext": "./token.txt+4k|fhd|auto"}, {"key": "XiaoZhiTiao", "name": "码上👓多-🏷️┃阿里┃纸条", "type": 3, "api": "csp_XiaoZhiTiao", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9", "ext": "./token.txt+4k|fhd|auto"}, 
 {"key": "Alips", "name": "码上👓多-📀┃阿里┃盘搜", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9", "ext": "./token.txt+4k|fhd|auto"}, {"key": "Yisou", "name": "码上👓多-🎯┃阿里┃易搜", "type": 3, "api": "csp_YiSo", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9", "ext": "./token.txt+4k|fhd|auto"}, {"key": "Zhaozy", "name": "码上👓多-🔍┃阿里┃找片", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9", "ext": "./token.txt+4k|fhd|auto$$$多多$$$159357"},
 #4K
-{"key": "jar_码上看玩偶", "name": "🔥玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd","jar": "./custom_spider.jar;md5;F6CE0CE7BD8B398540BE062EBEF7051D"},
+{"key": "jar_码上看玩偶", "name": "🔥玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd","jar": "./custom_spider.jar;md5;F6CE0CE7BD8B398540BE062EBEF7051D"},//api.wogg.xyz
     {
       "key": "csp_wogg_t4",
       "name": "🔥玩偶[T4]",
@@ -185,7 +183,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./token.txt"
-    },
+    },//home.jundie.top:9520
   {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { "key": "csp_xpath_yinfans", 			"name": "💥音范丝4K", 			"type": 3, 			
 "api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
