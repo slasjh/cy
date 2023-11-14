@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/live_stable.txt",
+      "url": "./lib/live_Lite.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
