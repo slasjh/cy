@@ -715,7 +715,7 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 凤凰卫视中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰卫视资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
-新闻频道,#genre#
+台湾频道,#genre#
 中天新闻,https://i.125011.xyz/live.php?auth=230930&id=ztxw
 中天新闻,http://8848.iptv8.top/微信公众号：阿猫电视/xxx/live.php?id=ztxw
 中天新闻,http://38.207.160.104:11012/live.php?date=231108&id=cti-news
