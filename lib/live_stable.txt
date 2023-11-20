@@ -1,5 +1,5 @@
 X影视,#genre#
-CCTV1 1080P,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+20231113,https://vdse.bdstatic.com//c2289af7749daef7a72ea754f33a3a06.mp4
 
 
 央视频道,#genre#
