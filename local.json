@@ -180,18 +180,7 @@
 #4K
 {"key": "jar_码上看玩偶", "name": "🔥玩偶", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd","jar": "./custom_spider.jar;md5;F6CE0CE7BD8B398540BE062EBEF7051D"},
 #api.wogg.xyz
-    {
-      "key": "csp_wogg_t4",
-      "name": "🔥玩偶[T4]",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=2ba5a2fc73a04774a404bcc19dbc6785&sort=原画,蓝光,超清,高清",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./token.txt"
-    },
-#home.jundie.top:9520
+
   {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { "key": "csp_xpath_yinfans", 			"name": "💥音范丝4K", 			"type": 3, 			
 "api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
