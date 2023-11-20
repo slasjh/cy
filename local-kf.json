@@ -440,6 +440,18 @@
             "filterable": 1,
             "ext": "./lib/liangzi.json"
         },
+         {
+    "key": "b1b933e5-3117-550c-9251-363a53d38151",
+    "name": "量子去广告",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+    "download": "",
+    "jiexiUrl": "json:https://www.itvbox.cc/fflz.php?url=",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1
+    //"id": 1
+  },
         {
             "key": "非凡资源",
             "name": "🚛非凡影院",
