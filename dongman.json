@@ -46,7 +46,7 @@
 
    
    {"key": "xml_火狐", "name": "💢火狐动漫", "type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-"searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","动漫","中国动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"},
+"searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","动漫","中国动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
    { "key": "量子", "name": "🥑量子动漫", "type": 0, "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1, "changeable": 1 ,"categories": ["动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
