@@ -16,6 +16,9 @@
 
   "sites": [
    {"key": "dr_看动漫", "name": "🔥动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
+    {"key":"csp_视觉","name":"视觉动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
+ "filterable":1,"ext":"./lib/xinshijue-dongman.json"},
+
         {
       "key": "js58",
       "name": "👩‍🎨五八动漫",
