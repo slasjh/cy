@@ -26,9 +26,9 @@
     "播放标题": "<span>&&</span>",
     "播放列表": "<a&&</a>",
     "分类url": "https://www.freeok.pro/vodshow/3-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    "分类": "国产动漫$%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86#日本动漫$%E6%97%A5%E6%9C%AC",
+    "分类": "国产动漫$3#日本动漫$31",
     "筛选": {
-      "%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86": [
+      "3": [
             {
                 "key": "class",
                 "name": "剧情",
@@ -230,7 +230,19 @@
                 ]
             }
         ], 
-        "日本": [
+        "31": [
+                        {
+                "key": "cateId",
+                "name": "类型",
+                "value": [
+                    {
+                        "n": "全部类型",
+                        "v": "3"
+                    }
+                    
+                ]
+            },
+
             {
                 "key": "class",
                 "name": "剧情",
