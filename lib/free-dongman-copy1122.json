@@ -1,7 +1,7 @@
 {
     "作者": "荷城茶秀",
     "站名": "Free影视",
-    "主页url": "https://www.freeok.vip/vodtype/3.html",
+    "主页url": "https://www.freeok.vip",
     "简介": "video-info-item video-info-content vod_content\"&&</div>",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
@@ -26,9 +26,9 @@
     "播放标题": "<span>&&</span>",
     "播放列表": "<a&&</a>",
     "分类url": "https://www.freeok.pro/vodshow/3-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    "分类": "国产动漫$中国大陆#日本动漫$日本",
+    "分类": "国产动漫$%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86#日本动漫$%E6%97%A5%E6%9C%AC",
     "筛选": {
-      "中国大陆": [
+      "%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86": [
             {
                 "key": "class",
                 "name": "剧情",
