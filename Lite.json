@@ -49,7 +49,7 @@
 "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/短剧网.json"},
   {
             "key": "lzi",
-            "name": "🚛量子影院",
+            "name": "🚛量子",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -59,7 +59,7 @@
         },
          {
             "key": "非凡资源",
-            "name": "🚛非凡影院",
+            "name": "🚛非凡",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
