@@ -35,7 +35,7 @@
  "filterable":1,"ext":"./lib/xinshijue.json"},
 
 
-    {"key": "dr_看在线", "name": "云播④", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "./lib/在线之家.js"},
+    {"key": "dr_看在线", "name": "云播④", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/在线之家.js"},
   //备用 {"key": "csp_XYQHiker_在线之家","name":"云播④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,//"ext":"./lib/在线之家.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
 
 
