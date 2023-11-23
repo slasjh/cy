@@ -516,7 +516,13 @@
             "filterable": 1,
             "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
             "ext": "./lib/yanchanghui.txt"
-        }
+        },
+                    {
+                "key": "kkys",
+                "name": "🏓X影视丨看看影视",
+                "type": 3,
+                "api": "./lib/kkys_open.js"
+            },
 
 
  
