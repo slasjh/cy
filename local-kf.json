@@ -572,7 +572,7 @@
    {"key": "jszy-神", "name": "秒播-极速", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "灾难片", "悬疑片", "犯罪片", "奇幻片", "记录片", "内地剧", "香港剧", "台湾剧", "日剧", "韩剧", "马泰剧", "欧美剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "体育赛事"]},
     {"key": "少泽影客（APP）-神", "name": "秒播-30少泽", "type": 3, "api": "csp_AppYsV2", "ext": "https://yk.shaozeyy.com/api.php/app/", "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"},
 
-       {"key": "js_骚火电影-神", "name": "秒播-骚火", "type": 3, "searchable": 1, "quickSearch": 1, "filterable": 1, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/saohuo.js"},
+       {"key": "js_扫货电影-神", "name": "秒播-扫货", "type": 3, "searchable": 1, "quickSearch": 1, "filterable": 1, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/saohuo.js"},
         
   {"key": "apv2_瑞丰", "name": "秒播-瑞丰", "type": 3, "api": "csp_AppYsV2", "ext": "http://www.miniku.cc/xgapp.php/v2/", "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"}
   
