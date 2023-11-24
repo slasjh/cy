@@ -96,23 +96,20 @@
 
 {"key":"csp_Ying","name":"🌸樱花┃动漫","type":3,"api":"csp_Ying","jar":"./jar.jar;md5;9fc2ed12545bcb180d1bbdbbf620102","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"路漫漫","name":"🚶漫漫┃动漫","type":3,"api":"./dm/drpy2.min.js","ext":"./dm/路漫漫.js"},
 
 {"key":"nt动漫","name":"🧬拿铁┃动漫","type":3,"api":"./dm/drpy2.min.js","ext":"./dm/ntdm.js"},
 
 {"key":"爱动漫","name":"🎗️爱上┃动漫","type":3,"api":"./dm/drpy2.min.js","ext":"./dm/爱弹幕.js"},
 
-{"key":"妮可","name":"🏄‍♂️妮可┃动漫","type":3,"api":"./dm/drpy2.min.js","ext":"./dm/妮可动漫.js"},
 
 {"key":"anfuns","name":"🍫ANF┃动漫","type":3,"api":"./dm/drpy2.min.js","ext":"./dm/anfuns.js"},
 
-{"key":"怡萱动漫","name":"🍬怡萱┃动漫","type":3,"api":"./dm/drpy2.min.js","ext":"./dm/怡萱.js"},
 
 {"key":"去看吧","name":"💨去看┃动漫","type":3,"api":"csp_XBPQ","jar":"./jar.jar;md5;9fc2ed12545bcb180d1bbdbbf620102","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/去看吧.json"},
 
-{"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","jar":"./jar.jar;md5;9fc2ed12545bcb180d1bbdbbf620102","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/维奇.json"},
+{"key":"dr2_维奇","name":"🧣维奇┃动漫2","type":3,"api":"./dm/drpy2.min.js","ext":"./dm/维奇.js"},
+{"key":"dr2_曲奇","name":"🧣曲奇┃动漫2","type":3,"api":"./dm/drpy2.min.js","ext":"./dm/曲奇动漫.js"},
 
-{"key":"曲奇","name":"🍪曲奇┃动漫","type":3,"api":"csp_XYQHiker","jar":"./jar.jar;md5;9fc2ed12545bcb180d1bbdbbf620102","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/曲奇动漫.json"},
 {"key":"本地","name":"🕳️本地数据","type":3,"api":"csp_Local","jar":"./jar.jar;md5;9fc2ed12545bcb180d1bbdbbf620102","searchable":0,"filterable":0,"changeable":0}
 
 
