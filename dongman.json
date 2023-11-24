@@ -94,45 +94,28 @@
             "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy.min.js",
             "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/NyaFun.js"
         },
-        {
-            "key": "AGE动漫",
-            "name": "AGE动漫",
-            "type": 3,
-            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy.min.js",
-            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/AGE动漫.js"
-        },
-        {
-            "key": "csp_Dm84_3",
-            "name": "动漫巴士1",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar",
-            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/json/Dm84.json"
-        },
+
         {
             "key": "58动漫网",
             "name": "58┃动漫",
             "type": 3,
-            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/58动漫.js"
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/js/58动漫.js"
         },
         {
             "key": "NT动漫",
             "name": "NT┃动漫",
             "type": 3,
-            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/NT动漫.js"
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/dm/NT动漫.js"
         },
         {
             "key": "csp_Anime1",
