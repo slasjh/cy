@@ -71,8 +71,240 @@
 "playUrl":"","searchable":1,"quickSearch":1,"categories": ["动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫","动漫电影"]},
 
   {"key": "csp_SNzy","name": "🐉索尼动漫","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-  "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [ "动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫","动漫电影"] }
+  "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [ "动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫","动漫电影"] },
 
+
+
+  {"key":"csp_xbb_漫岛动漫","name":"🍀漫岛动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/漫岛动漫.json"},
+{"key":"csp_xbb_维奇动漫","name":"🍀维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.liucn.cc/box/sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191","ext":"https://raw.liucn.cc/box/sub/MeowXB/维奇动漫.json"},
+{"key":"csp_xbb_风车动漫","name":"🍀风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.liucn.cc/box/sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191","ext":"https://raw.liucn.cc/box/sub/MeowXB/风车动漫.json"},
+{"key":"csp_xbb_去看吧","name":"🍀看吧动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.liucn.cc/box/sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191","ext":"https://raw.liucn.cc/box/sub/MeowXB/去看吧.json"},
+{"key":"csp_app_小鸟动漫","name":"🐌小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191","ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
+{"key":"csp_app_熊猫动漫","name":"🐌熊猫动漫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191","ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
+{"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.liucn.cc/box/sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191","ext":"./sub/MeowXP/agemys.json"},
+{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.liucn.cc/box/sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191","ext":"./sub/MeowXP/dm84.json"},
+{"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.liucn.cc/box/sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191","ext":"./sub/MeowXP/yinghua.json"},
+{"key":"csp_xp_dmw","name":"💢动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"jar":"https://raw.liucn.cc/box/sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191","filterable":1,"ext":"./sub/MeowXP/dmw.json"},
+
+//"spider": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar",
+        {
+            "key": "次元城",
+            "name": "次元城",
+            "type": 3,
+            "api": "csp_Cycdm",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://app.95189371.cn/ciyuancheng.php/v6/",
+            "jar": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"
+        },
+        {
+            "key": "NyaFun",
+            "name": "NyaFun",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/NyaFun.js"
+        },
+        {
+            "key": "AGE动漫",
+            "name": "AGE动漫",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/AGE动漫.js"
+        },
+        {
+            "key": "csp_Dm84_3",
+            "name": "动漫巴士1",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/json/Dm84.json"
+        },
+        {
+            "key": "58动漫网",
+            "name": "58┃动漫",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/58动漫.js"
+        },
+        {
+            "key": "NT动漫",
+            "name": "NT┃动漫",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/NT动漫.js"
+        },
+        {
+            "key": "csp_Anime1",
+            "name": "动漫┃系列",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+                        "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar",
+            "filterable": 1
+        },
+        {
+            "key": "妮可动漫",
+            "name": "妮可动漫",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/妮可动漫.js"
+        },
+        {
+            "key": "drpy_js_动漫岛",
+            "name": "动漫岛",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/动漫岛.js"
+        },
+        {
+            "key": "drpy_js_路漫漫",
+            "name": "路漫漫",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/路漫漫.js"
+        },
+        {
+            "key": "csp_Ysj",
+            "name": "异界动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+           "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar",
+            "filterable": 1
+        },
+        {
+            "key": "csp_Anime1",
+            "name": "日漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+                        "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar",
+            "filterable": 1
+        },
+        {
+            "key": "csp_Ying",
+            "name": "樱花动漫",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+                        "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar",
+            "filterable": 1
+        },
+        {
+            "key": "动漫直链",
+            "name": "动漫┃直链",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+                        "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/json/动漫直链.json"
+        },
+        {
+            "key": "风车动漫",
+            "name": "风车动漫",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/风车动漫.js"
+        },
+        {
+            "key": "去看吧",
+            "name": "去看吧",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/去看吧.js"
+        },
+        {
+            "key": "drpy_js_NyaFun",
+            "name": "动漫 | NyaFun[js]",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/NyaFun.js"
+        },
+        {
+            "key": "drpy_js_爱弹幕",
+            "name": "动漫 | 爱弹幕[js]",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/爱弹幕.js"
+        },
+        {
+            "key": "nt动漫",
+            "name": "拿铁动漫",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/ntdm.js"
+        },
+        {
+            "key": "妮可",
+            "name": "妮可动漫",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/妮可动漫.js"
+        },
+        {
+            "key": "anfuns",
+            "name": "ANF动漫",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/anfuns.js"
+        },
+        {
+            "key": "怡萱动漫",
+            "name": "怡萱动漫",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/怡萱.js"
+        },
+        {
+            "key": "去看吧",
+            "name": "去看动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+                        "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/json/去看吧.json"
+        },
+        {
+            "key": "drpy_js_奇米动漫",
+            "name": "动漫 | 奇米动漫[js]",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/奇米动漫.js"
+        },
+        {
+            "key": "drpy_js_曲奇动漫",
+            "name": "动漫 | 曲奇动漫[js]",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/曲奇动漫.js"
+        },
+        {
+            "key": "异世界",
+            "name": "异世界",
+            "type": 3,
+            "api": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/drpy.min.js",
+            "ext": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/js/异世界.js"
+        }
  
 
 
