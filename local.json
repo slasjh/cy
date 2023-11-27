@@ -205,7 +205,7 @@
   {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { "key": "csp_xpath_yinfans", 			"name": "💥音范丝4K", 			"type": 3, 			
 "api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
-"ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"}, 
+"ext": "./lib/音范丝.json"}, 
 
 
 #bilibili
@@ -214,7 +214,7 @@
             "name": "🅱哔哔┃合集",
             "type": 3,
             "api": "csp_Bili",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",
+            "jar": "./fan.txt;md5;f6ce0ce7bd8b398540be062ebef7051d",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -222,7 +222,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
+            "ext": "./lib/bilibili.json"
         },  
               {
             "key": "哔哩哔哩",
