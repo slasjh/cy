@@ -98,16 +98,15 @@
             "name": "🎃南瓜App",
             "type": 3,
             "api": "csp_NanGua",
- "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",        
+ "jar": "./fan.txt;md5;f6ce0ce7bd8b398540be062ebef7051d",        
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },  
         {"key": "js_nangua_多", "name": "🎃南瓜影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/nangua.js"} ,
-   {"key": "蚂蚁", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
-   }, 
-      {"key": "蚂蚁2", "name": "🐜蚂蚁影视2", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "./fan.txt;md5;f6ce0ce7bd8b398540be062ebef7051d"
+ 
+      {"key": "蚂蚁", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "./fan.txt;md5;f6ce0ce7bd8b398540be062ebef7051d"
    },
    {"key": "XBPQ_蚂蚁","name": " 麻衣影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,
       "filterable": 1, "ext": "./lib/mayi.json"}, 
