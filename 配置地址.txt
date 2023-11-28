@@ -3,8 +3,12 @@ clan://localhost/tvbox/时光机/时光机.json
 kf   "./custom_spider_stable20231030.jar;md5;3EB3583BC70B80EC673D88397967DBEC"
 cs   "./custom_spider_stable20231030.jar;md5;3EB3583BC70B80EC673D88397967DBEC"
 local   "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
+**csp_XBPQ  
 
 20231113
 "spider": "./custom_spider.jar;md5;F6CE0CE7BD8B398540BE062EBEF7051D"
+
+"jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0" 
+**csp_XYQHiker**csp_AppYsV2**
 
 
