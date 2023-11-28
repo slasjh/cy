@@ -209,18 +209,18 @@
         {"key": "七七-神", "name": "秒播-七七", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"}, 
        {"key": "csp_Nmys-神", "name": "秒播-Nmys", "type": 3, "api": "csp_Nmys", "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json", "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"},
        {"key": "csp_Lib-神", "name": "秒播-Lib", "type": 3, "api": "csp_Libvio", "searchable": 1, "quickSearch": 1, "filterable": 0, "playerType": 2, "ext": "https://www.libvio.fun/", "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"}, 
-       {"key": "鸭鸭-神", "name": "秒播-鸭鸭", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://yayayaaapp.ynf.icu/api.php/app/", "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"},
-      {"key": "csp_SP360-神", "name": "秒播-360", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://我不是.肥猫.love:63/json/360影视.json", "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"},
+       {"key": "鸭鸭-神", "name": "秒播-鸭鸭", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://yayayaaapp.ynf.icu/api.php/app/", "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0"},
+      {"key": "csp_SP360-神", "name": "秒播-360", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://我不是.肥猫.love:63/json/360影视.json"},
 
-   {"key": "麻衣呀呼-神", "name": "秒播-麻衣", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"分类": "电影$id-a#剧集$id-b#综艺$id-d#动漫$id-c", "分类值": "a&b&c&d", "分类url": "http://www.huanyuxing.com/s/{cateId}{area}{by}{class}/page/{catePg}{year}.html", "免嗅": "1"}, "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"}, 
-   {"key": "无限影视APP-神", "name": "秒播-无限", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.wxtv.net/api.php/app/", "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"}, 
-   {"key": "鑫鑫影视-神", "name": "秒播-鑫鑫", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/", "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"}, 
+   {"key": "麻衣呀呼-神", "name": "秒播-麻衣", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"分类": "电影$id-a#剧集$id-b#综艺$id-d#动漫$id-c", "分类值": "a&b&c&d", "分类url": "http://www.huanyuxing.com/s/{cateId}{area}{by}{class}/page/{catePg}{year}.html", "免嗅": "1"}}, 
+   {"key": "无限影视APP-神", "name": "秒播-无限", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.wxtv.net/api.php/app/",  "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0"}, 
+   {"key": "鑫鑫影视-神", "name": "秒播-鑫鑫", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/", "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0"}, 
    {"key": "jszy-神", "name": "秒播-极速", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "灾难片", "悬疑片", "犯罪片", "奇幻片", "记录片", "内地剧", "香港剧", "台湾剧", "日剧", "韩剧", "马泰剧", "欧美剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "体育赛事"]},
-    {"key": "少泽影客（APP）-神", "name": "秒播-30少泽", "type": 3, "api": "csp_AppYsV2", "ext": "https://yk.shaozeyy.com/api.php/app/", "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"},
+    {"key": "少泽影客（APP）-神", "name": "秒播-30少泽", "type": 3, "api": "csp_AppYsV2", "ext": "https://yk.shaozeyy.com/api.php/app/", "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0" },
 
        {"key": "js_骚火电影-神", "name": "秒播-骚火", "type": 3, "searchable": 1, "quickSearch": 1, "filterable": 1, "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js", "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/saohuo.js"},
         
-  {"key": "apv2_瑞丰", "name": "秒播-瑞丰", "type": 3, "api": "csp_AppYsV2", "ext": "http://www.miniku.cc/xgapp.php/v2/", "jar": "http://1.msq9.com/jk/jar/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"},
+  {"key": "apv2_瑞丰", "name": "秒播-瑞丰", "type": 3, "api": "csp_AppYsV2", "ext": "http://www.miniku.cc/xgapp.php/v2/", "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0"},
 
 
 
