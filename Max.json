@@ -119,7 +119,7 @@
             "quickSearch": 1,
             "changeable": 1
         },  
-        {"key": "js_nangua_多", "name": "🎃南瓜影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/nangua.js"} ,
+    
 
  #短剧  
   {"key": "csp_XYQHiker_VSYY",
@@ -169,17 +169,7 @@
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
-                {
-            "key": "花猫影视",
-            "name": "🚛花猫影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
-            "ext": "./lib/huamao.json"
-        },
+      
 {"key": "dr_码上看荐片", "name": "🔥荐片", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 0, "filterable": 1, "ext": "./lib/荐片.js"}, 
   {"key": "dr_码上看低端", "name": "🔥低端", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "./lib/低端影视.js"}, 
   {"key": "dr_码上看白白", "name": "🔥白白", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/素白白.js"}, 
@@ -201,7 +191,7 @@
  
  {"key": "csp_黑狐","name": "🎦黑狐┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/heihu.json"},
  {"key": "77-饭", "name": "👒七七┃App", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"},
- {"key": "csp_Kunyu77", "name": "码上👓香-🐞77影视", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./jar/XYQ.jar;md5;ce364d69792a2663e62022e66eae39c9"},
+
          {"key": "Cokemv-饭", "name": "📕可乐┃直连", "type": 3, "api": "csp_Cokemv", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"},
            
           {"key": "Auete", "name": "码上👓饭-🏝奥特┃直连", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://haozhansou.com/", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395"},
@@ -215,9 +205,9 @@
         {"key": "索尼资源-神", "name": "秒播-索尼", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说"], "searchable": 1, "quickSearch": 1}, 
 
       {"key": "XYQH_农民", "name": "码上👓玉-🦄农民", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/农民影视.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
-       {"key": "Libo", "name": "码上👓玉-👶Libo", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./lib/libvio.js"}, 
+
        {"key": "鸭鸭-神", "name": "秒播-鸭鸭", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://yayayaaapp.ynf.icu/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-     {"key": "360", "name": "码上👓玉-🍳360", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./lib/360影视.js"},
+  
 
    {"key": "麻衣呀呼-神", "name": "秒播-麻衣", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"分类": "电影$id-a#剧集$id-b#综艺$id-d#动漫$id-c", "分类值": "a&b&c&d", "分类url": "http://www.huanyuxing.com/s/{cateId}{area}{by}{class}/page/{catePg}{year}.html", "免嗅": "1"}}, 
    {"key": "无限影视APP-神", "name": "秒播-无限", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.wxtv.net/api.php/app/",  "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
@@ -225,12 +215,10 @@
    {"key": "jszy-神", "name": "秒播-极速", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "灾难片", "悬疑片", "犯罪片", "奇幻片", "记录片", "内地剧", "香港剧", "台湾剧", "日剧", "韩剧", "马泰剧", "欧美剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "体育赛事"]},
     {"key": "少泽影客（APP）-神", "name": "秒播-少泽", "type": 3, "api": "csp_AppYsV2", "ext": "https://yk.shaozeyy.com/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
 
-{"key": "js_骚火电影", "name": "🔥┃骚火┃影视", "type": 3, "searchable": 1, "quickSearch": 1, "filterable": 1, "api": "./lib/drpy2.min.js", "ext": "./lib/saohuo.js"},
         
   {"key": "apv2_瑞丰", "name": "秒播-瑞丰", "type": 3, "api": "csp_AppYsV2", "ext": "http://www.miniku.cc/xgapp.php/v2/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
   {"key": "csp_干饭", "name": "码上👓玉-🍱┃干饭┃2K", "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/干饭影视.json"},
-  {"key": "js_电影先生", "name": "码上👓多-🤵┃电影┃先生", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/电影先生.js"},
-  {"key": "js_大师兄", "name": "码上👓多-🐵┃师兄┃影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/大师兄影视.js"},
+
 
 
 
