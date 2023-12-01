@@ -306,20 +306,7 @@
             "ext": "./lib/yanchanghui.txt"
         },
    #听书 
- {"key": "js_i275听书", "name": "码上👓多-📚️┃听书┃i275", "type": 3, "api": "./lib/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "./lib/i275.js"}, 
 
- 
- {"key": "js_博看听书", "name": "码上👓多-📚️┃听书┃博看", "type": 3, "api": "./lib/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "./lib/bokan.js"}, 
- 
- {"key": "js_海洋听书", "name": "码上👓多-📚️┃听书┃海洋", "type": 3, "api": "./lib/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "./lib/sea.js"},
- 
-  {"key": "js_六月听书", "name": "码上👓多-📚️┃听书┃六月", "type": 3, "api": "./lib/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "./lib/6yue.js"}, 
-  
-  {"key": "js_听书网", "name": "码上👓多-📚️┃听书┃天天", "type": 3, "api": "./lib/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "./lib/tingshu.js"},
-
- {"key": "js_有声小说", "name": "码上👓多-📚️┃听书┃有声", "type": 3, "api": "./lib/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "./lib/yousheng.js"},
- 
-  {"key": "js_中华听书网", "name": "码上👓多-📚️┃听书┃中华", "type": 3, "api": "./lib/drpy2.min.js", "changeable": 0, "style": {"type": "rect", "ratio": 1}, "ext": "./lib/zhonghua.js"}, 
           
    #盘搜    
 {"key": "csp_七夜", "name": "码上👓多-🔎┃阿里┃七夜", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9", "ext": "./token.txt+4k|fhd|auto"}, {"key": "PanSearch", "name": "码上👓多-🏵️‍┃阿里┃PanS", "type": 3, "api": "csp_PanSearch", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9", "ext": "./token.txt+4k|fhd|auto"}, 
