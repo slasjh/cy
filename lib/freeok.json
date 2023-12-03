@@ -25,7 +25,7 @@
     "播放数组": "<div class=\"module-play-list-content&&</div>",
     "播放标题": "<span>&&</span>",
     "播放列表": "<a&&</a>",
-    "分类url": "https://www.freeok.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类url": "https://www.freeok.pro/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
     "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
     "筛选": {
         "1": [
