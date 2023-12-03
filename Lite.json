@@ -15,15 +15,18 @@
   ],
 
   "sites": [
-    {"key": "一起看 ","name": "官方①","type": 3,"api": "csp_YQKan",
-   "searchable": 1,"quickSearch": 1, "changeable": 1},
- {"key": "yqikan",    "name": "官方②",  "type": 3, "api": "csp_YQKAPP",
-     "ext": "https://api-aws.ctdy.cc",   "jar": "./lib/fix1170.jar"},  
+  
 
- {"key": "ok", "name": "独家①", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
+ {"key": "ok", "name": "官方①", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
    "quickSearch": 1,"playerType": "1",  "ext":"./lib/free.json"},
-{"key": "csp_Free", "name": "独家②", "type": 3, "api": "csp_XBPQ","searchable": 1,
+{"key": "csp_Free", "name": "官方②", "type": 3, "api": "csp_XBPQ","searchable": 1,
 "quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json","jar": "./lib/小米ab.jar" }, 
+    {"key": "一起看 ","name": "独家①","type": 3,"api": "csp_YQKan",
+       "searchable": 1,"quickSearch": 1, "changeable": 1},
+        {"key": "yqikan",    "name": "独家②",  "type": 3, "api": "csp_YQKAPP",
+             "ext": "https://api-aws.ctdy.cc",   "jar": "./lib/fix1170.jar"},  
+
+
 
     { "key": "Xinsj","name": "影院①", "type": 3,"api": "csp_Xinsj","searchable": 1,
    "quickSearch": 1,"changeable": 0,"ext": "https://www.6080yy3.com/"},
