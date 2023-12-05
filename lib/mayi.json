@@ -1,7 +1,7 @@
 {
   "作者": "多多",
   "站名": "麻衣呀呼",
-  "主页url": "http://www.huanyuxing.com",
+  "主页url": "https://www.huanyuxing.com",
   "分类": "电影$id-a#剧集$id-b#综艺$id-d#动漫$id-c",
   "分类值": "a&b&c&d",
   "分类url": "http://www.huanyuxing.com/s/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
