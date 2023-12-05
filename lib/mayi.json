@@ -4,7 +4,7 @@
   "主页url": "https://www.huanyuxing.com",
   "分类": "电影$id-a#剧集$id-b#综艺$id-d#动漫$id-c",
   "分类值": "a&b&c&d",
-  "分类url": "http://www.huanyuxing.com/s/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
+  "分类url": "https://www.huanyuxing.com/s/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
   "副标题": "module-item-note\">&&</div>",
   "搜索模式": "0",
   "搜索后缀": "/v/",
