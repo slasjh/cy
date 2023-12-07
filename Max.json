@@ -175,7 +175,7 @@
                                                "filterable": 1,
                                                      "ext": {
                                                              "分类url": "https://wyysi.com/vodshow/{cateId}--{by}------{catePg}---.html",
-                                                                     "分类": "电影$1电视剧$2综艺$3动漫$4"
+                                                                     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
                                                                            }},
 
   
