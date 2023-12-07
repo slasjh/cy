@@ -121,18 +121,6 @@
 
    {"key": "XBPQ_蚂蚁","name": " 麻衣影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,
       "filterable": 1, "ext": "./lib/mayi.json"}, 
-{
-        "key": "csp_XBPQ_麻衣",
-              "name": "麻衣影视",
-                    "type": 3,
-                          "api": "csp_XBPQ",
-                                "searchable": 1,
-                                      "quickSearch": 1,
-                                            "filterable": 1,
-                                                  "ext": {
-                                                          "分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}.html",
-                                                                  "分类": "电影$id-a#电视剧$id-b#综艺$id-c#动漫$id-d"
-                                                                        }},
 
  
 {"key": "csp_XYQHiker_奈飞中文","name":"🎦奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
