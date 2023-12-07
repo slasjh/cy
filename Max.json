@@ -94,7 +94,24 @@
       "ext": "./lib/影视工场.json",
       "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
     }, 
-     
+        {
+        "key": "南瓜",
+        "name": "拾光丨南瓜【📺️】",
+        "type": 3,
+        "api": "./js/ng_open.js"
+   },
+   {
+        "key": "一起看",
+        "name": "拾光丨一起看【📺️】",
+        "type": 3,
+        "api": "./js/yqktv_open.js"
+   }, 
+   {
+        "key": "555电影",
+        "name": "拾光丨555【📺️】",
+        "type": 3,
+        "api": "./js/555dy_open.js"
+   }, 
    {"key": "蚂蚁", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
    }, 
       {"key": "蚂蚁2", "name": "🐜蚂蚁影视2", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "./lib/fan.txt;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
