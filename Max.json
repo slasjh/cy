@@ -165,6 +165,20 @@
         "分类": "短剧$20"
       }},
 
+   {
+           "key": "csp_XBPQ_无忧",
+                 "name": "无忧",
+                       "type": 3,
+                             "api": "csp_XBPQ",
+                                   "searchable": 1,
+                                         "quickSearch": 1,
+                                               "filterable": 1,
+                                                     "ext": {
+                                                             "分类url": "https://wyysi.com/vodshow/{cateId}--{by}------{catePg}---.html",
+                                                                     "分类": "电影$1电视剧$2综艺$3动漫$4"
+                                                                           }},
+
+  
  {"key": "csp_XYQHiker_555影视","name":"555影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
  {"key": "csp_XYQHiker_爱看影院","name":"爱看影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/爱看影院.json"},
  {
