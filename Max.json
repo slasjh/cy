@@ -199,7 +199,7 @@
                                         "quickSearch": 1,
                                               "filterable": 1,
                                                     "ext": {
-                                                            "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}",
+                                                            "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order={order}&tid={cateId}&year={year}&area={area}",
                                                                     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
                                                                           }},
 
