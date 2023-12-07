@@ -187,7 +187,7 @@
                                          "quickSearch": 1,
                                                "filterable": 1,
                                                      "ext": {
-                                                             "分类url": "https://www.keke2.app/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+                                                             "分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
                                                                      "分类": "电影$1电视剧$2综艺$4动漫$3"
                                                                            }},
   
