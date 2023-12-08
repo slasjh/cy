@@ -53,7 +53,7 @@
       "ext": "https://api-aws.ctdy.cc",
      "jar": "./lib/fix1170.jar"
   },
-
+{"key": "一起看-饭 ", "name": "🎉一起┃App", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
     
     {
       "key": "Xinsj",
