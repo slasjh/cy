@@ -143,10 +143,7 @@
            //  {"key": "蚂蚁", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, 
  //"changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download////uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba" }, 
         {"key": "饭-蚂蚁1", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "./lib/fan.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba"}, 
-          
-   {"key": "XBPQ_蚂蚁","name": " 麻衣影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,
-      "filterable": 1, "ext": "./lib/mayi.json"}, 
-     
+
 
  #短剧  
   {"key": "csp_XYQHiker_VSYY",
@@ -197,18 +194,7 @@
                                                              "分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
                                                                      "分类": "电影$1#电视剧$2#综艺$4#动漫$3"
                                                                            }},
-  {
-          "key": "csp_XBPQ_03",
-                "name": "03影视",
-                      "type": 3,
-                            "api": "csp_XBPQ",
-                                  "searchable": 1,
-                                        "quickSearch": 1,
-                                              "filterable": 1,
-                                                    "ext": {
-                                                            "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}",
-                                                                    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$5"
-                                                                          }},
+
 
   
  {"key": "csp_XYQHiker_555影视","name":"555影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
@@ -280,14 +266,11 @@
 
        {"key": "鸭鸭-神", "name": "秒播-鸭鸭", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://yayayaaapp.ynf.icu/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
   
-
-   {"key": "麻衣呀呼-神", "name": "秒播-麻衣", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"分类": "电影$id-a#剧集$id-b#综艺$id-d#动漫$id-c", "分类值": "a&b&c&d", "分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html", "免嗅": "1"}}, 
    {"key": "无限影视APP-神", "name": "秒播-无限", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.wxtv.net/api.php/app/",  "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
    {"key": "鑫鑫影视-神", "name": "秒播-鑫鑫", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
    {"key": "jszy-神", "name": "秒播-极速", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "灾难片", "悬疑片", "犯罪片", "奇幻片", "记录片", "内地剧", "香港剧", "台湾剧", "日剧", "韩剧", "马泰剧", "欧美剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "体育赛事"]},
     {"key": "少泽影客（APP）-神", "name": "秒播-少泽", "type": 3, "api": "csp_AppYsV2", "ext": "https://yk.shaozeyy.com/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
-
-        
+      
   {"key": "apv2_瑞丰", "name": "秒播-瑞丰", "type": 3, "api": "csp_AppYsV2", "ext": "http://www.miniku.cc/xgapp.php/v2/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
   {"key": "csp_干饭-玉", "name": "🍱干饭┃2K", "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/干饭影视.json"},
 
