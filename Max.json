@@ -194,8 +194,8 @@
                                          "quickSearch": 1,
                                                "filterable": 1,
                                                      "ext": {
-                                                             "分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
-                                                                     "分类": "电影$1#电视剧$2#综艺$4#动漫$3"
+                                                             "分类url": "https://www.keke5.app/topic/detail/{cateId}-{catePg}.html",
+                                                                     "分类": "毒舌电影推荐$3#豆瓣Top 250$1"
                                                                            }},
 
 
