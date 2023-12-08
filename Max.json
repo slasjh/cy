@@ -17,24 +17,7 @@
   "sites": [
    {"key": "dr_时光机在线豆瓣", "name": "X影视排行榜", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
    {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-  
-    {"key": "一起看 ",
-      "name": "👑一起看",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1},
-   {
-      "key": "yqikan",
-      "name": "👩‍❤️‍💋‍👨一起看",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "ext": "https://api-aws.ctdy.cc",
-     "jar": "./lib/fix1170.jar"
-  },
-
-    {
+  {
       "key": "ok", 
       "name": "👌FREEOK", 
       "type": 3, 
@@ -55,6 +38,23 @@
       "ext": "./lib/freeok.json",
       "jar": "./lib/小米ab.jar"
     },
+    {"key": "一起看 ",
+      "name": "👑一起看",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1},
+   {
+      "key": "yqikan",
+      "name": "👩‍❤️‍💋‍👨一起看",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "ext": "https://api-aws.ctdy.cc",
+     "jar": "./lib/fix1170.jar"
+  },
+
+    
     {
       "key": "Xinsj",
       "name": "👓视觉直连",
@@ -94,44 +94,8 @@
       "ext": "./lib/影视工场.json",
       "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
     }, 
-        {
-        "key": "南瓜拾光",
-        "name": "拾光丨南瓜【📺️】",
-        "type": 3,
-        "api": "./js/caiji.js",
-        "ext": "./js/ng_open.js"
-   },
-   {
-        "key": "一起看拾光",
-        "name": "拾光丨一起看【📺️】",
-        "type": 3,
-         "api": "./js/caiji.js",
-        "ext": "./js/yqktv_open.js"
-   }, 
-   {
-        "key": "555电影拾光",
-        "name": "拾光丨555【📺️】",
-        "type": 3,
-         "api": "./js/caiji.js",
-        "ext": "./js/555dy_open.js"
-   }, 
-   {"key": "蚂蚁", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
-   }, 
-      {"key": "蚂蚁2", "name": "🐜蚂蚁影视2", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "./lib/fan.txt;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
-   }, 
-        {"key": "蚂蚁3", "name": "🐜蚂蚁影视3", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "./lib/fan.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
-   }, 
 
-   {"key": "XBPQ_蚂蚁","name": " 麻衣影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,
-      "filterable": 1, "ext": "./lib/mayi.json"}, 
-
- 
-{"key": "csp_XYQHiker_奈飞中文","name":"🎦奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
-   {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
-   { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "./lib/电影港磁力.json",      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
-        
-          {"key": "lurenjia", "name": "路人甲影视", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="},
-          {
+ {
             "key": "南瓜",
             "name": "🎃南瓜App",
             "type": 3,
@@ -153,7 +117,36 @@
             "quickSearch": 1,
             "changeable": 1
         }, 
-    
+         {"key": "csp_XYQHiker_爱看影院","name":"爱看影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/爱看影院.json"},
+ {
+            "key": "爱看影院",
+            "name": "🚛爱看影院2",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": "1",
+            "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
+            "ext": "./lib/aikan.json"
+        },
+  
+
+
+  
+ 
+{"key": "csp_XYQHiker_奈飞中文","name":"🎦奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
+   {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
+   { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "./lib/电影港磁力.json",      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
+        
+          {"key": "lurenjia", "name": "路人甲影视", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="},
+           //  {"key": "蚂蚁", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, 
+ //"changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download////uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba" }, 
+        {"key": "饭-蚂蚁1", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "./lib/fan.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba"}, 
+          
+   {"key": "XBPQ_蚂蚁","name": " 麻衣影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,
+      "filterable": 1, "ext": "./lib/mayi.json"}, 
+     
 
  #短剧  
   {"key": "csp_XYQHiker_VSYY",
@@ -219,19 +212,7 @@
 
   
  {"key": "csp_XYQHiker_555影视","name":"555影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
- {"key": "csp_XYQHiker_爱看影院","name":"爱看影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/爱看影院.json"},
- {
-            "key": "爱看影院",
-            "name": "🚛爱看影院2",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": "1",
-            "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
-            "ext": "./lib/aikan.json"
-        },
+ 
          {
             "key": "车妹西瓜",
             "name": "🚛西瓜2K",
@@ -269,9 +250,10 @@
          {"key": "Cokemv-饭", "name": "📕可乐┃直连", "type": 3, "api": "csp_Cokemv", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"},
                   {"key": "Cokemv-饭2", "name": "📕可乐┃直连2", "type": 3, "api": "csp_Cokemv", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;364c0f012e73a8801a69900fc25ae9c1"},
            
-          {"key": "Auete-饭", "name": "🏝奥特┃直连", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://haozhansou.com/", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395"},
+  //        {"key": "Auete-饭", "name": "🏝奥特┃直连", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, //"changeable": 1, "ext": "https://haozhansou.com/", 
+  //"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395"},
                     {"key": "Auete-饭2", "name": "🏝奥特┃直连2", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://haozhansou.com/", "jar": "./lib/fan.jar;md5;ea2690fc66083afe1431071968e60395"},
-             {"key": "毛驴-饭", "name": "🍓毛驴┃直连", "type": 3, "api": "csp_MLYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.maolvys.com/", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395"}, 
+ //            {"key": "毛驴-饭", "name": "🍓毛驴┃直连", "type": 3, "api": "csp_MLYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.maolvys.com/", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395"}, 
                           {"key": "毛驴-饭2", "name": "🍓毛驴┃直连2", "type": 3, "api": "csp_MLYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.maolvys.com/", "jar": "./lib/fan.jar;md5;ea2690fc66083afe1431071968e60395"}, 
          {"key": "豪华资源-神", "name": "秒播-豪华", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
        {"key": "drpy_Cmys-神", "name": "秒播-长梦", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/changmeng.js"},
@@ -281,8 +263,6 @@
 
         {"key": "索尼资源-神", "name": "秒播-索尼", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说"], "searchable": 1, "quickSearch": 1}, 
 
- //     {"key": "XYQH_农民", "name": "码上👓玉-🦄农民", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, 
- //   "filterable": 1, "ext": "./lib/农民影视.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
 
        {"key": "鸭鸭-神", "name": "秒播-鸭鸭", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://yayayaaapp.ynf.icu/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
   
@@ -371,12 +351,12 @@
 
           
    #盘搜    
-{"key": "YiSo", "name": "码上👓饭-😹易搜┃搜索", "type": 3, "api": "csp_YiSo", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
-{"key": "Zhaozy", "name": "码上👓饭-🐺找资源┃搜索", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$fanty$$$qqq111", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
-{"key": "PanSou", "name": "码上👓饭-🦊盘搜┃搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
-{"key": "UpYun", "name": "码上👓饭-😻Up搜┃搜索", "type": 3, "api": "csp_UpYun", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
-{"key": "PanSearch", "name": "码上👓饭-🙀盘Se┃搜索", "type": 3, "api": "csp_PanSearch", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
-{"key": "七夜", "name": "码上👓饭-😾七夜┃搜索", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"},
+{"key": "YiSo-饭", "name": "😹易搜┃搜索", "type": 3, "api": "csp_YiSo", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
+{"key": "Zhaozy-饭", "name": "🐺找资源┃搜索", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$fanty$$$qqq111", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
+{"key": "PanSou-饭", "name": "🦊盘搜┃搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
+{"key": "UpYun-饭", "name": "😻Up搜┃搜索", "type": 3, "api": "csp_UpYun", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
+{"key": "PanSearch-饭", "name": "🙀盘Se┃搜索", "type": 3, "api": "csp_PanSearch", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
+{"key": "七夜-饭", "name": "😾七夜┃搜索", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"},
 
 
 #接口
