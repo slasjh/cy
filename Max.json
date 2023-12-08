@@ -187,7 +187,7 @@
                                                                            }},
    {
            "key": "csp_XBPQ_可可2",
-                 "name": "可可影视2",
+                 "name": "可可推荐",
                        "type": 3,
                              "api": "csp_XBPQ",
                                    "searchable": 1,
@@ -195,7 +195,7 @@
                                                "filterable": 1,
                                                      "ext": {
                                                              "分类url": "https://www.keke5.app/topic/detail/{cateId}-{catePg}.html",
-                                                                     "分类": "毒舌电影推荐$3#豆瓣Top 250$1"
+                                                                     "分类": "Netflix美剧$8#毒舌电影推荐$3#豆瓣Top 250$1#精选热映大山$11#豆瓣2022榜单$2#冷门佳片$13#最优质国漫$9#布衣探案推荐$5#乌鸦电影推荐$4"
                                                                            }},
 
 
