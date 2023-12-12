@@ -297,33 +297,26 @@
       "key": "th_芒果",
       "name": "📛TH┃芒果(官源)",
       "type": 3,
-      "api": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./lib/drpy2.min.js",
-      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/百忙无果.js"
+      "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
+      "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/百忙无果.js"
     },  
     {
       "key": "drpy_js_优酷1",
       "name": "📛TH┃优酷(官源)",
       "type": 3,
-      "api": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./lib/drpy2.min.js",
-      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/优酷.js"
+      "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
+      "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/优酷.js"
     },
 
     {
       "key": "腾讯2",
       "name": "📛TH┃腾讯(官源)",
       "type": 3,
-      "api": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./lib/drpy2.min.js",
-      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/腾云驾雾.js"
+      "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
+      "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/腾云驾雾.js"
     },
     
-    {
-      "key": "th_360",
-      "name": "📛TH┃360(官源)",
-      "type": 3,
-      "api": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/360.js"
-    },
- 
+  
 
 #bilibili
  //             {
