@@ -290,21 +290,21 @@
       "key": "爱奇异",
       "name": "📛TH┃爱奇艺(官源)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./lib/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/奇珍异兽.js"
     }, 
     {
       "key": "th_芒果",
       "name": "📛TH┃芒果(官源)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./lib/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/百忙无果.js"
     },  
     {
       "key": "drpy_js_优酷1",
       "name": "📛TH┃优酷(官源)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./lib/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/优酷.js"
     },
 
@@ -312,7 +312,7 @@
       "key": "腾讯2",
       "name": "📛TH┃腾讯(官源)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./lib/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/腾云驾雾.js"
     },
     
@@ -320,7 +320,7 @@
       "key": "th_360",
       "name": "📛TH┃360(官源)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/360.js"
     },
  
