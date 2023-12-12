@@ -191,55 +191,7 @@
      "filterable": 1,
        "ext": {"分类url": "https://www.keke5.app/topic/detail/{cateId}-{catePg}.html",
   "分类": "Netflix美剧$8#毒舌电影推荐$3#豆瓣Top 250$1#精选热映大山$11#豆瓣2022榜单$2#冷门佳片$13#最优质国漫$9#布衣探案推荐$5#乌鸦电影推荐$4" }},
-    {
-      "key": "th_好趣网",
-      "name": "📛TH┃好趣直播",
-      "type": 3,
-      "api": "http://111.67.196.189/tvbox/THTVBox/JS/lib/drpy.min.js",
-      "ext": "http://111.67.196.189/tvbox/THTVBox/JS/js/好趣网.js"
-    },    
-    {
-      "key": "drpy_js_优酷1",
-      "name": "📛TH┃优酷(官源)",
-      "type": 3,
-      "api": "http://111.67.196.189/tvbox/THTVBox/JS/lib/drpy.min.js",
-      "ext": "http://111.67.196.189/tvbox/THTVBox/JS/js/优酷.js"
-    },
-    {
-      "key": "搜狗2",
-      "name": "📛TH┃搜狗(官源)",
-      "type": 3,
-      "api": "http://111.67.196.189/tvbox/THTVBox/JS/lib/drpy.min.js",
-      "ext": "http://111.67.196.189/tvbox/THTVBox/JS/js/菜狗.js"
-    },
-    {
-      "key": "腾讯2",
-      "name": "📛TH┃腾讯(官源)",
-      "type": 3,
-      "api": "http://111.67.196.189/tvbox/THTVBox/JS/lib/drpy.min.js",
-      "ext": "http://111.67.196.189/tvbox/THTVBox/JS/js/腾云驾雾.js"
-    },
-    {
-      "key": "爱奇异",
-      "name": "📛TH┃爱奇艺(官源)",
-      "type": 3,
-      "api": "http://111.67.196.189/tvbox/THTVBox/JS/lib/drpy.min.js",
-      "ext": "http://111.67.196.189/tvbox/THTVBox/JS/js/奇珍异兽.js"
-    }, 
-    {
-      "key": "th_芒果",
-      "name": "📛TH┃芒果(官源)",
-      "type": 3,
-      "api": "http://111.67.196.189/tvbox/THTVBox/JS/lib/drpy.min.js",
-      "ext": "http://111.67.196.189/tvbox/THTVBox/JS/js/百忙无果.js"
-    },     
-    {
-      "key": "th_360",
-      "name": "📛TH┃360(官源)",
-      "type": 3,
-      "api": "http://111.67.196.189/tvbox/THTVBox/JS/lib/drpy.min.js",
-      "ext": "http://111.67.196.189/tvbox/THTVBox/JS/js/360影视.js"
-    },
+
 
 
   
@@ -333,7 +285,45 @@
 "api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
 "ext": "./lib/音范丝.json"}, 
 
+#官源
+     {
+      "key": "爱奇异",
+      "name": "📛TH┃爱奇艺(官源)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/奇珍异兽.js"
+    }, 
+    {
+      "key": "th_芒果",
+      "name": "📛TH┃芒果(官源)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/百忙无果.js"
+    },  
+    {
+      "key": "drpy_js_优酷1",
+      "name": "📛TH┃优酷(官源)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/优酷.js"
+    },
 
+    {
+      "key": "腾讯2",
+      "name": "📛TH┃腾讯(官源)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/腾云驾雾.js"
+    },
+    
+    {
+      "key": "th_360",
+      "name": "📛TH┃360(官源)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/360.js"
+    },
+ 
 
 #bilibili
  //             {
