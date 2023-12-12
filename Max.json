@@ -290,8 +290,8 @@
       "key": "爱奇异",
       "name": "📛TH┃爱奇艺(官源)",
       "type": 3,
-      "api": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./lib/drpy2.min.js",
-      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/./js/奇珍异兽.js"
+      "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
+      "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/奇珍异兽.js"
     }, 
     {
       "key": "th_芒果",
