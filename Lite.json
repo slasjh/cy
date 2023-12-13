@@ -16,7 +16,6 @@
 
   "sites": [
   
-
  {"key": "ok", "name": "官方①", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
    "quickSearch": 1,"playerType": "1",  "ext":"./lib/free.json"},
 {"key": "csp_Free", "name": "官方②", "type": 3, "api": "csp_XBPQ","searchable": 1,
@@ -25,9 +24,6 @@
        "searchable": 1,"quickSearch": 1, "changeable": 1},
         {"key": "yqikan",    "name": "独家②",  "type": 3, "api": "csp_YQKAPP",
              "ext": "https://api-aws.ctdy.cc",   "jar": "./lib/fix1170.jar"},  
-
-
-
 
   {"key":"csp_视觉","name":"影院①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"./lib/xinshijue.json"},
