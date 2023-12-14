@@ -25,8 +25,10 @@
         {"key": "yqikan",    "name": "独家②",  "type": 3, "api": "csp_YQKAPP",
              "ext": "https://api-aws.ctdy.cc",   "jar": "./lib/fix1170.jar"},  
 
-  {"key":"csp_视觉","name":"影院①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
- "filterable":1,"ext":"./lib/xinshijue.json"},
+ // {"key":"csp_视觉","name":"影院①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
+ //"filterable":1,"ext":"./lib/xinshijue.json"},
+      { "key": "Xinsj","name": "影院①", "type": 3,"api": "csp_Xinsj","searchable": 1,
+   "quickSearch": 1,"changeable": 0,"ext": "https://www.80yy3.com/"},
      { "key": "Xinsj","name": "影院②", "type": 3,"api": "csp_Xinsj","searchable": 1,
    "quickSearch": 1,"changeable": 0,"ext": "https://www.6080yy3.com/"},
 
