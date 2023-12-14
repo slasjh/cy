@@ -1,4 +1,5 @@
-{
+{// 在线之家地址发布页 https://www.zxzj.site  
+//https://www.zxzja.com/ https://www.zxzj.pro https://www.zxzjhd.com
     "规则名": "在线之家",
     "规则作者": "香雅情",
     "请求头参数": "User-Agent$PC_UA#Referer$https://www.zxzj.pro",
