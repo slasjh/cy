@@ -47,21 +47,10 @@
       "type": 3,
       "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
       "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/腾云驾雾.js"
-    },
+    }
     
   
 
-#bilibili
-             {
-             "key": "哔哩哔哩",
-             "name": "🅱️哔哩大全",
-             "type": 3,
-              "api": "csp_Bili",
-             "searchable": 1,
-              "quickSearch": 1,
-              "filterable": 1,
-              "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
-              "ext": "./lib/Bili.json" }
 
 
 
