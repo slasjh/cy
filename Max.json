@@ -525,7 +525,7 @@
             ]
         },
        
-       { "key": "淘片资源", "name": "淘片资源", "type": 1, "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+       { "key": "淘片资源", "name": "淘片资源", "type": 1, "api": "https://taopianapi.com/cjapi/mc10/vod/json/m3u8.html",
             "searchable": 1, "quickSearch": 1,"categories":["电影/动作片","电影/喜剧片","电影/科幻片","电影/恐怖片","电影/战争片","综艺/大陆综艺","综艺/港台综艺","综艺/日韩综艺","综艺/欧美综艺","动漫/国产动漫","动漫/日韩动漫","动漫/欧美动漫"]},
       { "key": "搜狐资源", "name": "搜狐资源", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",  "playUrl": "https://jx.xmflv.com/?url=", "searchable": 1, "quickSearch": 1, "filterable": 1,
             "categories": [
