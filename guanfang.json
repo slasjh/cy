@@ -16,38 +16,39 @@
 
   "sites": [
    
-   {"key": "dr_码上看动漫", "name": "🔥哔哩动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
+   {"key": "dr_码上看动漫", "name": "🔥bilibili", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
   
 #官源
      {
-      "key": "爱奇异",
-      "name": "📛爱奇艺(官源)",
+      "key": "爱奇异-豆",
+      "name": "📛爱奇艺",
       "type": 3,
       "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
       "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/奇珍异兽.js"
     }, 
     {
-      "key": "th_芒果",
-      "name": "📛芒果(官源)",
+      "key": "th_芒果-豆",
+      "name": "📛芒果",
       "type": 3,
       "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
       "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/百忙无果.js"
     },  
     {
-      "key": "drpy_js_优酷1",
-      "name": "📛优酷(官源)",
+      "key": "drpy_js_优酷-豆",
+      "name": "📛优酷",
       "type": 3,
       "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
       "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/优酷.js"
     },
 
     {
-      "key": "腾讯2",
-      "name": "📛腾讯(官源)",
+      "key": "腾讯-豆",
+      "name": "📛腾讯",
       "type": 3,
       "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
       "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/腾云驾雾.js"
-    }
+    },
+    {"key": "drpy_js_360影视-猫", "name": "📛360", "type": 3, "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/360.js"}
     
   
 
