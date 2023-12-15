@@ -48,7 +48,7 @@
       "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
       "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/腾云驾雾.js"
     },
-    {"key": "drpy_js_360影视-猫", "name": "📛360", "type": 3, "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/360.js"}
+    {"key": "jar_码上看玩偶", "name": "🔥阿里云", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar": "./custom_spider.jar;md5;8A3584C3608A5412FB02A769AB3886BB"}
     
   
 
