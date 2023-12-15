@@ -217,7 +217,7 @@
             "filterable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
         },
-                       {
+          {
             "key": "简简",
             "name": "简简",
             "type": 3,
@@ -227,6 +227,27 @@
             "filterable": 1,
             "ext": "https://mdy.ahailove.cn/api.php/app/"
         },
+           {
+            "key": "TV酷",
+            "name": "TV酷",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
+        },
+                   {
+            "key": "天天美剧网",
+            "name": "天天美剧网",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.ttmja.com/api.php/app/"
+        },
+
 {"key": "dr_码上荐片", "name": "🔥荐片", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 0, "filterable": 1, "ext": "./lib/荐片.js"}, 
   {"key": "dr_码上低端", "name": "🔥低端", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 0, "filterable": 1, "ext": "./lib/低端影视.js"}, 
   {"key": "dr_码上白白", "name": "🔥白白", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/素白白.js"}, 
@@ -460,14 +481,14 @@
    {"key":"天空资源","name":"天空资源","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},
     {"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
 "playUrl":"","searchable":1,"quickSearch":1,"categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事", "国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-
+ {"key": "虎牙","name": "虎牙资源","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable": 1,
+  "quickSearch": 1,"categories": ["动作片","喜剧片","科幻片","惊悚片","恐怖片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","香港剧","韩国剧","泰国剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
    {"key": "csp_U酷","name": "🚄U酷资源","type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","犯罪片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","搞笑","音乐"] },
 
        {"key": "卧龙资源","name": "卧龙资源","type": 1,"api": "https://collect.wolongzyw.com/api.php/provide/vod/",
   "searchable": 1,"quickSearch": 1,"categories": ["动作片","喜剧片","科幻片","惊悚片","恐怖片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","香港剧","韩国剧","泰国剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
-      {"key": "虎牙","name": "虎牙资源","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable": 1,
-  "quickSearch": 1,"categories": ["动作片","喜剧片","科幻片","惊悚片","恐怖片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","香港剧","韩国剧","泰国剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+     
 
     {"key": "Ikun资源","name": "Ikun资源","type": 0,"api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"categories": ["动作片","喜剧片","科幻片","惊悚片","恐怖片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","香港剧","韩国剧","泰国剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"] },
 
@@ -554,7 +575,10 @@
         {"key":"最大资源","name":"最大资源","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},
         {"key":"八戒资源","name":"八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/api.php","searchable":1,"quickSearch":1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},
                 {"key":"麻花资源","name":"麻花资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","searchable":1,"quickSearch":1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},
-                {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]}
+                {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},
+        {"key": "豪华资源-神", "name": "豪华", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
+         {"key": "土豪资源", "name": "土豪", "type": 1, "api": "https://www.tuhao.tv/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
+                  {"key": "6U资源", "name": "6U资源", "type": 1, "api": "http://zy.ataoju.com/inc/api.php", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]}
 
 
 
