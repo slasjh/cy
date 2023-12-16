@@ -139,7 +139,7 @@
  
 {"key": "csp_XYQHiker_奈飞中文","name":"🎦奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
    {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
-   { "key": "电影港",      "name": "🧲电影港",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "./lib/电影港磁力.json",      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
+
         
 
            //  {"key": "蚂蚁", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, 
@@ -217,17 +217,16 @@
             "filterable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
         },
-          {
-            "key": "简简",
-            "name": "简简",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mdy.ahailove.cn/api.php/app/"
-        },
-           {
+
+
+
+
+
+
+
+
+
+  {
             "key": "TV酷",
             "name": "TV酷",
             "type": 3,
@@ -321,6 +320,10 @@
    { "key": "csp_xpath_yinfans", 			"name": "💥音范丝4K", 			"type": 3, 			
 "api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
 "ext": "./lib/音范丝.json"}, 
+
+      { "key": "电影港",      "name": "🧲电影港4K",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "./lib/电影港磁力.json",      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
+              
+
 
 #官源
      {
