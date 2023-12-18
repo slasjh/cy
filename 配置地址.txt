@@ -1,7 +1,7 @@
 clan://localhost/tvbox/时光机/时光机.json
 20131019
 "jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"
-**csp_Ysgc**csp_Xinsj**
+**csp_Ysgc**csp_Xinsj**csp_YQKan**Zxzj**csp_AppYsV2 
 
 20231030
 kf   "./custom_spider_stable20231030.jar;md5;3EB3583BC70B80EC673D88397967DBEC"
@@ -9,21 +9,30 @@ cs   "./custom_spider_stable20231030.jar;md5;3EB3583BC70B80EC673D88397967DBEC"
 
 
 local   "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
-**csp_XBPQ  ##csp_YQKan**csp_AppYsV2     
+**csp_XBPQ  ##csp_YQKan**csp_AppYsV2   **csp_Xinsj  **Xpath   **Zxzj  **Auete   ** Bili  *Bttwoo  
 
 20231113
 "spider": "./custom_spider.jar;md5;F6CE0CE7BD8B398540BE062EBEF7051D"
-**csp_XBPQ   **csp_Xinsj   
+   **csp_Xinsj   **csp_YQKan  **Zxzj  **csp_AppYsV2 
 
 
 "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0" 
-**csp_XYQHiker**csp_AppYsV2**
-
+ ** Bili   *csp_AppYsV2**  **csp_AppYs **MeijuMi   **MeijuTT  **SP360   **csp_XBPQ  *XPath *XPathFilter
+*XYQBiu   **csp_XYQHiker   **Kunyu77   **Jianpian 
 
 
 "jar": "./lib/小米ab.jar"
-**csp_XBPQ
+**csp_XBPQ  **csp_AppYsV2 **csp_AppYs  
 
+jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
+ ** Bili   *csp_AppYsV2**  **csp_AppYs **MeijuMi   **MeijuTT  **SP360   **csp_XBPQ  *XPath *XPathFilter
+*XYQBiu   **csp_XYQHiker   **Kunyu77   **Jianpian 
+
+"jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"
+ ** Ali   *csp_AppYsV2**   **Auete   ** Bili   Bttwoo   **Kunyu77   **NanGua  **XPath *XPathFilter  **Zxzj 
+ **csp_YQKan   **AppMao
+
+ 
 
 
 
