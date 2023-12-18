@@ -207,7 +207,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-      "ext": { "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+      "ext": { "请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
  "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
     "图片": "data-original=\"&&\"",
 "搜索url": "https://www.keke2.app/search?k={wd}" }},
@@ -219,7 +219,7 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 1,
-       "ext": {"请求头": "User-Agent$MOBILE_UA","图片": "data-original=\"&&\"","分类url": "https://www.keke5.app/topic/detail/{cateId}-{catePg}.html",
+       "ext": {"请求头": "User-Agent$MOBILE_UA","图片": "\"vod_pic\"*\"&&\"","分类url": "https://www.keke5.app/topic/detail/{cateId}-{catePg}.html",
   "分类": "Netflix美剧$8#毒舌电影推荐$3#豆瓣Top 250$1#精选热映大山$11#豆瓣2022榜单$2#冷门佳片$13#最优质国漫$9#布衣探案推荐$5#乌鸦电影推荐$4","搜索url": "https://www.keke2.app/search?k={wd}","搜索图片": "http://img.vopox.net/wp-content/uploads/2023/03/y2fga2jzwq2.jpg" }},
 //"data-original=\"&&\""   "图片": "\"vod_pic\"*\"&&\""
 
