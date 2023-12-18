@@ -14,7 +14,7 @@
     "链接": "href=\"&&\"",
     "搜索模式": "1",
     "搜索二次截取": "type=\"application/json\">&&</script>",
-    "搜索url": "https://search.ymck.me/index.php?q={wd}",
+    "搜索url": "https://ymck.pro/search/wd/{wd}.html",
     "搜索数组": "<b>&&</b>[包含:Freeok]",
     "搜索副标题": "<a>&&</a>",
     "搜索标题": "class='movie_name'>&&</a>",
