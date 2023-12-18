@@ -53,16 +53,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
       {"key": "dr_码上农民", "name": "🍉测试①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/农民影视.js"},
         {"key": "77-饭2", "name": "🍉测试②", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;364c0f012e73a8801a69900fc25ae9c1"},
          // {"key": "jar_码上Auete", "name": "🍉测试②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
