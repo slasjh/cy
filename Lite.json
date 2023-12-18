@@ -21,7 +21,7 @@
   
 
  {"key": "ok-vip", "name": "官方②", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
-   "quickSearch": 1,"playerType": "1",  "ext":"./lib/freeokvip.json"},
+   "quickSearch": 1,"playerType": "1",  "ext":"./lib/freeokvip.json","jar": "./lib/小米ab.jar"},
 
 
     {"key": "一起看 ","name": "独家①","type": 3,"api": "csp_YQKan",
