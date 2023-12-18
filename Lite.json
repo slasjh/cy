@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;F6CE0CE7BD8B398540BE062EBEF7051",
+  "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "X影视Lite友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
   "lives": [
@@ -17,7 +17,7 @@
   "sites": [
   {"key": "csp_Free", "name": "官方①",
 "type": 3, "api": "csp_XBPQ","searchable": 1,
-"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json","jar": "./lib/小米ab.jar" }, 
+"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json" }, 
   
 
  {"key": "ok-vip", "name": "官方②", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
