@@ -207,9 +207,9 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-      "ext": { "请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+      "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
  "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
-    "图片": "data-original=\"&&\"",
+    "图片": "\"vod_pic\"*\"&&\"",
 "搜索url": "https://www.keke2.app/search?k={wd}" }},
    {
    "key": "csp_XBPQ_可可2",
