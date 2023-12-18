@@ -28,13 +28,14 @@
        "searchable": 1,"quickSearch": 1, "changeable": 1},
         {"key": "yqikan",    "name": "独家②",  "type": 3, "api": "csp_YQKAPP",
              "ext": "https://api-aws.ctdy.cc",   "jar": "./lib/fix1170.jar"},  
-
- {"key":"csp_视觉","name":"影院①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
-  //     { "key": "新视觉","name": "影院①", "type": 3,"api": "csp_Xinsj","searchable": 1,
-  //  "quickSearch": 1,"changeable": 0,"ext": "https://www.80yy3.com/"},
-     { "key": "Xinsj","name": "影院②", "type": 3,"api": "csp_Xinsj","searchable": 1,
+   { "key": "Xinsj","name": "影院①", "type": 3,"api": "csp_Xinsj","searchable": 1,
    "quickSearch": 1,"changeable": 0,"ext": "https://www.6080yy3.com/"},
+
+ {"key":"csp_视觉","name":"影院②","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
+  //     { "key": "新视觉","name": "影院②", "type": 3,"api": "csp_Xinsj","searchable": 1,
+  //  "quickSearch": 1,"changeable": 0,"ext": "https://www.80yy3.com/"},
+
 
  {"key": "csp_XYQHiker_在线之家","name":"专线①","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
      {"key": "dr_看在线", "name": "专线②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/在线之家.js"},
