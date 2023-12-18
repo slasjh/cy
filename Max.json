@@ -207,7 +207,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-      "ext": { "请求头": "User-Agent$MOBILE_UA","图片": "\"vod_pic\"*\"&&\"","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+      "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
  "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
