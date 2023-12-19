@@ -143,22 +143,6 @@
 
         
 
-           //  {"key": "蚂蚁", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, 
- //"changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download////uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba" }, 
-        {"key": "饭-蚂蚁1", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "./lib/fan.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba"}, 
- {"key": "csp_XYQHiker_爱看影院","name":"爱看影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/爱看影院.json"},
- {
-            "key": "爱看影院",
-            "name": "🚛爱看影院2",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": "1",
-            "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
-            "ext": "./lib/aikan.json"
-        },
 
  #短剧  
   {"key": "csp_XYQHiker_VSYY",
@@ -593,7 +577,26 @@
         {"key":"八戒资源","name":"八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/api.php","searchable":1,"quickSearch":1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},
                 {"key":"麻花资源","name":"麻花资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","searchable":1,"quickSearch":1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},
                 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},
-        {"key": "豪华资源", "name": "豪华资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]}
+        {"key": "豪华资源", "name": "豪华资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
+
+
+#效果不好
+           //  {"key": "蚂蚁", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, 
+ //"changeable": 1, "ext": "http://rzys.xyz", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download////uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba" }, 
+        {"key": "饭-蚂蚁1", "name": "🐜蚂蚁影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://rzys.xyz", "jar": "./lib/fan.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba"}, 
+ {"key": "csp_XYQHiker_爱看影院","name":"爱看影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/爱看影院.json"},
+ {
+            "key": "爱看影院",
+            "name": "🚛爱看影院2",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": "1",
+            "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
+            "ext": "./lib/aikan.json"
+        }
 
 
 
