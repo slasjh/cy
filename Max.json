@@ -155,7 +155,7 @@
 {"key": "xgapp","name": "🎦西瓜秒播","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
  
  {"key": "csp_黑狐","name": "🎦黑狐┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/heihu.json"},
- //{"key": "77-饭", "name": "👒七七┃App", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"},
+ {"key": "77-饭", "name": "👒七七┃App", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"},
   {"key": "77-饭2", "name": "👒七七┃App", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;364c0f012e73a8801a69900fc25ae9c1"},
 
  //        {"key": "Cokemv-饭", "name": "📕可乐┃直连", "type": 3, "api": "csp_Cokemv", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"},
