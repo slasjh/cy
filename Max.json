@@ -211,7 +211,12 @@
  "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
  			"主页url": "https://www.keke2.app",
 
-    "图片": "https://www.keke5.app{data-original}",
+                "二次截取": "class=\"item-box\">&&</ul>",
+                "数组": "<li&&</li>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+
     
 "搜索url": "https://www.keke2.app/search?k={wd}" }},
    {
