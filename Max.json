@@ -169,7 +169,6 @@
 "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/短剧网.json"
 },
 {"key": "csp_XBPQ_aoaotv", "name": "🎦短剧嗷嗷", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html", "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
-{"key": "XBPQ_葡萄", "name": "🎦短剧葡萄", "type": 3, "api": "csp_XBPQ", "ext": {"分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html", "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11","jar": "./lib/小米ab.jar"}}, 
     {
       "key": "csp_XBPQ_短剧",
       "name": "💛短剧迷",
@@ -182,21 +181,12 @@
         "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
         "分类": "短剧$20","jar": "./lib/小米ab.jar"
       }},
-      {"key": "短剧one", "name": "码上👓cat-🥰┃短剧┃视频", "type": 3, "api": "csp_Panda", "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb", "ext": "https://d.kstore.space/download/6296/json/短剧.json"},
-       {"key": "532短剧", "name": "码上👓cat-💓┃短剧┃视频", "type": 3, "api": "csp_Panda", "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb", "ext": "分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"}, 
-{"key": "种子短剧", "name": "码上👓cat-💮┃短剧┃视频", "type": 3, "api": "csp_Panda", "spider": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb", "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932"},
-   {
-           "key": "csp_XBPQ_种子短剧cat",
-                 "name": "🔥短剧",
-                       "type": 3,
-                             "api": "csp_XBPQ",
-                                   "searchable": 1,
-                                         "quickSearch": 1,
-                                               "filterable": 1,
-                                                     "ext": {
-                                                             "分类url": "http://web.zzdj.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html",
- "jar": "./lib/小米ab.jar",                          "分类": "快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1"
-                                                                           }},
+
+            {"key": "短剧one-cat", "name": "🥰one短剧", "type": 3, "api": "csp_Panda", "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb", "ext": "./lib/one短剧.json"},
+
+    //  {"key": "短剧one", "name": "码上👓cat-🥰one短剧", "type": 3, "api": "csp_Panda", "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb", "ext": "https://d.kstore.space/download/6296/json/短剧.json"},
+
+
 
 
    {
