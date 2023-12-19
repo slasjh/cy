@@ -212,9 +212,9 @@
  			"主页url": "https://www.keke2.app",
 
                 "二次截取": "class=\"item-box\">&&</ul>",
-                "数组": "<li&&</li>",
+ 
                 "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
+
                 "链接": "href=\"&&\"",
 
     
