@@ -210,14 +210,7 @@
       "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
  "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
  			"主页url": "https://www.keke2.app",
-
-                "二次截取": "class=\"item-box\">&&</ul>",
- 
-                "图片": "data-original=\"&&\"",
-
-                "链接": "href=\"&&\"",
-
-    
+      "图片": "\"vod_pic\"*\"&&\"",   
 "搜索url": "https://www.keke2.app/search?k={wd}" }},
    {
    "key": "csp_XBPQ_可可2",
