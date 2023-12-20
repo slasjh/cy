@@ -35,7 +35,7 @@
       "filterable": 0,
       "ext": "./lib/动漫巴士.json"
     }, 
-   {"key": "csp_Free", "name": "Free", "type": 3, "api": "csp_XBPQ","searchable": 1,
+   {"key": "csp_Free", "name": "Freeok动漫", "type": 3, "api": "csp_XBPQ","searchable": 1,
 "quickSearch": 1,"filterable": 1,"ext": "./lib/freeok-dongman.json","jar": "./lib/小米ab.jar" },
 
     {"key":"csp_视觉","name":"视觉动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
@@ -55,7 +55,7 @@
 
      {
     "key": "csp_XBPQ_无忧",
-   "name": "无忧影视",
+   "name": "无忧动漫",
      "type": 3,
      "api": "csp_XBPQ",
      "searchable": 1,
@@ -65,7 +65,7 @@
         "分类": "动漫$4" }},
             {
     "key": "csp_XBPQ_可乐",
-   "name": "可乐影视",
+   "name": "可乐动漫",
      "type": 3,
      "api": "csp_XBPQ",
      "searchable": 1,
