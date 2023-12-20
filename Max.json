@@ -244,7 +244,7 @@
      "quickSearch": 1,
        "filterable": 1,
         "ext": { "分类url": "https://www.dianyi.ng/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$pianku-dianying#电视剧$pianku-dianshiju#pianku-zongyi$3#动漫$pianku-dongman" }},
+        "分类": "电影$pianku-dianying#电视剧$pianku-dianshiju#综艺$pianku-zongyi#动漫$pianku-dongman" }},
 
                  {
             "key": "迷你",
