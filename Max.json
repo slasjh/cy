@@ -225,6 +225,16 @@
        "filterable": 1,
         "ext": { "分类url": "https://meiyida01.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4" }},
+            {
+    "key": "csp_XBPQ_可乐",
+   "name": "可乐影视",
+     "type": 3,
+     "api": "csp_XBPQ",
+     "searchable": 1,
+     "quickSearch": 1,
+       "filterable": 1,
+        "ext": { "分类url": "https://cokeby.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4" }},
 
                  {
             "key": "迷你",
