@@ -62,7 +62,8 @@
      "quickSearch": 1,
        "filterable": 1,
         "ext": { "分类url": "https://wyysi.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "动漫$4" }},
+        "分类": "动漫$4"
+ }},
             {
     "key": "csp_XBPQ_可乐",
    "name": "🍉可乐动漫",
