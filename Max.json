@@ -246,7 +246,7 @@
         "ext": { "分类url": "https://www.dianyi.ng/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","搜索url": "https://www.dianyi.ng/search-{wd}",
         "分类": "国产剧$pianku-guochan#欧美剧$pianku-oumei#韩国剧$pianku-hanju" }},
 
-                 {
+     {
             "key": "迷你",
             "name": "迷你",
             "type": 3,
