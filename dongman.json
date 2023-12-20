@@ -81,12 +81,12 @@
 "searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [ "动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫","动漫电影"]},
    {"key": "xml_优质", "name": "💢优质动漫", "type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list",
 "searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [ "动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫","动漫电影"]},
-{"key":"csp_xml_新浪资源","name":"🐝新浪动漫","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+{"key":"csp_xml_新浪资源","name":"💢新浪动漫","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
 "playUrl":"","searchable":1,"quickSearch":1,"categories": ["动漫","动漫电影","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫"]},
-{"key": "csp_SNzy","name": "🐉索尼动漫","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+{"key": "csp_SNzy","name": "💢索尼动漫","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
   "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [ "动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫","动漫电影"] },
 
- { "key": "暴風","name": "🌀暴風动漫","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 1,
+ { "key": "暴風","name": "💢暴風动漫","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 1,
       "changeable": 1,"categories": ["动画片", "国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫"] },
 
    { "key": "量子", "name": "🥑量子动漫", "type": 0, "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
@@ -120,9 +120,7 @@
             "jar": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"
         },
 
-{"key":"去看吧","name":"💨去看┃动漫","type":3,"api":"csp_XBPQ","jar":"./jar.jar;md5;9fc2ed12545bcb180d1bbdbbf620102","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/去看吧.json"},
-{"key":"csp_xp_dmw","name":"💢动漫岛","type":3,"api":"csp_XPathMacFilter","jar":"https://raw.liucn.cc/box/sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.liucn.cc/box/sub/MeowXP/dmw.json"}
+{"key":"去看吧","name":"💨去看┃动漫","type":3,"api":"csp_XBPQ","jar":"./jar.jar;md5;9fc2ed12545bcb180d1bbdbbf620102","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/去看吧.json"}
 
      
 
