@@ -235,6 +235,16 @@
        "filterable": 1,
         "ext": { "分类url": "https://cokeby.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4" }},
+                    {
+    "key": "csp_XBPQ_电影先生",
+   "name": "电影先生",
+     "type": 3,
+     "api": "csp_XBPQ",
+     "searchable": 1,
+     "quickSearch": 1,
+       "filterable": 1,
+        "ext": { "分类url": "https://www.dianyi.ng/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$pianku-dianying#电视剧$pianku-dianshiju#pianku-zongyi$3#动漫$pianku-dongman" }},
 
                  {
             "key": "迷你",
