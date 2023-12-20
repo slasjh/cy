@@ -243,8 +243,8 @@
      "searchable": 1,
      "quickSearch": 1,
        "filterable": 1,
-        "ext": { "分类url": "https://www.dianyi.ng/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$pianku-dianying#电视剧$pianku-dianshiju#综艺$pianku-zongyi#动漫$pianku-dongman" }},
+        "ext": { "分类url": "https://www.dianyi.ng/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","搜索url": "https://www.dianyi.ng/search-{wd}"
+        "分类": "国产剧$pianku-guochan#欧美剧$pianku-oumei#韩国剧$pianku-hanju" }},
 
                  {
             "key": "迷你",
