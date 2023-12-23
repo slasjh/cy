@@ -70,7 +70,7 @@
             "changeable": 1
         }, 
   {
-            "key": "车妹西瓜",
+            "key": "车妹-西瓜",
             "name": "🍉测试②",
             "type": 3,
             "api": "csp_AppYsV2",
@@ -95,7 +95,7 @@
        "filterable": 1,
         "ext": { "分类url": "https://wyysi.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4" }},
-                   {
+    {
     "key": "csp_XBPQ_可乐",
    "name": "💢接口③",
      "type": 3,
@@ -105,7 +105,7 @@
        "filterable": 1,
         "ext": { "分类url": "https://cokeby.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$29#动漫$3" }},
-        {"key": "jar_码上Auete", "name": "💢测试④", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"}
+   {"key": "jar_码上Auete", "name": "💢测试④", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"}
 
 
 
