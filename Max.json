@@ -121,11 +121,11 @@
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         }, 
-     {"key": "lurenjia", "name": "路人甲影视", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="},
+     {"key": "lurenjia", "name": "🎦路人甲影视", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="},
  
      {
     "key": "csp_XBPQ_无忧",
-   "name": "无忧影视",
+   "name": "🎦无忧影视",
      "type": 3,
      "api": "csp_XBPQ",
      "searchable": 1,
@@ -135,7 +135,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4" }},
                    {
     "key": "csp_XBPQ_可乐",
-   "name": "可乐影视",
+   "name": "🎦可乐影视",
      "type": 3,
      "api": "csp_XBPQ",
      "searchable": 1,
@@ -143,19 +143,20 @@
        "filterable": 1,
         "ext": { "分类url": "https://cokeby.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$29#动漫$3" }},
- {"key": "csp_XYQHiker_好戏网","name":"好戏网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/好戏网.json"},
+
+ {"key": "csp_XYQHiker_好戏网","name":"🎦好戏网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/好戏网.json"},
  {"key": "csp_黑狐","name": "🎦黑狐┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/heihu.json"},
     {"key": "Auete-饭2", "name": "🏝奥特┃直连", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://haozhansou.com/", "jar": "./lib/fan.jar;md5;ea2690fc66083afe1431071968e60395"},
+   {"key": "jar_码上Auete", "name": "🔥Auete", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
 
 
 
  {"key": "csp_XYQHiker_555影视","name":"555影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
 
-{"key": "csp_XYQHiker_奈飞中文","name":"🎦奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
+{"key": "csp_XYQHiker_奈飞中文","name":"奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
    {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
  
  {"key": "csp_XYQHiker_秋霞电影","name":"🦞秋霞电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/秋霞电影.json"},
- 
  
  {"key": "csp_XYQHiker_锐行加速影院","name":"锐行加速影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/锐行加速影院.json"},
  {"key":"394tv","name":"394影视","type":1,"api":"https://www.394tv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","犯罪片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","动画片","动漫","中国动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"] },
@@ -166,18 +167,18 @@
         
 #秒播
   
-{"key": "xgapp","name": "🎦秒播-西瓜","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"key": "xgapp","name": "🚄秒播-西瓜","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
- {"key": "豪华资源-神", "name": "秒播-豪华", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
- {"key": "49zy-神", "name": "秒播-49", "type": 1, "api": "https://49zyw.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "categories": ["国产剧", "纪录片", "欧美剧", "香港剧", "动作片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "喜剧片", "动画片", "犯罪片", "韩国剧", "动漫", "电影", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "台湾剧", "国产动漫", "日本动漫", "欧美动漫", "泰国剧", "日剧", "电影解说", "奇幻片", "灾难片", "悬疑片", "其他片", "体育赛事", "海外剧"]}, 
- {"key": "索尼资源-神", "name": "秒播-索尼", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说"], "searchable": 1, "quickSearch": 1}, 
-  {"key": "无限影视APP-神", "name": "秒播-无限", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.wxtv.net/api.php/app/",  "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
-   {"key": "鑫鑫影视-神", "name": "秒播-鑫鑫", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
-   {"key": "jszy-神", "name": "秒播-极速", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "灾难片", "悬疑片", "犯罪片", "奇幻片", "记录片", "内地剧", "香港剧", "台湾剧", "日剧", "韩剧", "马泰剧", "欧美剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "体育赛事"]},
+ {"key": "豪华资源-神", "name": "🚄秒播-豪华", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
+ {"key": "49zy-神", "name": "🚄秒播-49", "type": 1, "api": "https://49zyw.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "categories": ["国产剧", "纪录片", "欧美剧", "香港剧", "动作片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "喜剧片", "动画片", "犯罪片", "韩国剧", "动漫", "电影", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "台湾剧", "国产动漫", "日本动漫", "欧美动漫", "泰国剧", "日剧", "电影解说", "奇幻片", "灾难片", "悬疑片", "其他片", "体育赛事", "海外剧"]}, 
+ {"key": "索尼资源-神", "name": "🚄秒播-索尼", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说"], "searchable": 1, "quickSearch": 1}, 
+  {"key": "无限影视APP-神", "name": "🚄秒播-无限", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.wxtv.net/api.php/app/",  "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
+   {"key": "鑫鑫影视-神", "name": "🚄秒播-鑫鑫", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
+   {"key": "jszy-神", "name": "🚄秒播-极速", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "灾难片", "悬疑片", "犯罪片", "奇幻片", "记录片", "内地剧", "香港剧", "台湾剧", "日剧", "韩剧", "马泰剧", "欧美剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "体育赛事"]},
     {"key": "少泽影客（APP）-神", "name": "秒播-少泽", "type": 3, "api": "csp_AppYsV2", "ext": "https://yk.shaozeyy.com/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
       
-  {"key": "csp_干饭-玉", "name": "🍱干饭┃2K", "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/干饭影视.json"},
- {"key": "土豪资源", "name": "土豪", "type": 1, "api": "https://www.tuhao.tv/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
+  {"key": "csp_干饭-玉", "name": "🚄干饭┃2K", "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/干饭影视.json"},
+ {"key": "土豪资源", "name": "🚄土豪", "type": 1, "api": "https://www.tuhao.tv/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
 
 
 
@@ -257,9 +258,6 @@
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
         },
 
-
-
-
   {
             "key": "TV酷",
             "name": "TV酷",
@@ -290,7 +288,7 @@
    {"key": "dr_码上时光", "name": "🔥时光", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/时光影视.js"}, 
    {"key": "dr_码上网飞", "name": "🔥网飞", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/网飞.TV.js"}, 
    {"key": "dr_码上跟剧", "name": "🔥跟剧", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/我爱跟剧.js"},
-    {"key": "jar_码上Auete", "name": "🔥Auete", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
+  
 
 
 
