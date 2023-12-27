@@ -51,16 +51,7 @@
     
             {"key": "drpy_js_360影视-猫", "name": "📛360", "type": 3, "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/360.js"},
             #bilibili
-           {
-           "key": "哔哩哔哩",
-            "name": "🅱️哔哩影視",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
-             "ext": "./lib/Bili影视.json" },
+         //  {"key": "哔哩哔哩", "name": "🅱️哔哩影視",  "type": 3,"api": "csp_Bili", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0","ext": "./lib/Bili影视.json" },
               {"key": "dr_码上看动漫", "name": "🔥哔哩動漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} 
 
 
