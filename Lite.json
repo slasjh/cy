@@ -93,7 +93,7 @@
      "searchable": 1,
      "quickSearch": 1,
        "filterable": 1,
-        "ext": { "分类url": "https://wyysi.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "ext": { "分类url": "https://www.wyys.net/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4" }},
     {
     "key": "csp_XBPQ_可乐",
