@@ -58,20 +58,13 @@
 //{"key": "种子短剧-cat", "name": "🔥短剧", "type": 3, "api": "csp_Panda", "spider": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb", "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932"},
 
 
-                  {
-            "key": "南瓜-饭",
-            "name": "🍉测试①",
-            "type": 3,
-            "api": "csp_NanGua",
- "jar": "./lib/fan.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",        
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        }, 
+  // { "key": "南瓜-饭", "name": "🍉测试①", "type": 3, "api": "csp_NanGua",
+ //"jar": "./lib/fan.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",         "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
+
+
   {
             "key": "车妹-西瓜",
-            "name": "🍉测试②",
+            "name": "🍉测试①",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -79,16 +72,14 @@
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
+                {"key": "dr_码上时光", "name": "🍉测试②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/时光影视.js"}, 
 
       //  {"key": "77-饭2", "name": "🍉测试②", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;364c0f012e73a8801a69900fc25ae9c1"},
          // {"key": "jar_码上Auete", "name": "🍉测试②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
 
-{"key": "lurenjia", "name": "💢接口①", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="},
+//{"key": "lurenjia", "name": "💢接口①", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="},
  
-   //  {"key": "csp_XBPQ_无忧","name": "💢接口②","type": 3,"api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,
-//"filterable": 1, 
-//"ext": { "分类url": "https://www.wyys.net/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html", 
-//"分类": "电影$1#电视剧$2#综艺$3#动漫$4" }},
+  {"key": "jar_码上Auete", "name": "💢接口①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
 
  {"key": "csp_XYQHiker_好戏网","name":"💢接口②","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/好戏网.json"},
 
@@ -102,7 +93,12 @@
        "filterable": 1,
         "ext": { "分类url": "https://cokeby.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$29#动漫$3" }},
-   {"key": "jar_码上Auete", "name": "💢接口④", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"}
+     {"key": "csp_XBPQ_无忧","name": "💢接口④","type": 3,"api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,
+"filterable": 1, 
+"ext": { "分类url": "https://www.wyys.net/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html", 
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4" }}
+
+ 
 
 
 
