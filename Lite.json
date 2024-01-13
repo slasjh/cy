@@ -19,37 +19,37 @@
  //{"key": "Xinsj饭", "name": "码上👓饭-👓视觉┃直连", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.hdmyy.com/", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8a3584c3608a5412fb02a769ab3886bb"},
 
  
-  {"key": "csp_Free", "name": "官方①",
+  {"key": "csp_Free", "name": "👌官方①",
 "type": 3, "api": "csp_XBPQ","searchable": 1,
 "quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json" }, 
   
 
- {"key": "ok-vip", "name": "官方②", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
+ {"key": "ok-vip", "name": "👌官方②", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
    "quickSearch": 1,"playerType": "1",  "ext":"./lib/freeokvip.json","jar": "./lib/小米ab.jar"},
 
 
-    {"key": "一起看 ","name": "独家①","type": 3,"api": "csp_YQKan",
+    {"key": "一起看 ","name": "👑独家①","type": 3,"api": "csp_YQKan",
        "searchable": 1,"quickSearch": 1, "changeable": 1},
-{"key": "一起看-饭 ", "name": "独家②", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"},  
+{"key": "一起看-饭 ", "name": "👑独家②", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"},  
   // { "key": "Xinsj","name": "影院①", "type": 3,"api": "csp_Xinsj","searchable": 1,
   // "quickSearch": 1,"changeable": 0,"ext": "https://www.6080yy3.com/"},
  
- {"key":"csp_视觉","name":"影院①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ {"key":"csp_视觉","name":"👓影院①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
-{"key":"csp_视觉2","name":"影院②","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_视觉2","name":"👓影院②","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./lib/xinshijue2.json","jar":"./lib/小米ab.jar"},
 
   //     { "key": "新视觉","name": "影院②", "type": 3,"api": "csp_Xinsj","searchable": 1,
   //  "quickSearch": 1,"changeable": 0,"ext": "https://www.80yy3.com/"},
 
 
- {"key": "csp_XYQHiker_在线之家","name":"专线①","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-     {"key": "dr_看在线", "name": "专线②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/在线之家.js"},
+ {"key": "csp_XYQHiker_在线之家","name":"🏠专线①","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+     {"key": "dr_看在线", "name": "🏠专线②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/在线之家.js"},
 
 
-  {"key": "csp_Ysgc","name": "云播①","type": 3, "api": "csp_Ysgc", "searchable": 1,"quickSearch": 1,"changeable": 1,
+  {"key": "csp_Ysgc","name": "🏭云播①","type": 3, "api": "csp_Ysgc", "searchable": 1,"quickSearch": 1,"changeable": 1,
      "ext": "https://www.ysgc3.cc/","jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"},
- {"key": "csp_XYQHiker_影视工场2","name": "云播②","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
+ {"key": "csp_XYQHiker_影视工场2","name": "🏭云播②","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
 "changeable": 1,"filterable": 1,"ext": "./lib/影视工场.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
  
 
@@ -66,7 +66,7 @@
 
   {
             "key": "车妹-西瓜",
-            "name": "💢接口①",
+            "name": "🍉接口①",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -75,7 +75,7 @@
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
          {"key": "csp_XYQHiker_好戏网","name":"💢接口②","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/好戏网.json"},
-          {"key": "jar_码上Auete", "name": "💢接口③", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
+          {"key": "jar_码上Auete", "name": "🏝接口③", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
                 {"key": "dr_码上时光", "name": "💢接口④", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/时光影视.js"}, 
 
          // {"key": "jar_码上Auete", "name": "🍉测试②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
