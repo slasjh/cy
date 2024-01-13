@@ -139,8 +139,6 @@
 #秒播
   
 
-
-  {"key": "无限影视APP-神", "name": "🚄秒播-无限", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.wxtv.net/api.php/app/",  "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
    {"key": "鑫鑫影视-神", "name": "🚄秒播-鑫鑫", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
 
     {"key": "少泽影客（APP）-神", "name": "🚄秒播-少泽", "type": 3, "api": "csp_AppYsV2", "ext": "https://yk.shaozeyy.com/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
@@ -181,7 +179,6 @@
 //"data-original=\"&&\""   "图片": "\"vod_pic\"*\"&&\""
 
 
-        {"key": "csp_XYQHiker_奇趣影视","name":"奇趣影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奇趣影视.json"},
  
 
 
