@@ -1,4 +1,4 @@
-{
+{//✨🎉
   "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "X影视友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
@@ -29,7 +29,7 @@
     },
     {
       "key": "csp_Free",
-      "name": "✨福瑞影视",
+      "name": "👌福瑞影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -45,7 +45,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1},
-      {"key": "一起看-饭 ", "name": "🎉一起看", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
+      {"key": "一起看-饭 ", "name": "👑一起看", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
 
 
     
@@ -91,15 +91,18 @@
 
     {"key": "Auete-饭2", "name": "🏝奥特直连", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://haozhansou.com/", "jar": "./lib/fan.jar;md5;ea2690fc66083afe1431071968e60395"},
    {"key": "jar_码上Auete", "name": "🔥Auete影视", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
- {"key": "csp_XYQHiker_奈飞中文","name":"奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
- {"key": "csp_XYQHiker_奈飞中文2","name":"奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文2.json"},
-   {"key": "csp_XYQHiker_鸭奈飞影视","name":"鸭奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
-    {"key": "csp_XYQHiker_鸭奈飞影视2","name":"鸭奈飞影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视2.json"},
-  {"key": "奇优-猫1", "name": "奇优影视", "type": 3, "playerType": "2", "api": "./lib/drpy2.min.js", "ext": "./lib/奇优.js"},
-{"key": "奇优-猫", "name": "奇优影院", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/奇优.js"},
+
+ {"key": "csp_XYQHiker_奈飞中文","name":"✨奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
+ {"key": "csp_XYQHiker_奈飞中文2","name":"✨奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文2.json"},
+
+   {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆鸭奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
+    {"key": "csp_XYQHiker_鸭奈飞影视2","name":"🦆鸭奈飞影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视2.json"},
+
+  {"key": "奇优-猫1", "name": "🎉奇优影视", "type": 3, "playerType": "2", "api": "./lib/drpy2.min.js", "ext": "./lib/奇优.js"},
+{"key": "奇优-猫", "name": "🎉奇优影院", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/奇优.js"},
  #//福利
-           {"key": "csp_XYQHiker_555影视","name":"555影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
-        {"key": "csp_XYQHiker_555影视2","name":"555影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视2.json"},
+           {"key": "csp_XYQHiker_555影视","name":"🙀555影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
+        {"key": "csp_XYQHiker_555影视2","name":"🙀555影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视2.json"},
  
       
 
