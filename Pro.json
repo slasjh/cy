@@ -320,17 +320,8 @@
             "filterable": 1,
             "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
             "ext": "./lib/yanchanghui.txt"
-        },
-   #听书 
+        }
 
-          
-   #盘搜    
-{"key": "YiSo-饭", "name": "😹易搜┃搜索", "type": 3, "api": "csp_YiSo", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
-{"key": "Zhaozy-饭", "name": "🐺找资源┃搜索", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$fanty$$$qqq111", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
-{"key": "PanSou-饭", "name": "🦊盘搜┃搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
-{"key": "UpYun-饭", "name": "😻Up搜┃搜索", "type": 3, "api": "csp_UpYun", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
-{"key": "PanSearch-饭", "name": "🙀盘Se┃搜索", "type": 3, "api": "csp_PanSearch", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}, 
-{"key": "七夜-饭", "name": "😾七夜┃搜索", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd", "jar": "./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"}
 
 
 
