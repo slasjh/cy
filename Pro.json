@@ -99,7 +99,16 @@
 {"key": "奇优-猫", "name": "奇优影院", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/奇优.js"},
   {"key": "dr_码上网飞2", "name": "网飞中文", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/网飞.TV2.js"}, 
     {"key": "dr_码上网飞", "name": "🔥网飞", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/网飞.TV.js"}, 
-       {"key": "dr_码上跟剧2", "name": "我爱跟剧", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧2.js"},
+ {
+    "key": "csp_XBPQ_跟剧",
+   "name": "跟剧影视",
+     "type": 3,
+     "api": "csp_XBPQ",
+     "searchable": 1,
+     "quickSearch": 1,
+       "filterable": 1,
+        "ext": { "分类url": "https://www.52gen.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman#纪录片$jilupian#音乐$yinyue" }},
      {"key": "dr_码上跟剧", "name": "🔥跟剧", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/我爱跟剧.js"},  
 
            {
