@@ -100,17 +100,7 @@
  //"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;
  //md5;f6ce0ce7bd8b398540be062ebef7051d",         "playerType": 2, "searchable": 1,  "quickSearch": 1, 
  //"changeable": 1 },
-                  {
-            "key": "南瓜-饭",
-            "name": "🎃南瓜影视",
-            "type": 3,
-            "api": "csp_NanGua",
- "jar": "./lib/fan.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",        
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        }, 
+
            {
             "key": "车妹西瓜",
             "name": "🚛西瓜2K",
@@ -162,7 +152,7 @@
   {"key": "无限影视APP-神", "name": "🚄秒播-无限", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.wxtv.net/api.php/app/",  "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
    {"key": "鑫鑫影视-神", "name": "🚄秒播-鑫鑫", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"}, 
 
-    {"key": "少泽影客（APP）-神", "name": "秒播-少泽", "type": 3, "api": "csp_AppYsV2", "ext": "https://yk.shaozeyy.com/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
+    {"key": "少泽影客（APP）-神", "name": "🚄秒播-少泽", "type": 3, "api": "csp_AppYsV2", "ext": "https://yk.shaozeyy.com/api.php/app/", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
 
 
 
@@ -172,7 +162,17 @@
 
  {"key": "77-饭", "name": "👒七七┃App", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"},
  // 失效无法访问{"key": "77-饭2", "name": "👒七七┃App", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;364c0f012e73a8801a69900fc25ae9c1"},
- 
+                   {
+            "key": "南瓜-饭",
+            "name": "🎃南瓜影视",
+            "type": 3,
+            "api": "csp_NanGua",
+ "jar": "./lib/fan.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",        
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        }, 
            
 
    {
@@ -206,16 +206,6 @@
         {"key": "csp_XYQHiker_奇趣影视","name":"奇趣影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奇趣影视.json"},
  
 
-     {
-            "key": "迷你",
-            "name": "迷你",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v2/"
-        },
 
   {
             "key": "TV酷",
@@ -256,17 +246,17 @@
 
  #短剧  
   {"key": "csp_XYQHiker_VSYY",
-"name": "🎦VS短剧","type": 3,"searchable": 1,    "quickSearch":1,              "filterable": 1,
+"name": "🥰VS短剧","type": 3,"searchable": 1,    "quickSearch":1,              "filterable": 1,
 "api":"csp_XYQHiker",         "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext": "./lib/VS影院.json"
 },
 
-{"key": "csp_XYQHiker_短剧网","name":"💢短剧网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+{"key": "csp_XYQHiker_短剧网","name":"🥰短剧网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/短剧网.json"
 },
-{"key": "csp_XBPQ_aoaotv", "name": "🎦短剧嗷嗷", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html", "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
+{"key": "csp_XBPQ_aoaotv", "name": "🥰短剧嗷嗷", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html", "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
     {
       "key": "csp_XBPQ_短剧",
-      "name": "💛短剧迷",
+      "name": "🥰短剧迷",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -287,7 +277,7 @@
 {"key": "jar_码上看玩偶", "name": "🔥玩偶4k", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar": "./custom_spider.jar;md5;8A3584C3608A5412FB02A769AB3886BB"},
 #api.wogg.xyz
 
-  {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
+ // {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { "key": "csp_xpath_yinfans", 			"name": "💥音范丝4K", 			"type": 3, 			
 "api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
 "ext": "./lib/音范丝.json"}, 
