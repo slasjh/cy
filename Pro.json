@@ -107,7 +107,7 @@
      "searchable": 1,
      "quickSearch": 1,
        "filterable": 1,
-        "ext": { "分类url": "https://www.52gen.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "ext": { "分类url": "https://www.52gen.vip/vodshow/{cateId}--------{catePg}---.html",
         "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman#纪录片$jilupian#音乐$yinyue" }},
      {"key": "dr_码上跟剧", "name": "🔥跟剧", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/我爱跟剧.js"},  
 
