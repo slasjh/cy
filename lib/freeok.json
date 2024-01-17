@@ -1,4 +1,4 @@
-{//https://ymck.pro/search/wd/{wd}.html   "搜索url": "https://search.ymck.me/index.php?q={wd}"
+{//https://ymck.pro/search/wd/{wd}.html   "搜索url": "https://search.ymck.me/index.php?q={wd}"  https://ymck.pro/search/wd/{wd}.html
     "作者": "荷城茶秀",
     "站名": "Free影视",
     "主页url": "https://www.freeok.pro",
@@ -14,8 +14,8 @@
     "链接": "href=\"&&\"",
     "搜索模式": "1",
     "搜索二次截取": "type=\"application/json\">&&</script>",
-    "搜索url": "https://ymck.pro/search/wd/{wd}.html",
-    "搜索数组": "<b>&&</b>[包含:Freeok]",
+    "搜索url": "https://upupso.com/query/1/{wd}",
+    "搜索数组": "<b>&&</b>[包含:freeok]",
     "搜索副标题": "<a>&&</a>",
     "搜索标题": "class='movie_name'>&&</a>",
     "搜索链接": "href=\"&&\"",
