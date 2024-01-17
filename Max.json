@@ -291,6 +291,7 @@
   
 {"key": "csp_XYQHiker_悠云","name":"悠云","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/悠云.json"},
 {"key": "csp_XYQHiker_电影先生","name":"电影先生","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/电影先生.json"},
+{"key": "csp_XYQHiker_美益达","name":"美益达","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/美益达.json"},
 
 
 
