@@ -223,27 +223,9 @@
 
 
 
-     {
-    "key": "csp_XBPQ_美益达",
-   "name": "美益达影视",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-       "filterable": 1,
-        "ext": { "分类url": "https://meiyida01.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4" }},
+    
  
-                    {
-    "key": "csp_XBPQ_电影先生",
-   "name": "电影先生",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-       "filterable": 1,
-        "ext": { "分类url": "https://www.dianyi.ng/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","搜索url": "https://www.dianyi.ng/search-{wd}",
-        "分类": "国产剧$pianku-guochan#欧美剧$pianku-oumei#韩国剧$pianku-hanju" }},
+  
         {"key": "csp_XYQHiker_奇趣影视","name":"奇趣影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奇趣影视.json"},
  
 
@@ -292,8 +274,7 @@
 {"key": "csp_XYQHiker_悠云","name":"悠云","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/悠云.json"},
 {"key": "csp_XYQHiker_电影先生","name":"电影先生","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/电影先生.json"},
 {"key": "csp_XYQHiker_美益达","name":"美益达","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/美益达.json"},
-
-
+{"key": "csp_XYQHiker_可可","name":"可可","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/可可.json"},
 
 
 
