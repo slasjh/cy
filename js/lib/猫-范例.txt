@@ -1,2 +1,7 @@
+
+猫写法：
 {"key": "FREE1OK-上👓猫-️️👌┃Fre┃影视", "name": "👌官方①", "type": 3, "playerType": "1", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"},
 
+本地改写:
+
+{"key": "FREE1OK-上👓猫-️️👌┃Fre┃影视", "name": "👌官方①", "type": 3, "playerType": "1", "api": "./js/lib/drpy2.min.js", "ext": "./js/lib//FreeOK.js"},
