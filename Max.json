@@ -242,49 +242,21 @@
 
 
 #官源
-     {
-      "key": "爱奇异",
-      "name": "📛爱奇艺(官源)",
-      "type": 3,
-      "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
-      "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/奇珍异兽.js"
-    }, 
-    {
-      "key": "th_芒果",
-      "name": "📛芒果(官源)",
-      "type": 3,
-      "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
-      "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/百忙无果.js"
-    },  
-    {
-      "key": "drpy_js_优酷1",
-      "name": "📛优酷(官源)",
-      "type": 3,
-      "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
-      "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/优酷.js"
-    },
-
-    {
-      "key": "腾讯2",
-      "name": "📛腾讯(官源)",
-      "type": 3,
-      "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/libs/drpy2.min.js",
-      "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/XYQTVBoxX/drpy_js/js/腾云驾雾.js"
-    },
+ 
            {"key": "drpy_js_360影视-猫", "name": "📛360", "type": 3, "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/360.js"}, 
   
 
 #bilibili
- //             {
-  //             "key": "哔哩哔哩",
-  //             "name": "🅱️哔哩大全",
-  //             "type": 3,
-  //             "api": "csp_Bili",
-  //             "searchable": 1,
-  //             "quickSearch": 1,
-  //             "filterable": 1,
-  //             "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
- //              "ext": "./lib/Bili.json" },
+            {
+               "key": "哔哩哔哩",
+              "name": "🅱️哔哩大全",
+               "type": 3,
+             "api": "csp_Bili",
+             "searchable": 1,
+              "quickSearch": 1,
+            "filterable": 1,
+             "jar": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
+             "ext": "./lib/Bili.json" },
         {
             "key": "相声小品",
             "name": "🏮相声小品",
@@ -504,9 +476,6 @@
   //  {"key": "Cokemv-饭", "name": "📕可乐┃直连", "type": 3, "api": "csp_Cokemv", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"},
  // 失效无法访问 {"key": "Cokemv-饭2", "name": "📕可乐┃直连", "type": 3, "api": "csp_Cokemv", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "./lib/fan.jar;md5;364c0f012e73a8801a69900fc25ae9c1"},
            
-  //        {"key": "Auete-饭", "name": "🏝奥特┃直连", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, //"changeable": 1, "ext": "https://haozhansou.com/", 
-  //"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395"},
-   //                 {"key": "Auete-饭2", "name": "🏝奥特┃直连", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://haozhansou.com/", "jar": "./lib/fan.jar;md5;ea2690fc66083afe1431071968e60395"},
    {
     "key": "csp_XBPQ_可可",
     "name": "可可影视",
@@ -538,17 +507,7 @@
  //"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;
  //md5;f6ce0ce7bd8b398540be062ebef7051d",         "playerType": 2, "searchable": 1,  "quickSearch": 1, 
  //"changeable": 1 },
-                  {
-            "key": "南瓜-饭",
-            "name": "🎃南瓜影视",
-            "type": 3,
-            "api": "csp_NanGua",
- "jar": "./lib/fan.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",        
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },  
+ 
 
 {"key": "csp_XYQHiker_电影先生","name":"电影先生","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/电影先生.json"},
 {"key": "csp_XYQHiker_美益达","name":"美益达","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/美益达.json"},
@@ -563,19 +522,21 @@
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         }, 
- {
-    "key": "csp_XBPQ_可乐",
-   "name": "🎦可乐影视",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-       "filterable": 1,
-        "ext": { "分类url": "https://cokeby.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$29#动漫$3" }},
         
         {"key": "觅视频-码上👓cat-", "name": "🗽追影猫┃App", "type": 3, "api": "csp_AppSK", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932"}, 
-
+{"key": "nangua-码上👓猫-", "name": "🎃┃南瓜┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/南瓜.js"},
+{"key": "南瓜-码上👓饭-", "name": "🎃南瓜┃App", "type": 3, "api": "csp_NanGua", "playerType": 1, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6"},
+                  {
+            "key": "南瓜-饭",
+            "name": "🎃南瓜影视",
+            "type": 3,
+            "api": "csp_NanGua",
+ "jar": "./lib/fan.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",        
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        }, 
 
 
 
