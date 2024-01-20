@@ -541,6 +541,15 @@
       
         {"key": "csp_XYQHiker_电影盒子", "name": "码上👓香-🎞电影盒子(XYQH)", "type": 3, "api": "csp_XYQHiker", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/电影盒子.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
         {"key": "csp_XYQHiker_蓝光影院", "name": "码上👓香-蓝光影院(HM2)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/蓝光影院.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+        {"key": "saohuo", "name": "码上👓猫- 👗┃骚火┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/骚火.js"},
+        {"key": "Libvio", "name": "码上👓猫-💐┃Lib┃影视", "type": 3, "playerType": "1", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/LIBVIO.js"},
+        {"key": "007影视", "name": "码上👓猫-🍭┃零七┃影视", "type": 3, "playerType": "1", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/007.js"},
+         {"key": "奇优", "name": "码上👓猫- 🍩┃奇优┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/奇优.js"}, 
+         {"key": "爱看影视", "name": "码上👓猫-❤┃爱看┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/爱看.js"},
+         {"key": "厂长", "name": "码上👓猫-🏭┃厂长┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/厂长.js"},
+         {"key": "低端", "name": "码上👓猫-🛣┃低端┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/ddys.js"}, 
+         {"key": "种子短剧", "name": "码上👓猫-💮┃短剧┃视频", "type": 1, "api": "http://zzdj.cc/api.php/provide/vod"}, 
+
 
 
 
