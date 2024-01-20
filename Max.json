@@ -586,7 +586,7 @@
 
 
 
-   {"key": "lurenjia", "name": "结尾", "type": 1}
+{"key": "lurenjia", "name": "这是结尾", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="}
  
   //这是结尾jiewei  
 
