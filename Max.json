@@ -549,7 +549,24 @@
          {"key": "厂长", "name": "码上👓猫-🏭┃厂长┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/厂长.js"},
          {"key": "低端", "name": "码上👓猫-🛣┃低端┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/ddys.js"}, 
          {"key": "种子短剧", "name": "码上👓猫-💮┃短剧┃视频", "type": 1, "api": "http://zzdj.cc/api.php/provide/vod"}, 
-
+        {
+            "key": "TVB云播",
+            "name": "👉春盈┃TVB",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://drpy.cainisi.cf/js/TVB云播.js"
+        },      
+          {
+            "key": "VOFLIX",
+            "name": "👉春盈┃VOFLIX",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://drpy.cainisi.cf/js/voflix.js"
+        },
 
 
 
@@ -588,7 +605,7 @@
 
 {"key": "lurenjia", "name": "这是结尾", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url="}
  
-  //这是结尾jiewei  
+  //这是结尾，影视结尾，下面是解析和广告过滤jiewei  
 
 
 
