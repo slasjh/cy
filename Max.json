@@ -226,6 +226,18 @@
             "changeable": 1,
             "ext": "./lib/voflix.js"
         },
+                          {
+            "key": "南瓜-饭",
+            "name": "🎃南瓜影视",
+            "type": 3,
+            "api": "csp_NanGua",
+ "jar": "./lib/fan.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",        
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        }, 
+  {"key": "nangua-码上👓猫-2", "name": "南瓜┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/南瓜.js"},  
 
  #短剧  
   {"key": "csp_XYQHiker_VSYY",
@@ -553,20 +565,10 @@
         }, 
         
         {"key": "觅视频-码上👓cat-", "name": "🗽追影猫┃App", "type": 3, "api": "csp_AppSK", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932"}, 
-{"key": "nangua-码上👓猫-", "name": "🎃┃南瓜┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/南瓜.js"},
-                  {
-            "key": "南瓜-饭",
-            "name": "🎃南瓜影视",
-            "type": 3,
-            "api": "csp_NanGua",
- "jar": "./lib/fan.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",        
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        }, 
-      
 
+                  
+  
+{"key": "nangua-码上👓猫-", "name": "🎃┃南瓜┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/南瓜.js"},
 
  {"key":"drpy_js_电影先生","name":"电影先生[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/电影先生.js"},     
 
