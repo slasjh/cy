@@ -197,14 +197,14 @@
       "filterable": 1, "ext": "./lib/mayi.json"}, 
 {"key": "csp_XYQHiker_悠云","name":"悠云","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/悠云.json"},
 
-        {"key": "csp_XYQHiker_电影盒子", "name": "码上👓香-🎞电影盒子(XYQH)", "type": 3, "api": "csp_XYQHiker", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/电影盒子.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-        {"key": "csp_XYQHiker_蓝光影院", "name": "码上👓香-蓝光影院(HM2)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/蓝光影院.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+        {"key": "上👓香-🎞csp_XYQHiker_电影盒子", "name": "码电影盒子(XYQH)", "type": 3, "api": "csp_XYQHiker", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/电影盒子.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+        {"key": "码上👓香-csp_XYQHiker_蓝光影院", "name": "蓝光影院(HM2)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/蓝光影院.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
          {"key": "csp_XYQHiker_电影先生","name":"电影先生","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/电影先生.json"},
 
-{"key":"drpy_js_电影先生2","name":"影视 | 电影先生[js]","type":3,"api":"/js/lib/drpy2.min.js","ext":"./lib/电影先生.js"},
+{"key":"drpy_js_电影先生2","name":"电影先生","type":3,"api":"/js/lib/drpy2.min.js","ext":"./lib/电影先生.js"},
 
  
-        {"key": "码上👓猫- 👗┃saohuo", "name": "骚火影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/骚火.js"},
+        {"key": "码上👓猫- 👗┃saohuo", "name": "骚火┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/骚火.js"},
                 {"key": "码上👓猫-💐┃Libvio", "name": "Lib┃影视", "type": 3, "playerType": "1", "api": "./js/lib/drpy2.min.js", "ext": "./lib/LIBVIO.js"},
                          {"key": "码上👓猫-🏭┃厂长", "name": "厂长┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/厂长.js"},
      {"key": "码上👓猫-🛣┃低端", "name": "低端┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
