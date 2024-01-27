@@ -191,13 +191,41 @@
             "ext": "https://www.ttmja.com/api.php/app/"
         },
         {"key": "csp_XYQHiker_爱看影院","name":"爱看影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/爱看影院.json"},
-        {"key": "爱看影视-码上👓猫-❤┃", "name": "爱看┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/爱看.js"},
+        {"key": "爱看影视-码上👓猫-❤┃", "name": "爱看┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "/lib/爱看.js"},  //搜索验证
+
     {"key": "XBPQ_蚂蚁","name": " 麻衣影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,
       "filterable": 1, "ext": "./lib/mayi.json"}, 
 {"key": "csp_XYQHiker_悠云","name":"悠云","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/悠云.json"},
 
+        {"key": "csp_XYQHiker_电影盒子", "name": "码上👓香-🎞电影盒子(XYQH)", "type": 3, "api": "csp_XYQHiker", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/电影盒子.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+        {"key": "csp_XYQHiker_蓝光影院", "name": "码上👓香-蓝光影院(HM2)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/蓝光影院.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+         {"key": "csp_XYQHiker_电影先生","name":"电影先生","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/电影先生.json"},
 
+{"key":"drpy_js_电影先生2","name":"影视 | 电影先生[js]","type":3,"api":"/js/lib/drpy2.min.js","ext":"./lib/电影先生.js"},
 
+ 
+        {"key": "码上👓猫- 👗┃saohuo", "name": "骚火影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/骚火.js"},
+                {"key": "码上👓猫-💐┃Libvio", "name": "Lib┃影视", "type": 3, "playerType": "1", "api": "./js/lib/drpy2.min.js", "ext": "./lib/LIBVIO.js"},
+                         {"key": "码上👓猫-🏭┃厂长", "name": "厂长┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/厂长.js"},
+     {"key": "码上👓猫-🛣┃低端", "name": "低端┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
+             {
+            "key": "👉春盈cainisi┃TVB云播",
+            "name": "TVB",
+            "type": 3,
+            "api": "./js/lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./lib/TVB云播.js"
+        },      
+          {
+            "key": "👉春盈cainisi┃VOFLIX",
+            "name": "VOFLIX",
+            "type": 3,
+            "api": "./js/lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./lib/voflix.js"
+        },
 
  #短剧  
   {"key": "csp_XYQHiker_VSYY",
@@ -225,6 +253,7 @@
             {"key": "短剧one-cat", "name": "🥰one短剧", "type": 3, "api": "csp_Panda", "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb", "ext": "./lib/one短剧.json"},
 
     //  {"key": "短剧one", "name": "码上👓cat-🥰one短剧", "type": 3, "api": "csp_Panda", "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb", "ext": "https://d.kstore.space/download/6296/json/短剧.json"}, 
+             {"key": "码上👓猫-💮┃种子短剧", "name": "短剧┃视频", "type": 1, "api": "http://zzdj.cc/api.php/provide/vod"}, 
 
 
   
@@ -536,14 +565,10 @@
             "quickSearch": 1,
             "changeable": 1
         }, 
-        {"key": "csp_XYQHiker_电影先生","name":"电影先生","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/电影先生.json"},
-{"key":"drpy_js_电影先生2","name":"电影先生[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/电影先生.js"},
-
-{"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"/js/lib/drpy2.min.js","ext":"./lib/电影先生.js"},
-
       
-        {"key": "csp_XYQHiker_电影盒子", "name": "码上👓香-🎞电影盒子(XYQH)", "type": 3, "api": "csp_XYQHiker", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/电影盒子.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-        {"key": "csp_XYQHiker_蓝光影院", "name": "码上👓香-蓝光影院(HM2)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/蓝光影院.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+
+
+ {"key":"drpy_js_电影先生","name":"电影先生[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/电影先生.js"},     
 
         {"key": "saohuo", "name": "码上👓猫- 👗┃骚火┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/骚火.js"},
         {"key": "Libvio", "name": "码上👓猫-💐┃Lib┃影视", "type": 3, "playerType": "1", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/LIBVIO.js"},
@@ -552,7 +577,7 @@
          {"key": "爱看影视", "name": "码上👓猫-❤┃爱看┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/爱看.js"},
          {"key": "厂长", "name": "码上👓猫-🏭┃厂长┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/厂长.js"},
          {"key": "低端", "name": "码上👓猫-🛣┃低端┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/ddys.js"}, 
-         {"key": "种子短剧", "name": "码上👓猫-💮┃短剧┃视频", "type": 1, "api": "http://zzdj.cc/api.php/provide/vod"}, 
+
         {
             "key": "TVB云播",
             "name": "👉春盈┃TVB",
