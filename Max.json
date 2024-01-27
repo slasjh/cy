@@ -126,7 +126,7 @@
  {"key":"394tv","name":"394影视","type":1,"api":"https://www.394tv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","犯罪片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","动画片","动漫","中国动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"] },
 
 {"key":"piaoling","name":"飘零影视","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","犯罪片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","动画片","动漫","中国动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"] },
- {"key": "奇优-猫", "name": "奇优影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/奇优.js"},
+ {"key": "奇优-猫", "name": "奇优影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/奇优.js"},
 
  #码上
 
@@ -509,7 +509,7 @@
  //"changeable": 1 },
  
 
-{"key": "csp_XYQHiker_电影先生","name":"电影先生","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/电影先生.json"},
+
 {"key": "csp_XYQHiker_美益达","name":"美益达","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/美益达.json"},
 {"key": "csp_XYQHiker_可可","name":"可可","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/可可.json"},
  {
@@ -536,7 +536,10 @@
             "quickSearch": 1,
             "changeable": 1
         }, 
-{"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/电影先生.js"},
+        {"key": "csp_XYQHiker_电影先生","name":"电影先生","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/电影先生.json"},
+{"key":"drpy_js_电影先生2","name":"电影先生[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/电影先生.js"},
+
+{"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"/js/lib/drpy2.min.js","ext":"./lib/电影先生.js"},
 
       
         {"key": "csp_XYQHiker_电影盒子", "name": "码上👓香-🎞电影盒子(XYQH)", "type": 3, "api": "csp_XYQHiker", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/电影盒子.json", "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
