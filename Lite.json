@@ -29,7 +29,7 @@
  //{"key": "ok-vip", "name": "👌官方②", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
  //  "quickSearch": 1,"playerType": "1",  "ext":"./lib/freeokvip.json","jar": "./lib/小米ab.jar"},
  // {"key": "FREE1OK-上👓猫-️️👌┃Fre┃影视", "name": "👌官方①", "type": 3, "playerType": "1", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"},
-  {"key": "Auete-饭2🏝奥特┃直连", "name": "👌官方①", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://haozhansou.com/", "jar": "./lib/fan.jar;md5;ea2690fc66083afe1431071968e60395"},
+  {"key": "Auete-饭2🏝奥特┃直连", "name": "👌官方①", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://auete.site/", "jar": "./lib/fan.jar;md5;ea2690fc66083afe1431071968e60395"},
    {"key": "jar_码上🔥Auete", "name": "👌官方①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
 
 
