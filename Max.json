@@ -591,6 +591,444 @@
             "changeable": 1,
             "ext": "https://drpy.cainisi.cf/js/voflix.js"
         },
+            {
+
+      "key": "孜然",
+
+      "name": "💥┃孜然2K┃秒播",
+
+      "type": 3,
+
+      "api": "csp_XBPQ",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "changeable": 1,
+
+      "ext": {
+
+        "站名": "孜然影视",
+
+        "练手": "yydf",
+
+        "类型": "class=\"tag\">&&</div",
+
+        "导演": "class=\"text\">导演：</span>&&</p",
+
+        "演员": "<span class=\"text\">主演：</span>&&</p",
+
+        "播放类型": "class=\"icon icon-video\"></i>立即播放",
+
+        "更新": "<span class=\"text\">更新：</span>&&</p",
+
+        "简介": "X影视提醒：资源免费，广告勿信！+class=\"text hidden-xs\">简介：</span>&&</p",
+
+        "搜索Url": "/index.php/vod/search.html",
+
+        "主页url": "https://www.zrys1.top/",
+
+        "数组": "<li class=\"col8\">&&</li",
+
+        "链接": "href=\"&&\"",
+
+        "图片": "data-original=\"&&\"",
+
+        "标题": "title=\"&&\"",
+
+        "副标题": "<p class=\"text\">&&</p",
+
+        "线路数组": "<div class=\"panel-hd\">&&</div>",
+
+        "线路标题": "<h3>&&</h3>[替换:在线播放>>路飞线路]",
+
+        "播放数组": "<ul class=\"shoutu-playlist sort-list playlist\">&&</ul>",
+
+        "选集名称": ">&&<",
+
+        "分类url": "https://www.zrys1.top/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+
+        "分类": "电影$1#电视剧$2#港台剧$14#综艺$3#动漫$4#纪录片$22"
+
+      }
+
+    },    {
+
+      "key": "乐视采集",
+
+      "name": "乐视🏜️蓝光",
+
+      "type": 1,
+
+      "playerType": 2,
+
+      "searchable": 1,
+
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json",
+
+      "playUrl": "",
+
+      "categories": [
+
+        "国产剧",
+
+        "韩国剧",
+
+        "泰国剧",
+
+        "欧美剧",
+
+        "香港剧",
+
+        "台湾剧",
+
+        "短剧",
+
+        "日剧",
+
+        "海外剧",
+
+        "大陆综艺",
+
+        "港台综艺",
+
+        "日韩综艺",
+
+        "欧美综艺",
+
+        "国产动漫",
+
+        "日本动漫",
+
+        "欧美动漫",
+
+        "电影解说",
+
+        "动作片",
+
+        "冒险片",
+
+        "动画片",
+
+        "喜剧片",
+
+        "爱情片",
+
+        "奇幻片",
+
+        "灾难片",
+
+        "悬疑片",
+
+        "科幻片",
+
+        "恐怖片",
+
+        "剧情片",
+
+        "战争片",
+
+        "犯罪片",
+
+        "其他片"
+
+      ]
+
+    },
+
+    {
+
+      "key": "益达影视",
+
+      "name": "💥┃益达2K┃秒播",
+
+      "type": 3,
+
+      "api": "csp_AppYsV2",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
+
+    },
+    {
+
+      "key": "csp_rbzj",
+
+      "name": "💥┃热播2K┃秒播",
+
+      "type": 3,
+
+      "api": "csp_XBPQ",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/热播之家.json"
+
+    },
+       {
+
+      "key": "开心影视",
+
+      "name": "开心😄蓝光",
+
+      "type": 3,
+
+      "api": "csp_XBPQ",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/kaixinys.json"
+
+    },
+        {
+
+      "key": "HDmoli",
+
+      "name": "魔力💥高清",
+
+      "type": 3,
+
+      "api": "csp_XBPQ",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/HDmoli.json"
+
+    },
+        {
+
+      "key": "csp_New6v",
+
+      "name": "🧲新6V",
+
+      "type": 3,
+
+      "api": "csp_New6v",
+
+      "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/xyq.jar",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "http://www.xb6v.com"
+
+    },
+
+    {
+
+      "key": "csp_SeedHub",
+
+      "name": "🧲SeedHub",
+
+      "type": 3,
+
+      "api": "csp_SeedHub",
+
+      "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/xyq.jar",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+
+    },
+
+    {
+
+      "key": "csp_KubaCL",
+
+      "name": "🧲酷吧电影",
+
+      "type": 3,
+
+      "api": "csp_KubaCL",
+
+      "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/xyq.jar",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+
+    },
+      {
+
+      "key": "陌陌",
+
+      "name": "🧡短剧2",
+
+      "type": 3,
+
+      "api": "csp_AppYsV2",
+
+      "jar": "./lib/dj0.jar",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "https://www.kuin.one/api.php/app/"
+
+    },
+{
+
+      "key": "快云资源",
+
+      "name": "快云🦚蓝光",
+
+      "type": 1,
+
+      "api": "https://kuaiyun-api.com/api.php/provide/vod/",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 0,
+
+      "categories": [
+
+        "国产剧",
+
+        "韩国剧",
+
+        "泰剧",
+
+        "日本剧",
+
+        "短剧",
+
+        "欧美剧",
+
+        "新马剧",
+
+        "其他剧",
+
+        "国产动漫",
+
+        "国产综艺",
+
+        "日本动漫",
+
+        "日本综艺",
+
+        "欧美动漫",
+
+        "韩国综艺",
+
+        "动作片",
+
+        "喜剧片",
+
+        "科幻片",
+
+        "奇幻片",
+
+        "冒险片",
+
+        "悬疑片",
+
+        "恐怖片",
+
+        "惊悚片",
+
+        "灾难片",
+
+        "爱情片",
+
+        "剧情片",
+
+        "犯罪片",
+
+        "战争片",
+
+        "记录片",
+
+        "网络电影",
+
+        "动画电影",
+
+        "港台综艺",
+
+        "港台动漫",
+
+        "海外动漫",
+
+        "欧美综艺"
+
+      ]
+
+    },
+    {
+
+      "key": "csp_MeiJu69",
+
+      "name": "🗽┃六九┃美剧",
+
+      "type": 3,
+
+      "api": "csp_AppYsV2",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "https://www.69mj.com/xgapp.php/v2/"
+
+    },
+    {
+
+      "key": "csp_盒子",
+
+      "name": "💥┃盒子2K┃秒播",
+
+      "type": 3,
+
+      "api": "csp_XBPQ",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/hezi.json"
+
+    },
+
+
+
+
+
 
 
 
