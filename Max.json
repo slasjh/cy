@@ -818,6 +818,14 @@
       "ext": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/HDmoli.json"
 
     },
+              {"key": "csp_XBPQ_6V",
+  "name": "🌙宝盒4K-6V磁力",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
         {
 
       "key": "csp_New6v",
@@ -858,7 +866,7 @@
 
       "filterable": 1
 
-    },
+    },//seedhub.info
 
     {
 
@@ -878,12 +886,12 @@
 
       "filterable": 1
 
-    },
+    },//www.kubady1.com  或www.kuba222.com
       {
 
       "key": "陌陌",
 
-      "name": "🧡短剧2",
+      "name": "🧡mxone",
 
       "type": 3,
 
@@ -1037,22 +1045,8 @@
             "ext":"./lib/子子影视.js"
         },
            
-          {"key": "csp_XBPQ_6V",
-  "name": "🌙宝盒4K-6V磁力",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
-          {
-      "key": "荐片",
-      "name": "🧲荐片磁力",
-      "type": 3,
-      "playerType": "1",
-      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/jp.js"
-    },
+
+  
 
 {
       "key": "555一（APP）",
@@ -1062,21 +1056,7 @@
       "ext": "https://55vid.shop/api.php/app/"
    }, 
 
-   {
-      "key": "大米星球（APP）",
-      "name": "🌙大米星球（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://damiq.online/api.php/app/"
-   },
-  
-      {
-      "key": "明帝（APP）",
-      "name": "🌙明帝（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://ys.md214.cn/api.php/app/"
-   },
+
 
            {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/4KHDR.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
           
