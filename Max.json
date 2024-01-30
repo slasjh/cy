@@ -886,8 +886,6 @@
 
       "api": "csp_AppYsV2",
 
-      "jar": "./lib/dj0.jar",
-
       "searchable": 1,
 
       "quickSearch": 1,
