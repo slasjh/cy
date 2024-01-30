@@ -1023,10 +1023,129 @@
 
     },
 
+{"key":"达达龟","name":"🐢哒哒龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/dadagui.json"},{"key":"csp_YQKAPP","name":"👩‍👦一起看电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},{"key": "csp_XYQHiker_臭蛋蛋影视","name":"🎗臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/cdd.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
+{
+            "key":"drpy_js_子子影视",
+            "name":"🥏子子影视",
+            "type":3,
+            "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+            "ext":"./lib/子子影视.js"
+        },
+           
+          {"key": "csp_XBPQ_6V",
+  "name": "🌙宝盒4K-6V磁力",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
+          {
+      "key": "荐片",
+      "name": "🧲荐片磁力",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/jp.js"
+    },
 
-
-
-
+{
+      "key": "555一（APP）",
+      "name": "🌙555（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://555dy3.com/api.php/app/"
+   },   {
+      "key": "旧梦影视（APP）",
+      "name": "🌙旧梦影视（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://43.139.139.17:4433/api.php/app/"
+   },
+   {
+      "key": "大米星球（APP）",
+      "name": "🌙大米星球（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://dmdy2.vip/api.php/app/"
+   },
+   {
+      "key": "HOHO（APP）",
+      "name": "🌙HOHO（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://hoho.tv/api.php/app/"
+   },   {
+      "key": "落攻阁（APP）",
+      "name": "🌙落攻阁（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.lggys.cn/api.php/app/"
+   },
+   {
+      "key": "空气屋（APP）",
+      "name": "🌙空气屋（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.airfun.fun/xgapp.php/v2/"
+   },
+   {
+      "key": "布衣（APP）",
+      "name": "🌙布衣（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://byyy5.com/api.php/app/"
+   },   {
+      "key": "明帝（APP）",
+      "name": "🌙明帝（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://ys.md214.cn/api.php/app/"
+   },
+   {
+      "key": "速看100（APP）",
+      "name": "🌙速看100（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://sk100.tv/api.php/app/"
+   },
+   {
+      "key": "木白（APP）",
+      "name": "🌙木白（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.chiguafilm.com/api.php/v1.vod "
+   },
+   {
+      "key": "真爱（APP）",
+      "name": "🌙真爱（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.chiguafilm.com/api.php/v1.vod "
+   },
+   {
+      "key": "悟空（APP）",
+      "name": "🌙悟空（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://dapi.pntao.com/api.php/v1.vod "
+   },
+   {
+      "key": "君离（APP）",
+      "name": "🌙君离（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://jlys6.top/mogai_api.php/v1.vod"
+   },
+   {
+      "key": "映迷（APP-搜索需用繁体字、海外源需挂梯子）",
+      "name": "🌙映迷（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.inmi.app/xgapp.php/v1/"
+   },
+           {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/4KHDR.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
+           {"key":爱迪V2,"name":"💡️爱迪影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"}, 
 
 
 
