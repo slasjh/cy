@@ -42,6 +42,13 @@
   },//👩‍❤️‍💋‍👨一起看影院
 {"key":"csp_YQKAPP","name":"👌官方②","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar":"./lib/fix1170.jar"},//👩‍👦一起看电视
 
+ {"key":"csp_视觉","name":"👓影院①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
+{"key":"csp_视觉2","name":"👓影院②","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./lib/xinshijue2.json","jar":"./lib/小米ab.jar"},
+
+  //     { "key": "新视觉","name": "影院②", "type": 3,"api": "csp_Xinsj","searchable": 1,
+  //  "quickSearch": 1,"changeable": 0,"ext": "https://www.80yy3.com/"},
 
 
 
@@ -51,13 +58,6 @@
   // { "key": "Xinsj","name": "影院①", "type": 3,"api": "csp_Xinsj","searchable": 1,
   // "quickSearch": 1,"changeable": 0,"ext": "https://www.6080yy3.com/"},
  
- {"key":"csp_视觉","name":"👓影院①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./lib/xinshijue.json","jar": "./lib/小米ab.jar"},
-{"key":"csp_视觉2","name":"👓影院②","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./lib/xinshijue2.json","jar":"./lib/小米ab.jar"},
-
-  //     { "key": "新视觉","name": "影院②", "type": 3,"api": "csp_Xinsj","searchable": 1,
-  //  "quickSearch": 1,"changeable": 0,"ext": "https://www.80yy3.com/"},
 
 
 
