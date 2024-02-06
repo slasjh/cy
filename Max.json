@@ -130,13 +130,13 @@
 
  #码上
 
-  {"key": "dr_码上中国人", "name": "🔥中国人", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/中国人.js"}, 
-  {"key": "dr_码上NYA", "name": "🔥NYA动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/NyaFun.js"}, 
-  {"key": "dr_码上农民", "name": "🔥农民", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/农民影视.js"},
-   {"key": "dr_码上胖虎", "name": "🔥胖虎", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/胖虎.js"}, 
-   {"key": "dr_码上时光", "name": "🔥时光", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/时光影视.js"}, 
-   {"key": "dr_码上网飞", "name": "🔥网飞", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/网飞.TV.js"}, 
-   {"key": "dr_码上跟剧", "name": "🔥跟剧", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/我爱跟剧.js"},
+  {"key": "dr_码上中国人", "name": "🔥中国人", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/nightly/sites/码上/中国人.js"}, 
+  {"key": "dr_码上NYA", "name": "🔥NYA动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/nightly/sites/码上/NyaFun.js"}, 
+  {"key": "dr_码上农民", "name": "🔥农民", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/nightly/sites/码上/农民影视.js"},
+   {"key": "dr_码上胖虎", "name": "🔥胖虎", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/nightly/sites/码上/胖虎.js"}, 
+   {"key": "dr_码上时光", "name": "🔥时光", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/nightly/sites/码上/时光影视.js"}, 
+   {"key": "dr_码上网飞", "name": "🔥网飞", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/nightly/sites/码上/网飞.TV.js"}, 
+   {"key": "dr_码上跟剧", "name": "🔥跟剧", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/nightly/sites/码上/我爱跟剧.js"},
  {"key": "dr_码上白白", "name": "🔥白白", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/素白白.js"}, 
 
         
