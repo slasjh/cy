@@ -49,11 +49,12 @@
 
   //     { "key": "新视觉","name": "影院②", "type": 3,"api": "csp_Xinsj","searchable": 1,
   //  "quickSearch": 1,"changeable": 0,"ext": "https://www.80yy3.com/"},
-{ "key": "csp_xpath_yinfans", 			"name": "💥iMAX①", 			"type": 3, 			
+        { "key": "电影港4k磁力",      "name": "💥iMAX①",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "./lib/电影港磁力.json",      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
+{ "key": "csp_xpath_yinfans", 			"name": "💥iMAX②", 			"type": 3, 			
 "api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
 "ext": "./lib/音范丝.json"}, 
 
-      { "key": "电影港4k磁力",      "name": "💥iMAX②",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "./lib/电影港磁力.json",      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
+
 
 
 
