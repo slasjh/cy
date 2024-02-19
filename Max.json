@@ -281,7 +281,28 @@
 "ext": "./lib/音范丝.json"}, 
 
       { "key": "电影港4k磁力",      "name": "🧲电影港4K",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "./lib/电影港磁力.json",      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
-              
+                    {
+
+      "key": "csp_New6v",
+
+      "name": "🧲6V 4K",
+
+      "type": 3,
+
+      "api": "csp_New6v",
+
+      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "http://www.xb6v.com"
+
+    },
+
 
 
 #官源
