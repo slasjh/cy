@@ -170,7 +170,17 @@
 
 
 "rules": [
-  {"name": "量子", "hosts": ["vip.lz", "v.cdnlz", "hd.lz"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}, {"name": "非凡", "hosts": ["vip.ffzy", "hd.ffzy"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}, {"name": "暴风", "hosts": ["bfzy", "s5.bfzycdn"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}, {"name": "索尼", "hosts": ["suonizy"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}, {"name": "蜗牛", "hosts": ["vip.123pan.cn", "rescdn.wuxivlog.cn"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}, {"name": "农民嗅探", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"]}, {"name": "hs", "hosts": ["huoshan.com"], "regex": ["item_id="]}, {"name": "dy", "hosts": ["douyin.com"], "regex": ["is_play_url="]}, {"name": "cl", "hosts": ["magnet"], "regex": ["最 新", "直 播", "更 新"]}, {"name": "hwk", "hosts": ["haiwaikan"], "regex": ["10.0099", "10.3333", "16.0599", "8.1748", "10.85"]}, {"name": "yqk", "hosts": ["yqk88"], "regex": ["18.4", "15.1666"]}, {"name": "sn", "hosts": ["suonizy"], "regex": ["15.1666", "15.2666"]}, {"name": "bf", "hosts": ["bfzy"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}, {"name": "xx", "hosts": ["aws.ulivetv.net"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}, {"name": "lz", "hosts": ["vip.lz", "hd.lz", "v.cdnlz1", "v.cdnlz"], "regex": ["18.5333"]}, {"name": "非凡", "hosts": ["vip.ffzy", "hd.ffzy"], "regex": ["25.0666"]}, {"name": "hs", "hosts": ["huoshan.com"], "regex": ["item_id="]}, {"name": "dy", "hosts": ["douyin.com"], "regex": ["is_play_url="]}, {"name": "nm", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"]}, {"name": "cl", "hosts": ["magnet"], "regex": ["最 新", "直 播", "更 新"]}, {"name": "hwk", "hosts": ["haiwaikan"], "regex": ["10.0099", "10.3333", "16.0599", "8.1748", "10.85"]}, {"name": "yqk", "hosts": ["yqk88"], "regex": ["18.4", "15.1666"]}, {"name": "sn", "hosts": ["suonizy"], "regex": ["15.1666", "15.2666"]},   
+  {"name": "量子", "hosts": ["vip.lz", "v.cdnlz", "hd.lz"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}, 
+  {"name": "非凡", "hosts": ["vip.ffzy", "hd.ffzy"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+   {"name": "量子-2", "hosts": ["vip.lz", "hd.lz", "v.cdnlz1", "v.cdnlz"], "regex": ["18.5333","5.720000"]}, 
+   {"name": "非凡-2", "hosts": ["vip.ffzy", "hd.ffzy"], "regex": ["25.0666","6.666667"]}, 
+  
+
+  {"name": "暴风", "hosts": ["bfzy", "s5.bfzycdn"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}, 
+  {"name": "索尼", "hosts": ["suonizy"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+  {"name": "sn", "hosts": ["suonizy"], "regex": ["15.1666", "15.2666"]}, 
+
+   {"name": "蜗牛", "hosts": ["vip.123pan.cn", "rescdn.wuxivlog.cn"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}, {"name": "农民嗅探", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"]}, {"name": "hs", "hosts": ["huoshan.com"], "regex": ["item_id="]},     {"name": "hs", "hosts": ["huoshan.com"], "regex": ["item_id="]}, {"name": "dy", "hosts": ["douyin.com"], "regex": ["is_play_url="]}, {"name": "nm", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"]}, {"name": "cl", "hosts": ["magnet"], "regex": ["最 新", "直 播", "更 新"]}, {"name": "hwk", "hosts": ["haiwaikan"], "regex": ["10.0099", "10.3333", "16.0599", "8.1748", "10.85"]}, {"name": "yqk", "hosts": ["yqk88"], "regex": ["18.4", "15.1666"]},   
  {
       "host": "www.6080dy1.com",
       "rule": [
@@ -190,16 +200,14 @@
   {"host": "ydd.yqk66.com", "rule": ["index0.ts","index1.ts","index2.ts","index3.ts","video2/slice/hls"]}, 
   {"host": "ydd.yqkdd6.com", "rule": ["index0.ts","index1.ts","index2.ts","index3.ts","video2/slice/hls"]}, 
 
- {"name": "bf", "hosts": ["bfzy"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}, {"name": "xx", "hosts": ["aws.ulivetv.net"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}, 
- {"name": "lz", "hosts": ["vip.lz", "hd.lz", "v.cdnlz1", "v.cdnlz"], "regex": ["18.5333"]}, 
- {"name": "非凡", "hosts": ["vip.ffzy", "hd.ffzy"], "regex": ["25.0666"]}, 
- {"name": "hs", "hosts": ["huoshan.com"], "regex": ["item_id="]}, 
- {"name": "dy", "hosts": ["douyin.com"], "regex": ["is_play_url="]}, 
- {"name": "nm", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"]},
+{"name": "xx", "hosts": ["aws.ulivetv.net"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}, 
   {"host": "*", "rule": ["default.365yg.com"]}, 
   
-  {"host": "zjmiao.com", "rule": ["play.videomiao.vip/API.php", "time="]}, {"host": "www.sharenice.net", "rule": ["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]}, {"host": "www.sharenice.net", "rule": ["qianpailive.com", "vid="]}, {"host": "*", "rule": ["douyin.com/aweme", "video_id="]}, {"host": "*", "rule": ["huoshan.com", "/item/video/"]}, {"host": "*", "rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]}, {"host": "*", "rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}, {"name": "wowo", "hosts": ["vip.123pan.cn", "rescdn.wuxivlog.cn"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}, {"name": "hwk", "hosts": ["haiwaikan"], "regex": ["10.0099", "10.3333", "16.0599", "8.1748", "10.85"]},     {"name": "量子", "hosts": ["vip.lz", "hd.lz"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}, {"name": "非凡", "hosts": ["vip.ffzy", "hd.ffzy"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}, {"host": "www.iesdouyin.com", "rule": ["playwm/?video_id="]},        
-   {"name": "暴风广告", "hosts": ["bfzy", "s5.bfzycdn"], "regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+  {"host": "zjmiao.com", "rule": ["play.videomiao.vip/API.php", "time="]},
+   {"host": "www.sharenice.net", "rule": ["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]}, 
+   {"host": "www.sharenice.net", "rule": ["qianpailive.com", "vid="]}, 
+   {"host": "*", "rule": ["douyin.com/aweme", "video_id="]}, {"host": "*", "rule": ["huoshan.com", "/item/video/"]}, {"host": "*", "rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]}, {"host": "*", "rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}, 
+  {"name": "wowo", "hosts": ["vip.123pan.cn", "rescdn.wuxivlog.cn"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},     
 
   {"host": "www.iesdouyin.com", "rule": ["playwm/?video_id="]}, 
   {"host": "www.ysgc.vip", "rule": ["getm3u8?url=http"]},
