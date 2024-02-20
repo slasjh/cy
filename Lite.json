@@ -177,7 +177,8 @@
     },
     //一起看廣告過濾
     {"name": "yqk-1", "hosts": ["ydd.yqkdd6"], "regex": ["video2/slice/hls","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","index0.ts","index1.ts","index2.ts","index3.ts"]},
-    {"name": "yqk-2", "hosts": ["ydd.vsmql"], "regex": ["video2/slice/hls","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","index0.ts","index1.ts","index2.ts","index3.ts"]},
+  //  {"name": "yqk-2", "hosts": ["ydd.vsmql"], "regex": ["video2/slice/hls","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","index0.ts","index1.ts","index2.ts","index3.ts"]},
+       {"name": "yqk-2", "hosts": ["ydd.vsmql"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts\\s+"]}, 
    {"name": "yqk-3", "hosts": ["ydd.yqk66"], "regex": ["video2/slice/hls","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","index0.ts","index1.ts","index2.ts","index3.ts"]},
     {"name": "yqk-4", "hosts": ["ydd"], "regex": ["video2/slice/hls","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","index0.ts","index1.ts","index2.ts","index3.ts"]},
     
