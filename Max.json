@@ -929,12 +929,11 @@
       "ext": "./lib/热播之家.json"
 
     },
-            {
+ {
             "key":"热播库",
             "name":"🔥热播┃BPQ",
             "type":3,
             "changeable":1,
-            "jar":"./jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api":"csp_XBPQ",
             "playerType":"1",
             "ext":{
@@ -960,6 +959,7 @@
                 "跳转播放链接":"urlDecode(vod_class*url\":\"&&\")"
             }
         },
+
        {
 
       "key": "开心影视",
