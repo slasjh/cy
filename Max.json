@@ -1117,6 +1117,13 @@
             ]
         },
 
+        {"key": "csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/BT天堂.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+        {"key": "csp_XYQHiker_极影网","name":"🧲极影网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/极影网.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+        {"key": "csp_XYQHiker_高清MP4","name":"🧲高清MP4(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/高清MP4.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+        {"key": "csp_XYQHiker_蚂蚁4K","name":"🧲蚂蚁4K(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/蚂蚁4K.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+        {"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/哔嘀影视.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+        {"key": "csp_XYQHiker_磁力熊","name":"🧲磁力熊(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/XYQHiker/磁力熊.json","jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+       
 
 
 
