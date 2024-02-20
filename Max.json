@@ -38,6 +38,27 @@
       "ext": "./lib/freeok.json",
       "jar": "./lib/小米ab.jar"
     },
+            {
+            "key":"freeok",
+            "name":"🌟free┃BPQ",
+            "type":3,
+            "api":"csp_XBPQ",
+            "playerType":"2",
+            "ext":{
+                "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+                "分类值":"1&2&3&4&12&5",
+                "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+                "副标题":"<div class=\"module-item-note\">&&</div>",
+                "嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+                "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
+                "线路标题":"<span>&&</small>",
+                "导演":"导演：&&</div>",
+                "主演":"主演：&&</div>",
+                "简介":"<p>&&</p>"
+            }
+        },
+
     {"key": "一起看 ",
       "name": "👑一起看",
       "type": 3,
@@ -946,27 +967,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
-        {
-
-      "key": "csp_New6v",
-
-      "name": "🧲新6V",
-
-      "type": 3,
-
-      "api": "csp_New6v",
-
-      "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/xyq.jar",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 1,
-
-      "ext": "http://www.xb6v.com"
-
-    },
+  
 
     {
 
@@ -1066,28 +1067,27 @@
 
     },
 
-{"key":"达达龟","name":"🐢哒哒龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/dadagui.json"},
+{"key":"达达龟","name":"🐢哒哒龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
 
-{"key": "csp_XYQHiker_臭蛋蛋影视","name":"🎗臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cdd.json","jar": "./lib/xyq.jar"},
+{"key": "csp_XYQHiker_臭蛋蛋影视","name":"🎗臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cdd.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e},
 {
             "key":"drpy_js_子子影视",
             "name":"🥏子子影视",
             "type":3,
-            "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+            "api":"./js/lib/drpy2.min.js",
             "ext":"./lib/子子影视.js"
         },
            
 
 
-
-           {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/4KHDR.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
           {"key":"影探4K","name":"🚛影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://gvvwvvvvwwwvvvvvvwvwwvwvwvwvwvwvwvwvwvwwvwvwvwvwvwvwvwvvwvwvwvv.lfytyl.com/api.php/app/"},
 {"key":"酷影","name":"🚛酷影┃4K","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ys.realdou.cn:2683/api.php/app/"},
 {"key":"天天视频","name":"🚛天天┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/"},
 {"key":"阿里云盘网","name":"🚛云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/aliyunpan.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-{"key":"6V磁力","name":"🚛6V磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/6v.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-{"key":"电影港","name":"🚛DYG磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/dyg.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+
+
 {"key":"4KHDR","name":"🚛HDR磁┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/4KHDR.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
+           {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/4KHDR.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
  {
       "key": "ikanbot3",
       "name": "ikan机器人",
