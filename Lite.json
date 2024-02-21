@@ -1,7 +1,7 @@
 {
   "spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "X影视Lite友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
+  "warningText": "X影视友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
   "lives": [
     {
       "name": "live",
@@ -215,7 +215,7 @@
         ".m3u8"
       ]
     },
-    //一起看广告过滤
+    //一起看
     {"name": "yqk-1", "hosts": ["ydd.yqkdd6"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18\\.433333[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts\\s+","#EXTINF.*?\\s+.*?index.*?\\.ts"]}, 
   //  {"name": "yqk-2", "hosts": ["ydd.vsmql"], "regex": ["video2/slice/hls","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","index0.ts","index1.ts","index2.ts","index3.ts"]},
        {"name": "yqk-2", "hosts": ["ydd.vsmql"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18\\.433333[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts"]}, 
