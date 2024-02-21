@@ -50,9 +50,30 @@
   //     { "key": "新视觉","name": "影院②", "type": 3,"api": "csp_Xinsj","searchable": 1,
   //  "quickSearch": 1,"changeable": 0,"ext": "https://www.80yy3.com/"},
         { "key": "电影港4k磁力",      "name": "💥iMAX①",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "./lib/电影港磁力.json",      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
-{ "key": "csp_xpath_yinfans", 			"name": "💥iMAX②", 			"type": 3, 			
-"api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			
-"ext": "./lib/音范丝.json"}, 
+//{ "key": "csp_xpath_yinfans", 			"name": "💥iMAX②", 			"type": 3, 			
+//"api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 	"ext": "./lib/音范丝.json"}, 
+                  {
+
+      "key": "csp_New6v",
+
+      "name": "💥iMAX②",
+
+      "type": 3,
+
+      "api": "csp_New6v",
+
+      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "http://www.xb6v.com"
+
+    },
+
 
 
 
@@ -222,7 +243,7 @@
   {"host": "v.douyin.com", "rule": ["playwm/?video_id="]},
   {"host": "dyxs20.com", "rule": [".m3u8"]}, 
   {"host": "www.agemys.cc", "rule": ["cdn-tos", "obj/tos-cn"]},
-    {"name": "磁力广告", "hosts": ["magnet"], "regex": ["更多", "请访问", "example", "社 區", "x u u", "最 新", "直 播", "更 新", "社 区", "有 趣", "英皇体育", "全中文AV在线", "澳门皇冠", "哥哥快来", "美女荷官", "新片首发", "UUE29"]}, {"name": "yqk", "hosts": ["yqk88"], "regex": ["18.4", "15.1666"]}
+    {"name": "磁力广告", "hosts": ["magnet"], "regex": ["更多", "请访问", "example", "社 區", "x u u", "最 新", "直 播", "更 新", "社 区", "有 趣", "英皇体育", "全中文AV在线", "澳门皇冠", "哥哥快来", "美女荷官", "新片首发", "UUE29"]}
     ],  
     
 
