@@ -233,12 +233,12 @@
 {"key":"drpy_js_电影先生2","name":"电影先生","type":3,"api":"/js/lib/drpy2.min.js","ext":"./lib/电影先生.js"},
 
  
-        {"key": "码上👓猫- 👗┃saohuo", "name": "火┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/火.js"},
+        {"key": "码上👓猫- 👗┃saohuo", "name": "火┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/saohuo.js"},
                 {"key": "码上👓猫-💐┃Libvio", "name": "Lib┃影视", "type": 3, "playerType": "1", "api": "./js/lib/drpy2.min.js", "ext": "./lib/LIBVIO.js"},
                          {"key": "码上👓猫-🏭┃厂长", "name": "厂长┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/厂长.js"},
      {"key": "码上👓猫-🛣┃低端", "name": "低端┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
              {
-            "key": "👉春盈cainisi┃TVB云播",
+            "key": "👉cainisi┃TVB云播",
             "name": "TVB",
             "type": 3,
             "api": "./js/lib/drpy2.min.js",
@@ -247,7 +247,7 @@
             "ext": "./lib/TVB云播.js"
         },      
           {
-            "key": "👉春盈cainisi┃VOFLIX",
+            "key": "👉cainisi┃VOFLIX",
             "name": "VOFLIX",
             "type": 3,
             "api": "./js/lib/drpy2.min.js",
