@@ -46,7 +46,7 @@
             "playerType":"2",
             "ext":{
                 "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+                "分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧",
                 "分类值":"1&2&3&4&12&5",
                 "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
                 "副标题":"<div class=\"module-item-note\">&&</div>",
