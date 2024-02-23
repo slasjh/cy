@@ -1119,7 +1119,7 @@
            {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/4KHDR.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
  {
       "key": "ikanbot3",
-      "name": "ikan机器人",
+      "name": "ikan",
       "type": 3,
       "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
       "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
