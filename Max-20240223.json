@@ -789,7 +789,7 @@
 
  {"key":"drpy_js_电影先生","name":"电影先生[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/电影先生.js"},     
 
-        {"key": "saohuo", "name": "码上👓猫- 👗┃火┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/火.js"},
+ 
         {"key": "Libvio", "name": "码上👓猫-💐┃Lib┃影视", "type": 3, "playerType": "1", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/LIBVIO.js"},
 
          {"key": "奇优", "name": "码上👓猫- 🍩┃奇优┃影视", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/奇优.js"}, 
@@ -989,7 +989,7 @@
 
     },
               {"key": "csp_XBPQ_6V",
-  "name": "🌙宝盒4K-6V磁力",
+  "name": "🌙4K-6V磁力",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
