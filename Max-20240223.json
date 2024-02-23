@@ -40,7 +40,7 @@
     },
             {
             "key":"freeok",
-            "name":"🌟free┃BPQ",
+            "name":"🌟freeok┃BPQ",
             "type":3,
             "api":"csp_XBPQ",
             "playerType":"2",
@@ -120,8 +120,8 @@
  
           
      {
-    "key": "csp_XBPQ_无忧",
-   "name": "🎦无忧影视",
+    "key": "csp_XBPQ_wy",
+   "name": "🎦wuyou影视",
      "type": 3,
      "api": "csp_XBPQ",
      "searchable": 1,
