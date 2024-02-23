@@ -760,7 +760,7 @@
        "ext": {"请求头": "User-Agent$MOBILE_UA","图片": "\"vod_pic\"*\"&&\"","分类url": "https://www.keke5.app/topic/detail/{cateId}-{catePg}.html", 			"主页url": "https://www.keke5.app",
 				"标题": "title=\"&&\"",
 				"链接": "href=\"&&\"",
-  "分类": "Net美剧$8#毒舌电影推荐$3#豆瓣Top 250$1#精选热映$11#豆瓣2022榜单$2#冷门佳片$13#最优质国漫$9#布衣探案推荐$5#乌鸦电影推荐$4","搜索url": "https://www.keke2.app/search?k={wd}","搜索图片": "http://img.vopox.net/wp-content/uploads/2023/03/y2fga2jzwq2.jpg" }},
+  "分类": "Net美剧$8#毒舌电影推荐$3#豆瓣Top 250$1#精选热映$11#豆瓣2022榜单$2#冷门佳片$13#优质国漫$9#布衣探案推荐$5#乌鸦电影推荐$4","搜索url": "https://www.keke2.app/search?k={wd}","搜索图片": "http://img.vopox.net/wp-content/uploads/2023/03/y2fga2jzwq2.jpg" }},
 //"data-original=\"&&\""   "图片": "\"vod_pic\"*\"&&\""
 
 //{ "key": "南瓜",  "name": "🎃南瓜App", "type": 3, "api": "csp_NanGua",
