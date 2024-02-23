@@ -302,7 +302,6 @@
   
 #4K
 {"key": "jar_码上看玩偶", "name": "🔥玩偶4k", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar": "./custom_spider.jar;md5;8A3584C3608A5412FB02A769AB3886BB"},
-#api.wogg.xyz
 
   {"key":"影探4K","name":"🎦影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},     
    { "key": "csp_xpath_yinfans", 			"name": "💥音范丝4K", 			"type": 3, 			
