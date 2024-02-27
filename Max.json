@@ -1193,7 +1193,7 @@
 "rules": [
   {"name": "量子", "hosts": ["vip.lz", "v.cdnlz", "hd.lz"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?ad01(6|7|8).*?\\.ts\\s+"]}, 
   {"name": "非凡", "hosts": ["vip.ffzy", "hd.ffzy"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.700000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?1170(20|32|81).*?\\.ts\\s+","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
-   {"name": "量子-2", "hosts": ["vip.lz", "hd.lz", "v.cdnlz1", "v.cdnlz"], "regex": ["5.720000","1.760000""18.5333", "19.52]}, 
+   {"name": "量子-2", "hosts": ["vip.lz", "hd.lz", "v.cdnlz1", "v.cdnlz"], "regex": ["5.720000","1.760000","18.5333", "19.52"]}, 
    {"name": "非凡-2", "hosts": ["vip.ffzy", "hd.ffzy"], "regex": ["25.0666","6.666667","4.700000","4.233333","3.333333","4.500000","3.933333","0.466667", "25.08", "20.52"]}, 
     {"name": "优质", "hosts": ["yzzy","cdn15-yzzy", "yzzy-online", "v.cdnyz", "hd.yz"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?00(1|2|3).*?\\.ts\\s+"]}, 
   {"name": "优质-2", "hosts": ["yzzy","vip.yz", "hd.yz", "yzzy-online", "v.cdnyz"], "regex": ["18.5333","5.720000","1.760000"]}, 
