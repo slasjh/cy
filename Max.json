@@ -1215,16 +1215,17 @@
       ]
     },
     //一起看
-    {"name": "yqk-1", "hosts": ["ydd.yqkdd6"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18\\.433333[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts\\s+","#EXTINF.*?\\s+.*?index.*?\\.ts"]}, 
+    {"name": "yqk-1", "hosts": ["ydd.yqkdd6","ydd.vsmql","ydd.yqk66"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18\\.433333[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-CUE-IN","#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=15\\.166667[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts"]}, 
   //  {"name": "yqk-2", "hosts": ["ydd.vsmql"], "regex": ["video2/slice/hls","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","index0.ts","index1.ts","index2.ts","index3.ts"]},
-       {"name": "yqk-2", "hosts": ["ydd.vsmql"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18\\.433333[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts"]}, 
-   {"name": "yqk-3", "hosts": ["ydd.yqk66"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18\\.433333[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts"]}, 
-    {"name": "yqk-4", "hosts": ["ydd."], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18\\.433333[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts"]}, 
 
-     {"name": "yqk", "hosts": ["yqk88","ydd","yqk66","yqkdd6"], "regex": ["18.4", "15.1666","18.433333","5.000000","3.433333", "16.5333"]},
+    {"name": "yqk-4", "hosts": ["ydd."], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=18.433333[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-OUT:DURATION=15.166667[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-CUE-IN","#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-CUE-IN","#EXTINF.*?\\s+.*?\\/video2\\/slice\\/hls.*?\\.ts"]}, 
+
+     {"name": "yqk", "hosts": ["yqk88","ydd","yqk66","yqkdd6"], "regex": ["18.4", "15.1666","18.433333","5.000000","3.433333","15.166667","0.166667"]},
   {"host": "ydd.vsmql.com", "rule": ["index0.ts","index1.ts","index2.ts","index3.ts","video2/slice/hls"]}, 
   {"host": "ydd.yqk66.com", "rule": ["index0.ts","index1.ts","index2.ts","index3.ts","video2/slice/hls"]}, 
   {"host": "ydd.yqkdd6.com", "rule": ["index0.ts","index1.ts","index2.ts","index3.ts","video2/slice/hls"]}, 
+
+
 
 {"name": "xx", "hosts": ["aws.ulivetv.net"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}, 
   {"host": "*", "rule": ["default.365yg.com"]}, 
