@@ -32,17 +32,6 @@
       "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
     }, 
 
-    {
-      "key": "csp_动漫巴士",
-      "name": "🤖动漫巴士",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/动漫巴士.json"
-    }, 
-
     
 
  
@@ -81,21 +70,19 @@
   {"key":"csp_xml_红牛资源","name":"💢红牛动漫","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
 "playUrl":"","searchable":1,"quickSearch":1,"categories": ["动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫","动漫电影"]},
 
-        {
-            "key": "次元城",
-            "name": "次元城",
-            "type": 3,
-            "api": "csp_Cycdm",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://app.95189371.cn/ciyuancheng.php/v6/",
-            "jar": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"
-        },
 
-{"key":"去看吧","name":"💨去看┃动漫","type":3,"api":"csp_XBPQ","jar":"./jar.jar;md5;9fc2ed12545bcb180d1bbdbbf620102","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/去看吧.json"}
+{"key":"去看吧","name":"💨去看┃动漫","type":3,"api":"csp_XBPQ","jar":"./jar.jar;md5;9fc2ed12545bcb180d1bbdbbf620102","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/去看吧.json"},
 
-     
+       {
+      "key": "csp_动漫巴士",
+      "name": "🤖动漫巴士",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/动漫巴士.json"
+    }
 
 
  
