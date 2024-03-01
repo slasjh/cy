@@ -16,32 +16,11 @@
 
   "sites": [
    {"key": "dr_看动漫", "name": "🔥动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-     {"key": "dr_码上NYA", "name": "🔥NYA动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/nightly/sites/码上/NyaFun.js"},
-      {
-      "key": "蓝猫动漫",
-      "name": "🌊蓝猫动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-    },
-    {
-      "key": "csp_动漫巴士",
-      "name": "🤖动漫巴士",
-      "type": 3,
-      "api": "csp_XPath",
-      "spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/动漫巴士.json"
-    }, 
-   {"key": "csp_Free", "name": "👌Freeok动漫", "type": 3, "api": "csp_XBPQ","searchable": 1,
-"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok-dongman.json","jar": "./lib/小米ab.jar" },
-
-    {"key":"csp_视觉","name":"👓视觉动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
- "filterable":1,"ext":"./lib/xinshijue-dongman.json"},
+     {"key": "dr_码上NYA", "name": "🔥NYA动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/NyaFun.js"},
+{"key":"csp_视觉","name":"👓视觉动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
+ "filterable":1,"ext":"./lib/xinshijue-dongman.json","jar": "./lib/小米ab.jar"},
  {"key": "csp_XYQHiker_在线之家","name":"🏠在线动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dm/在线之家动漫.json ","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-        {
+ {
       "key": "csp_XYQHiker_影视工场",
       "name": "🏭工场动漫",
       "type": 3,
@@ -53,29 +32,22 @@
       "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"
     }, 
 
-     {
-    "key": "csp_XBPQ_无忧",
-   "name": "🍉无忧动漫",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-       "filterable": 1,
-        "ext": { "分类url": "https://wyysi.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "动漫$4"
- }},
-            {
-    "key": "csp_XBPQ_可乐",
-   "name": "🍉可乐动漫",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-       "filterable": 1,
-        "ext": { "分类url": "https://cokeby.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "动漫$3" }},
+    {
+      "key": "csp_动漫巴士",
+      "name": "🤖动漫巴士",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/动漫巴士.json"
+    }, 
+
+    
+
  
        
+  
 
    
    {"key": "xml_火狐", "name": "💢火狐动漫", "type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
