@@ -7,3 +7,6 @@
     俊版仓库地址：https://github.com/q215613905/TVBoxOS
 
     takagen99版仓库地址 https://github.com/takagen99/Box
+
+2.直播源
+    直播源来自：Yoursmile7 的 TVBox、Ftindy 的 IPTV-URL、范明明的 live 等项目
