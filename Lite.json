@@ -130,7 +130,7 @@
   
 {"key": "csp_XYQHiker_奈飞中文","name":"✈️接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
  {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆接口⑤","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
- {"key": "dr_码上看低端", "name": "🔥接口⑥", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/低端影视.js"},
+  {"key": "dr_码上看荐片", "name": "🉑接口⑥", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
  //{
 //   "key": "csp_XBPQ_可可2",
  //    "name": "🉑接口⑥",
