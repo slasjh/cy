@@ -21,7 +21,7 @@
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
     "class_url": "https://www.dygang.tv/{cateId}/index_{catePg}.htm[firstPage=https://www.dygang.cc/{cateId}/index.htm]",
     //分类名，分类1&分类2&分类3
-    "class_name": "最新电影&经典高清&国配电影&经典港片&国剧&日韩剧&美剧&综艺&动漫&纪录片&高清原盘&4K高清区&3D电影&电影专题",
+    "class_name": "X影视最新电影&经典高清&国配电影&经典港片&国剧&日韩剧&美剧&综艺&动漫&纪录片&高清原盘&4K高清区&3D电影&电影专题",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
     "class_value": "ys&bd&gy&gp&dsj&dsj1&yx&zy&dmq&jilupian&1080p&4K&3d&dyzt",
     //筛选数据，json格式，参考xpath的筛选写法
@@ -95,13 +95,13 @@
     //演员数据，截取前缀&&截取后缀
     "proj_actor": "演　　员&&</",
     //简介内容，截取前缀&&截取后缀
-    "proj_plot": "简　　介&&</",
+    "proj_plot": "'💕X影视[X开源精粹]💕提醒您：请勿相信影片中的广告，以免上当受骗！'+简　　介&&</",
     
     //线路截取区域，如果不需要请把tab_title或tab_arr_rule置空或者全部不要填。
     //线路截取数组
     "tab_arr_rule": "#dede_content",
     //线路标题，截取前缀&&截取后缀
-    "tab_title": "strong&&Text",
+    "tab_title": "'X影视-'+strong&&Text",
     
     //列表数组截取，必须
     "list_arr_rule": "#dede_content",
