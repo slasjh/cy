@@ -18,23 +18,16 @@
      //{"key": "FREE1OK", "name": "码上👓猫-️️👌┃Fre┃影视", "type": 3, "playerType": "1", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"},
  //{"key": "Xinsj饭", "name": "码上👓饭-👓视觉┃直连", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.hdmyy.com/", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8a3584c3608a5412fb02a769ab3886bb"},
 
- //{"key": "csp_Free", "name": "👌官方①","type": 3, "api": "csp_XBPQ","searchable": 1,
-//"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json" }, 
- //{"key": "FREE1OK-上👓猫-️️👌┃Fre┃影视2", "name": "👌官方②", "type": 3, "playerType": "1", "api": "./js/lib/drpy2.min.js", "ext": "./js/lib/FreeOK2.js"},
- 
-
  // {"key": "csp_Free", "name": "👌官方①","type": 3, "api": "csp_XBPQ","searchable": 1,
 //"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json" }, 
 
  //{"key": "ok-vip", "name": "👌官方②", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
  //  "quickSearch": 1,"playerType": "1",  "ext":"./lib/freeokvip.json","jar": "./lib/小米ab.jar"},
- // {"key": "FREE1OK-上👓猫-️️👌┃Fre┃影视", "name": "👌官方①", "type": 3, "playerType": "1", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"},
- 
- //  {"key": "jar_码上🔥Auete", "name": "👌官方①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
+
 {"key": "dr_时光机在线豆瓣", "name": "🔥豆瓣", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
-         {"key": "奇优", "name": "👌官方①", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/奇优.js"},
-              //   {"key": "低端", "name": "👌官方②", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/ddys.js"}, 
-      {"key": "码上👓猫-🛣┃低端", "name": "👌官方②", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
+{"key":"YGP-码上👓饭","name":"🚀新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0,"jar":"./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"},
+//{"key":"YGP","name":"码上👓饭-🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24"},
+ 
              
 //{"key": "火狐资源", "name": "👌官方①", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]}, 
 //{"key": "csp_SNzy","name": "👌官方②","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片",  "战争片", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"] },
@@ -42,18 +35,31 @@
    // { "key": "yqikan", "name": "👌官方①", "type": 3, "api": "csp_YQKAPP", "ext": "https://api-aws.ctdy.cc", "jar": "./lib/fix1170.jar"},//👩‍❤️‍💋‍👨一起看影院
 //{"key":"csp_YQKAPP","name":"👌官方②","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar":"./lib/fix1170.jar"},//👩‍👦一起看电视
 
-  {"key": "dr_码上看荐片", "name": "👓影院①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
+  {"key": "dr_码上看荐片", "name": "👌官方①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
+
  {
       "key": "ikanbot3",
-      "name": "👓影院②",
+      "name": "👌官方②",
       "type": 3,
       "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
       "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
     },	
 
+              //   {"key": "低端", "name": "👌官方②", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/ddys.js"}, 
+      {"key": "码上👓猫-🛣┃低端", "name": "👓影院①", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
+           //    {"key": "奇优", "name": "👓影院②", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/奇优.js"},
+       {
+            "key": "🔥码上看18哈",
+            "name": "👓影院②",
+            "type": 3,
+            "api": "./lib/merge.min.js",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/18哈.js"
+        },
 
-  //     { "key": "新视觉","name": "影院②", "type": 3,"api": "csp_Xinsj","searchable": 1,
-  //  "quickSearch": 1,"changeable": 0,"ext": "https://www.80yy3.com/"},
         { "key": "电影港4k磁力",      "name": "💥iMAX①",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "./lib/电影港磁力.json",      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
 //{ "key": "csp_xpath_yinfans", 			"name": "💥iMAX②", 			"type": 3, 			
 //"api": "csp_XPath", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 	"ext": "./lib/音范丝.json"}, 
