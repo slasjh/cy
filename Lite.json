@@ -25,7 +25,7 @@
  //  "quickSearch": 1,"playerType": "1",  "ext":"./lib/freeokvip.json","jar": "./lib/小米ab.jar"},
 
 {"key": "dr_时光机在线豆瓣", "name": "🔥豆瓣", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
-{"key":"YGP-码上👓饭","name":"🚀新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0,"jar":"./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"},
+//{"key":"YGP-码上👓饭","name":"🚀新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0,"jar":"./lib/fan.jar;md5;be6121b5c37471b191114027123912d2"},
 //{"key":"YGP","name":"码上👓饭-🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24"},
  
              
