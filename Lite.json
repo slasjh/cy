@@ -36,13 +36,16 @@
 //{"key":"csp_YQKAPP","name":"👌官方②","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar":"./lib/fix1170.jar"},//👩‍👦一起看电视
 
   {"key": "dr_码上看荐片", "name": "👌官方①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
- {
-      "key": "ikanbot3",
-      "name": "👌官方②",
-      "type": 3,
-      "api": "./js/lib/drpy2.min.js",
-      "ext": "./lib/ikanbot3.js"
-    },	
+               {
+            "key": "👉cainisi┃TVB云播",
+            "name": "👌官方②",
+            "type": 3,
+            "api": "./js/lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./lib/TVB云播.js"
+        },
+ //{"key": "ikanbot3", "name": "👌官方②", "type": 3, "api": "./js/lib/drpy2.min.js", "ext": "./lib/ikanbot3.js" },	
  //{ "key": "ikanbot3", "name": "👌官方②", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js" },	
 
               //   {"key": "低端", "name": "👌官方②", "type": 3, "playerType": "2", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/ddys.js"}, 
@@ -85,10 +88,6 @@
       "ext": "http://www.xb6v.com"
 
     },
-
-
-
-
 
 
     {"key": "一起看 ","name": "👫独家①","type": 3,"api": "csp_YQKan",
