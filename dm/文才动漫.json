@@ -1,4 +1,4 @@
-{"分类": "X影视国产动漫&欧美动漫&港台动漫&动漫&其他动漫&动画", 
+{"分类": "X影视国漫&美漫&港台漫&动漫&其他动漫&动画", 
   "分类值": "76&75&77&78&4&80&33", 
   "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
   "数组二次截取": "list\":[&&]", 
