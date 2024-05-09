@@ -62,8 +62,9 @@
             "changeable": 1,
             "ext": "./lib/TVB云播.js"
         },
-
-{"key":"csp_xBPQ_文才-秒","name":"👿云播①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
+ {"key": "csp_XYQHiker_影视工场2","name": "🏭云播①"","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
+"changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json", "jar":"./XYQ20240509.jar;md5;0578e48b03db152d0f0bbb03704d4ab5" },
+//{"key":"csp_xBPQ_文才-秒","name":"👿云播①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
  {
             "key": "cjzy_360资源",
             "name": "🧭云播②",
@@ -173,43 +174,14 @@
    //       {"key": "csp_XYQHiker_好戏网","name":"💢接口②","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/好戏网.json"},
     //       {"key": "jar_码上Auete", "name": "🏝接口③", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
      //            {"key": "dr_码上时光", "name": "💢接口④", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/时光影视.js"}, 
-      {
-    "key": "csp_XBPQ_可可",
-    "name": "🉑接口①",
-     "type": 3,
-      "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-      "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
- "分类": "X影视$1#电视剧$2#综艺$4#动漫$3#短剧$6",
- 			"主页url": "https://www.keke2.app",
-"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]" , 
-"搜索url": "https://www.keke2.app/search?k={wd}" }
-},
+ 
 
-{
-    "key": "csp_XBPQ_ncat",
-    "name": "🐱接口②",
-     "type": 3,
-      "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-      "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
- "分类": "X影视$1#电视剧$2#综艺$4#动漫$3#短剧$6",
- 			"主页url": "https://www.ncat3.com:51111",
-"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]" , 
-"搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
-},
+{"key": "csp_XYQHiker_奈飞中文","name":"✈️接口①","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
+ {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆接口②","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ20240509.jar;md5;0578e48b03db152d0f0bbb03704d4ab5","ext":"./lib/鸭奈飞影视.json"},
 
-{"key": "csp_XYQHiker_奈飞中文","name":"✈️接口③","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
- {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ20240509.jar;md5;0578e48b03db152d0f0bbb03704d4ab5","ext":"./lib/鸭奈飞影视.json"},
+   {"key": "dr_码上跟剧", "name": "📺️接口③", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧.js"},
+ {"key": "csp_XYQHiker_555影视","name":"🌙接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
 
-   {"key": "dr_码上跟剧", "name": "📺️接口⑤", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧.js"},
-//  {"key": "csp_XYQHiker_555影视","name":"🌙接口⑥","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
- {"key": "csp_XYQHiker_影视工场2","name": "🏭接口⑥","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
-"changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json", "jar":"./XYQ20240509.jar;md5;0578e48b03db152d0f0bbb03704d4ab5" },
 
          {
       "key": "量子",
