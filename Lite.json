@@ -200,7 +200,7 @@
  "分类": "X影视$1#电视剧$2#综艺$4#动漫$3#短剧$6",
  			"主页url": "https://www.ncat3.com:51111",
 "图片":"data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]" , 
-"搜索url": "https://www.ncat3.com:51111/search?k={wd}", "jar":"./XYQ20240509.jar;md5;0578e48b03db152d0f0bbb03704d4ab5" }
+"搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
 },
 
 {"key": "csp_XYQHiker_奈飞中文","name":"✈️接口③","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
