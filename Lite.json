@@ -1,6 +1,7 @@
 {
   //"spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
-  "spider": "./XBPQ20240509.jar;md5;01fe7efed80f9bad449138694852bd28f",
+   "spider": "./XBPQ1.jar;md5;01fe7efed80f9bad449138694852bd28f",
+  //"spider": "./XBPQ20240509.jar;md5;56be033d13e13803dc999d881437d1f6",
   //"spider": "./XYQ20240509.jar;md5;0578e48b03db152d0f0bbb03704d4ab5",
 
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
@@ -181,6 +182,21 @@
 
    {"key": "dr_码上跟剧", "name": "📺️接口③", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧.js"},
  {"key": "csp_XYQHiker_555影视","name":"🌙接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
+       {
+    "key": "csp_XBPQ_可可",
+    "name": "🉑测试",
+     "type": 3,
+      "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+      "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+ "分类": "X影视$1#电视剧$2#综艺$4#动漫$3#短剧$6",
+ 			"主页url": "https://www.keke2.app",
+"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]" , 
+"搜索url": "https://www.keke2.app/search?k={wd}" }
+},
+
 
 
          {
