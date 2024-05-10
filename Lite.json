@@ -184,7 +184,7 @@
  {"key": "csp_XYQHiker_555影视","name":"🌙接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
        {
     "key": "csp_XBPQ_可可",
-    "name": "🉑测试",
+    "name": "🉑测试①",
      "type": 3,
       "api": "csp_XBPQ",
     "searchable": 1,
@@ -196,6 +196,14 @@
 "图片":"data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]" , 
 "搜索url": "https://www.keke2.app/search?k={wd}" }
 },
+       {
+            "key": "可可-dr",
+            "name": "🉑测试②",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/drpy2.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/可可影视.js"
+        }, 
+
 
 
 
