@@ -5,7 +5,7 @@ host:'http://www.tvyb03.com',
 url:'vod/show/id/fyfilter.html',
 filterable:1,//是否启用分类筛选,
 filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
-class_name:'电影&电视剧&综艺&动漫&日韩剧&国产剧&欧美剧&港台剧',
+class_name:'X影视&电视剧&综艺&动漫&日韩剧&国产剧&欧美剧&港台剧',
 class_url:'1&2&3&4&16&13&15&14',
 filter: {
 "1":[
