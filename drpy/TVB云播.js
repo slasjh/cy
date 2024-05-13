@@ -7,6 +7,10 @@ filterable:1,//是否启用分类筛选,
 filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
 class_name:'X影视&电视剧&综艺&动漫&日韩剧&国产剧&欧美剧&港台剧',
 class_url:'1&2&3&4&16&13&15&14',
+tab_remove:[ '热门资讯'],
+tab_order:[ '暴风线路','量子线路','非凡线路'],
+   tab_rename:{'暴风线路':'X影视bf','量子线路':'X影视lz','非凡线路':'X影视ff',},
+
 filter: {
 "1":[
 {
