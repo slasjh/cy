@@ -7,8 +7,7 @@ var rule = {
     homeUrl: '/label/new.html',
     // url:'/show/fyclass--------fypage---.html',
     url: '/show/fyfilter.html',
-    class_name: '电影&电视剧&动漫&综艺',     // 筛选 /api/term/ad_fenlei?limit=10&page=1
-	class_url: '1&2&4&3',
+
 
     filterable: 1,//是否启用分类筛选,
     filter_url: '{{fl.cateId}}-{{fl.area}}-{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
