@@ -11,6 +11,11 @@ var rule={
     },
     class_parse: '.navbar&&ul&&li;a&&Text;a&&href;/(\\d+).html',
     class_exclude:'留言|首页|网盘|',
+   cate_exclude:'伦理片|今日更新|专题列表|排行榜',
+  tab_remove:['UC网盘1','夸克4K1'],
+  tab_order:['量子云','量子m3u8'],
+  tab_rename:{'量子云':'X影视lz1','量子m3u8':'X影视lz2',},
+
     play_parse: true,
     lazy: '',
     limit: 6,
