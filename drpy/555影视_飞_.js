@@ -7,6 +7,9 @@ var rule = {
 	host: 'https://www.555dyy.top',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".row:eq(1)&&a&&href");print(src);HOST=src',
     url:'/vodshow/fyfilter.html',
+    class_name:'X影视&电视剧&动漫&综艺',//静态分类名称拼接
+    class_url:'1&2&3&4',//静态分类标识拼接
+    tab_rename:{'极速线路11':'X影视11','高清线路21':'X影视高清21','备用':'（X影视）备用',},
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}----fypage---{{fl.year}}',
     filter: {
