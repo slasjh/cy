@@ -11,9 +11,12 @@ var rule = {
   headers: {
     'User-Agent': 'MOBILE_UA',
   },
+   class_name:'X影视&电视剧&动漫&综艺&短剧',//静态分类名称拼接
+    class_url:'1&2&3&4&6',//静态分类标识拼接
   class_parse: '#nav-swiper&&.nav-swiper-slide;a&&Text;a&&href;/(\\w+).html',
   cate_exclude:'Netflix|今日更新|专题列表|排行榜',
   tab_order:['超清', '蓝光', '极速蓝光'],
+  tab_rename:{'超清':'X影视超清','蓝光':'X影视蓝光','极速蓝光':'X影视极光',},
   play_parse: true,
   lazy: '',
   limit: 20,
