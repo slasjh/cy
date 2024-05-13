@@ -30,6 +30,10 @@ var rule = {
         16:{cateId:'16'}
     },
     tab_remove:['夸克网盘'],
+     //线路顺序,按里面的顺序优先，没写的依次排后面|js1
+    tab_order:['索尼[无广]','量子[微广]','非凡[微广]'],
+    //线路名替换如:lzm3u8替换为量子资源|js1
+    tab_rename:{'量子[微广]':'X影视lz','非凡[微广]':'X影视ff','索尼[无广]':'X影视sn',},
     class_parse: '.navbar-items&&li;a&&Text;a&&href;/(\\d+).html',
     lazy: `js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
