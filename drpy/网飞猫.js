@@ -14,7 +14,7 @@ var rule = {
   class_parse: '#nav-swiper&&.nav-swiper-slide;a&&Text;a&&href;/(\\w+).html',
   cate_exclude:'Netflix|今日更新|专题列表|排行榜',
   tab_order:['超清', '蓝光', '极速蓝光'],
-  tab_rename:{'超清':'X影视超清','蓝光':'X影视蓝光','极速蓝光':'X影视极光',},
+  tab_rename:{'超清':'X影视超清','蓝光':'X影视蓝光','极速蓝光':'X影视极光','蓝光8':'X影视蓝光8','LZ线路':'X影视lz','FF线路':'X影视ff',},
   play_parse: true,
   lazy: '',
   limit: 20,
