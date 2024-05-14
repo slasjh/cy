@@ -5,8 +5,9 @@ var rule = {
     模板: '短视2',
     host: 'https://sk100.tv',
     detailUrl: '/voddetail/fyid.html',
-    class_name: '爽文短剧',
-    class_url: '33',
+    class_name: '电影&电视剧&综艺&动漫&爽文短剧',
+    class_url: '1&2&4&3&33',
+   cate_exclude:'电影',
     lazy: `js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
         var url = html.url;
