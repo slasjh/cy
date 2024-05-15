@@ -1,8 +1,10 @@
-{
+{custom_spider_20240407_4(0426)_notc.tms	cddfe963d003becd2c3e60f01cae86a5	4a20eed1c5856b4189476dbd306483b38788aef9	4447bb97	2ac607e44fc33a5d4749e5ae781be86ebe15c90471cb68b771cb04baeb51a980	7f5a1bf3f7ae5021e352e2b6db99b1b4e689c103dd2df444272b1e01d68a302899db239871113625fc25216067e9c30dd6f4c51a1e872395d278e62f9340f4f9	fd4da36840261e3c3805bde0bf2890bd0142fa3042d87821453422e9788f0946da09517f175be4d98c3bb71e5e6b1931	E:\個人\本地包\LocalSend-1.13.1-windows免装-x86-64\file\custom_spider_20240407_4(0426)_notc.tms	2024/5/15 14:39:58	2024/5/15 14:39:58	2024/5/15 14:39:58	881,829				tms	A	
+
+
   //"spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
-   "spider": "./XBPQ1.jar;md5;01fe7efed80f9bad449138694852bd28f",
-  //"spider": "./XBPQ20240509.jar;md5;56be033d13e13803dc999d881437d1f6",
-  //"spider": "./XYQ20240509.jar;md5;0578e48b03db152d0f0bbb03704d4ab5",
+  // "spider": "./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a",
+  "spider": "./custom_spider_20240407_4(0426)_notc.tms;md5;cddfe963d003becd2c3e60f01cae86a5",
+ 
 
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "X影视友情提示：广告都是骗子，爱护家人，谨防受骗！！！",
@@ -106,18 +108,28 @@
 
 
 
-{"key":"csp_YQKAPP","name":"👩‍👦独家①","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar":"./lib/fix1170.jar"},
+//{"key":"csp_YQKAPP","name":"👩‍👦独家①","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar":"./lib/fix1170.jar"},
 
 
  {
       "key": "ikanbot3",
-      "name": "🧞独家②",
+      "name": "🧞独家①",
       "type": 3,
       "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
     },
-
-//{"key": "yqikan","name": "👫独家②","type": 3, "api": "csp_YQKAPP", "ext": "https://api-aws.ctdy.cc",  "jar": "./lib/fix1170.jar"},
+         {
+            "key": "极客",
+            "name": "👋独家②",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "嗅探词": ".m3u8",
+                "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+                "搜索模式": "0"
+            }
+        },
 
 
 
@@ -178,10 +190,19 @@
  
 
 {"key": "csp_XYQHiker_奈飞中文","name":"✈️接口①","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
- {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆接口②","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ20240509.jar;md5;0578e48b03db152d0f0bbb03704d4ab5","ext":"./lib/鸭奈飞影视.json"},
+ {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆接口②","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
 
    {"key": "dr_码上跟剧", "name": "📺️接口③", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧.js"},
- {"key": "csp_XYQHiker_555影视","name":"🌙接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
+           {
+            "key": "555一（APP）",
+            "name": "🌙接口④",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://55vid.shop/api.php/app/", "categories": [
+                "电影","连续剧","动漫","综艺"]
+        },
+
+ //{"key": "csp_XYQHiker_555影视","name":"🌙接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
        {
     "key": "csp_XBPQ_可可",
     "name": "🉑测试①",
