@@ -66,7 +66,7 @@
             "ext": "./lib/TVB云播.js"
         },
  {"key": "csp_XYQHiker_影视工场2","name": "🏭云播①","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
-"changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json", "jar":"./XYQ20240509.jar;md5;0578e48b03db152d0f0bbb03704d4ab5" },
+"changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json", "jar":"./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a" },
 //{"key":"csp_xBPQ_文才-秒","name":"👿云播①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
  {
             "key": "cjzy_360资源",
