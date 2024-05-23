@@ -18,6 +18,12 @@ var rule = {
 	timeout:5000,
 	class_parse:'#menus&&li:gt(1);a&&Text;a&&href;.*/(.*)/',
 	cate_exclude:'欧美剧|旧版6v',
+		 // 除开全局动态线路名过滤之外还需要过滤哪些线路名标题不视为线路
+    tab_exclude:'',
+    //移除某个线路及相关的选集|js1
+    tab_remove:['磁力', '道长磁力',],
+	 tab_order:[ '道长在线一', '道长在线二','道长在线三'],
+
 	play_parse:true,
 	limit:6,
 	推荐: '*',
