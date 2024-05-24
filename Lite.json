@@ -65,9 +65,8 @@
             "changeable": 1,
             "ext": "./lib/TVB云播.js"
         },
- {"key": "csp_XYQHiker_影视工场2","name": "🏭云播①","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
-"changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json", "jar":"./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a" },
-//{"key":"csp_xBPQ_文才-秒","name":"👿云播①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
+
+{"key":"csp_xBPQ_文才-秒","name":"👿云播①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
  {
             "key": "cjzy_360资源",
             "name": "🧭云播②",
@@ -159,7 +158,6 @@
       "quickSearch": 1,
 
       "filterable": 1,
-    
 
       "ext": "http://www.xb6v.com"
 
@@ -169,17 +167,17 @@
  
    {"key": "dr_看动漫", "name": "🔥动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
 {
-            "key": "lz影院",
-            "name": "💢短剧",
-            "type": 1,
-            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            "key": "哔哩短剧",
+            "name": "🅱️短剧",
+            "type": 3,
+            "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "categories": [
-                "短剧"
-            ]
+            "jar": "./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dj/Bili%E7%9F%AD%E5%89%A7.json"
         },
+
 
 {"key": "csp_XYQHiker_在线之家","name":"🏠美剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
 
@@ -201,6 +199,8 @@
             "ext": "https://55vid.shop/api.php/app/", "categories": [
                 "电影","连续剧","动漫","综艺"]
         },
+         {"key": "csp_XYQHiker_影视工场2","name": "🏭接口⑤","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
+"changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json", "jar":"./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a" },
 
  //{"key": "csp_XYQHiker_555影视","name":"🌙接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
        {
@@ -214,7 +214,7 @@
       "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
  "分类": "X影视$1#电视剧$2#综艺$4#动漫$3#短剧$6",
  			"主页url": "https://www.keke2.app",
-"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]" , 
+"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
 "搜索url": "https://www.keke2.app/search?k={wd}" }
 },
        {
@@ -225,6 +225,20 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy/可可影视.js"
         }, 
 
+{
+    "key": "csp_XBPQ_ncat",
+    "name": "🐱测试③",
+     "type": 3,
+      "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+      "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+ "分类": "X影视$1#电视剧$2#综艺$4#动漫$3#短剧$6",
+ 			"主页url": "https://www.ncat3.com:51111",
+"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
+"搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
+},
 
 
 
@@ -236,12 +250,42 @@
       "searchable": 1,
       "changeable": 1 ,"categories": ["短剧","动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","足球","篮球","网球","斯诺克"]},
       {
-      "key": "非凡",
+      "key": "49",
       "name": "🍉资源②",
       "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "changeable": 1,"categories": ["短剧","动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","足球","篮球","网球","斯诺克"]}
+      "changeable": 1,"categories": ["国产剧",
+                "纪录片",
+                "欧美剧",
+                "香港剧",
+                "动作片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "战争片",
+                "喜剧片",
+                "动画片",
+                "韩国剧",
+                "动漫",
+                "电影",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "台湾剧",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "泰国剧",
+                "日剧",
+                "电影解说",
+                "奇幻片",
+                "灾难片",
+                "悬疑片",
+                "体育赛事",
+                "海外剧"
+]}
 
 
        
