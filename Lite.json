@@ -56,15 +56,27 @@
             "filterable": 1,
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/leyu.js"
         },
+                      {
+            "key": "🔥看18哈",
+            "name": "👓影院②",
+            "type": 3,
+            "api": "./lib/merge.min.js",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/18ha.js"
+        },
                        {
             "key": "👉cainisi┃TVB云播",
-            "name": "👓影院②",
+            "name": "👓影院③",
             "type": 3,
             "api": "./js/lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./lib/TVB云播.js"
         },
+
 
 {"key":"csp_xBPQ_文才-秒","name":"👿云播①","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json"},
  {
@@ -117,9 +129,10 @@
       "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
     },
+         {"key": "dr_码上看荐片", "name": "🎬独家②", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
          {
             "key": "极客",
-            "name": "👋独家②",
+            "name": "👋独家③",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
