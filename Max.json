@@ -167,7 +167,8 @@
    {"key": "dr_网飞", "name": "🔥网飞", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/网飞.TV.js"}, 
    {"key": "dr_跟剧", "name": "🔥跟剧", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/sites/码上/我爱跟剧.js"},
  {"key": "dr_白白", "name": "🔥白白", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/素白白.js"}, 
-
+     {"key": "👓猫-🛣┃低端", "name": "低端┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
+      {"key": "🚀 低端 | JAR", "name": "🚀 低端 | JAR", "type": 3, "api": "csp_XBPQ", "playerType": "2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/低端影视ddys.json"},
         
 #秒播
   
@@ -236,7 +237,8 @@
         {"key": "👓猫- 👗┃saohuo", "name": "火┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/saohuo.js"},
                 {"key": "👓猫-💐┃Libvio", "name": "Lib┃影视", "type": 3, "playerType": "1", "api": "./js/lib/drpy2.min.js", "ext": "./lib/LIBVIO.js"},
                          {"key": "👓猫-🏭┃厂长", "name": "厂长┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/厂长.js"},
-     {"key": "👓猫-🛣┃低端", "name": "低端┃影视", "type": 3, "playerType": "2", "api": "./js/lib/drpy2.min.js", "ext": "./lib/ddys.js"},
+
+
              {
             "key": "👉cainisi┃TVB云播",
             "name": "TVB",
