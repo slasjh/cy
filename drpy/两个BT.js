@@ -7,7 +7,8 @@ var rule = {
     searchable:0,
     quickSearch:0,
     headers:{
-        'User-Agent':'MOBILE_UA#Accept$text/html'
+        'User-Agent':'MOBILE_UA#Accept$text/html',
+        'method':'GET'
     },
     timeout:5000,
     class_name:'最新电影&国产剧&美剧&日韩剧',//静态分类名称拼接
