@@ -10,7 +10,7 @@ var rule = {
         'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36',
         'method':'GET',
         'Content-Type':'text/html;charset=UTF-8',
-        'Referer':'https://www.bttwoo.com/xsssearch?q=%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B&f=_all&p=1'
+        'Cookie':'_ga_RCP8C4ZLB9=GS1.1.1718178210.5.1.1718178252.0.0.0; _ga=GA1.1.168495592.1717141034; myannoun=1'
 
     },//        'Referer':'/xssearch?q=**&f=_all&p=1'
     timeout:5000,
