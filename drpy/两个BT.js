@@ -14,6 +14,7 @@ var rule = {
          'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0',
          'Cookie':'_ga_RCP8C4ZLB9=GS1.1.1718178210.5.1.1718178252.0.0.0; _ga=GA1.1.168495592.1717141034; myannoun=1',
         'Sec-Fetch-Dest':'document',
+        'Sec-Fetch-Mode':'navigate',
        'Referer':'https://www.bttwoo.com/xsssearch?q=%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B'
 
 
