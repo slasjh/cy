@@ -3,12 +3,13 @@ var rule = {
     host:'https://www.bttwoo.com',
     // homeUrl:'/',
     url:'/fyclass/page/fypage',
-    searchUrl:'/xssearch?q=**',
+    searchUrl:'/xssearch?q=**&f=_all&p=1',
     searchable:0,
     quickSearch:0,
     headers:{
-        'User-Agent':'MOBILE_UA#Accept$text/html',
-        'method':'GET'
+        'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36',
+        'method':'GET',
+        'Referer':'/xssearch?q=**&f=_all&p=1'
     },
     timeout:5000,
     class_name:'最新电影&国产剧&美剧&日韩剧',//静态分类名称拼接
