@@ -7,11 +7,12 @@ var rule = {
     searchable:0,
     quickSearch:0,
     headers:{
-
+      'method':'get',
          'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
         'Accept-Encoding':'gzip, deflate, br, zstd',
         'Accept-Language':'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
          'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0',
+         'Cookie':'_ga_RCP8C4ZLB9=GS1.1.1718178210.5.1.1718178252.0.0.0; _ga=GA1.1.168495592.1717141034; myannoun=1',
        'Referer':'https://www.bttwoo.com'
 
 
