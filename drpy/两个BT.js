@@ -9,8 +9,8 @@ var rule = {
     headers:{
         'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36',
         'method':'GET',
-        'Referer':'/xssearch?q=**&f=_all&p=1'
-    },
+
+    },//        'Referer':'/xssearch?q=**&f=_all&p=1'
     timeout:5000,
     class_name:'最新电影&国产剧&美剧&日韩剧',//静态分类名称拼接
 	class_url:'new-movie&zgjun&meiju&jpsrtv',//静态分类标识拼接
