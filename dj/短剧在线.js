@@ -7,6 +7,7 @@ var rule = {
     quickSearch: 0,
     filterable: 0,
     class_parse: '.nav-menu-items&&li;a&&Text;a&&href;.*/(.*?).html',
+    tab_rename:{'DPlayer-H5播放器':'X影视','DPlayer-':'X影视',},
     play_parse: true,
     lazy: $js.toString(() => {
         let html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1])
