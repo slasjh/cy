@@ -11,6 +11,7 @@ var rule = {
     headers: {
                 'User-Agent': 'PC_UA',
             },
+            图片替换: 'ttps://www.cfkj86.com=>https://obs.gduamoe.com',
             lazy: '',
             limit: 6,
             推荐: '',
