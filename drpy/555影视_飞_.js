@@ -4,7 +4,7 @@ muban.mxpro.二级.desc = '.module-info-item:eq(-1)&&Text;;;.module-info-item-co
 var rule = {
     title:'555影视[飞]',
     模板:'mxpro',
-	host: 'https://www.555dyy.top',
+	host: 'https://w55tv.com',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".row:eq(1)&&a&&href");print(src);HOST=src',
     url:'/vodshow/fyfilter.html',
     class_name:'X影视&电视剧&动漫&综艺',//静态分类名称拼接
