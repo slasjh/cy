@@ -217,17 +217,6 @@
 
  
    {"key": "dr_看动漫", "name": "🔥哔哩┃动漫", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/哔哩影视.js"} ,
-{
-            "key": "哔哩短剧",
-            "name": "🅱️哔哩┃短剧",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a",
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dj/Bili%E7%9F%AD%E5%89%A7.json"
-        },
 
 
 {"key": "csp_XYQHiker_在线之家","name":"🏠在线┃美剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/在线之家.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
@@ -244,16 +233,38 @@
    {"key": "dr_码上跟剧", "name": "📺️跟剧┃多线", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧.js"},
            {
             "key": "555一（APP）",
-            "name": "🌙55┃多线",
+            "name": "🌙555┃多线",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://55vid.shop/api.php/app/", "categories": [
+            "ext": "https://5scrn.com/api.php/app/", "categories": [
                 "电影","连续剧","动漫","综艺"]
         },
          {"key": "csp_XYQHiker_影视工场2","name": "🏭工场┃多线","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
 "changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json", "jar":"./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a" },
 
- //{"key": "csp_XYQHiker_555影视","name":"🌙接口④","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/555影视.json"},
+{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
+   {
+            "key": "csp_XYQHiker_A8",
+            "name": "🥌A8XY┃多线",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/A8影视.json",
+            "jar":"./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a"
+        },
+              {
+            "key": "河马",
+            "name": "🔥河马┃秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {"搜索url": "http://www.hemayes.com/sou/{wd}----------{pg}---.html",
+                "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
+            }
+        }, 
+
 
 
 
