@@ -8,7 +8,8 @@ var rule = {
 	// url:'/vodshow/fyclass--------fypage---.html',
 	url: '/vodshow/fyfilter.html',
 	filterable: 1,//是否启用分类筛选,
-	filter_url: '4-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
+filter_url: '{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
+
 	tab_remove:[ '热门资讯','电影','电视剧','综艺'],
 	class_name:'动漫',
     class_url:'4',
