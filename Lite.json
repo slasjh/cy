@@ -36,6 +36,21 @@
 
 //{"key": "火狐资源", "name": "🔥官方①", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]}, 
             {"key": "csp_优质","name": "🔥优质┃接口","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","纪录片","动画电影","大陆剧","欧美剧","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","搞笑","音乐"]},
+            {"key":"爱坤","name":"🔥官方②","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧"]},
+
+        {
+            "key": "jszy",
+            "name": "🔥官方③",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片", "喜剧片",  "爱情片", "科幻片", "恐怖片", "战争片", "灾难片", "悬疑片", "奇幻片", "纪录片",  "内地剧", "香港剧", "台湾剧", "日剧", "韩剧", "马泰剧", "欧美剧", "动画片",  "中国动漫", "日本动漫", "欧美动漫", "大陆综艺",  "港台综艺", "日韩综艺", "欧美综艺", "体育赛事" ]
+        },
+
              {"key":"🔥码上看RARBT","name":"🔥RAR┃多线","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1 },
                     {
     "key": "csp_XBPQ_可可",
@@ -124,6 +139,32 @@
                 "港台综艺"
             ]
         },
+ {"key":"文采文才","name":"💮文才┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf"}, 
+ {
+            "key": "河马",
+            "name": "🔥云播⑦",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+    "请求头": "手机",
+    "数组": "class=\"stui-vodlist__box\">&&</li>",
+    "图片": "data-original=\"&&\"",
+    "链接": "href=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "",
+    "嗅探词": ".mp4#.m3u8#.flv",
+    "线路数组": "<span&&</h4>",
+    "线路标题": "⏰X开源精粹+pull-right1\">&&</span>",
+    "播放数组": "class=\"stui-content__playlist clearfix\">&&</ul>",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&</a",
+    "搜索url": "http://www.hemayes.com/sou/-------------.html?wd={wd}",
+    "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类数组": "<a&&</a",
+    "分类标题": "text-muted\">&&</a",
+    "分类ID": "href=\"/tags/&&-----------.html\""
+}
+        }, 
 
   
   {
@@ -160,34 +201,14 @@
 
 
 
- {
-      "key": "ikanbot3",
-      "name": "🧞机器┃多线",
-      "type": 3,
-      "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
-    },
-         {"key": "dr_码上看荐片", "name": "🎬荐片┃秒播", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
-         {
-            "key": "极客",
-            "name": "👋极客┃独家",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "嗅探词": ".m3u8",
-                "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-                "搜索模式": "0"
-            }
-        },
+
+
+     {"key": "dr_码上看荐片", "name": "🎬荐片┃独家", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/荐片.js"},
 
 
 
 
- // {"key": "csp_Ysgc","name": "🏭云播①","type": 3, "api": "csp_Ysgc", "searchable": 1,"quickSearch": 1,"changeable": 1,
-  //   "ext": "https://www.ysgc3.cc/","jar": "./custom_spider_stable1019.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338"},
-  //{"key": "csp_XYQHiker_影视工场1","name": "🏭云播①","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  "changeable": 1,"filterable": 1,"ext": "./lib/影视工场.json", "jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
-  //{"key":"drpy_js_影视工场","name":"🏭云播①","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/影视工场.js"},
+
 
          { "key": "电影港4k磁力",      "name": "💥影港┃4K",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 1,      "ext": "./lib/电影港磁力.json",      "jar": "./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e" },
 //{ "key": "csp_xpath_yinfans", 			"name": "💥iMAX②", 			"type": 3, 			
@@ -226,7 +247,13 @@
     //       {"key": "jar_码上Auete", "name": "🏝接口③", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
      //            {"key": "dr_码上时光", "name": "💢接口④", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/时光影视.js"}, 
  
-
+ {
+      "key": "ikanbot3",
+      "name": "🧞机器┃多线",
+      "type": 3,
+      "api": "https://gitlab.com/mfkdy/vip/-/raw/main/js/lib/drpy2.min.js",
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
+    },
 {"key": "csp_XYQHiker_奈飞中文","name":"✈️奈飞┃多线","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/奈飞中文.json"},
  {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆鸭奈┃多线","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","ext":"./lib/鸭奈飞影视.json"},
 
@@ -242,7 +269,6 @@
          {"key": "csp_XYQHiker_影视工场2","name": "🏭工场┃多线","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
 "changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json", "jar":"./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a" },
 
-{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
    {
             "key": "csp_XYQHiker_A8",
             "name": "🥌A8XY┃多线",
@@ -254,16 +280,6 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XYQHiker/A8影视.json",
             "jar":"./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a"
         },
-              {
-            "key": "河马",
-            "name": "🔥河马┃秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {"搜索url": "http://www.hemayes.com/sou/{wd}----------{pg}---.html",
-                "分类url": "http://www.hemayes.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
-            }
-        }, 
 
 
 
