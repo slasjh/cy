@@ -322,8 +322,22 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m
 
 
 卫视频道,#genre# 
+//*redrainl
+深圳卫视,http://61.52.156.220:808/hls/34/index.m3u8
+深圳卫视,http://113.83.242.213:4022/udp/239.77.1.148:5146
+深圳卫视,http://171.117.124.15:8888/hls/29/index.m3u8
+深圳卫视,http://112.25.105.140/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+深圳卫视,http://tvbox.netsite.cc/proxy/846832031/846832031.m3u8
+深圳卫视,http://59.172.84.192:8888/rtp/239.254.96.137:8896
+深圳卫视,http://219.147.3.106:4455/newlive/live/hls/25/live.m3u8
+湖北卫视,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171203.m3u8
+湖北卫视,http://58.248.112.205:8006/GD_CUCC/G_HUBEI-CQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNfm12jp2Xf%2BoEVOwZjj0vsuZv6kEjBfquqPtTBEwcGKG
+湖北卫视,http://nas.hssvm.com:8888/udp/225.1.1.147:5002
+山西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SXWS/index.m3u8?gMac=unknown&livodToken=3372ee
+山西卫视,http://58.223.166.16/live2.rxip.sc96655.com/live/sxws42_4000.m3u8
+山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 
-
+//*其他
 深圳卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8
 湖北卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/index.m3u8
 山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
