@@ -1144,6 +1144,9 @@ http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156398&extension=ts
 中视新闻,http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 
 
+关注[X开源精粹],#genre#
+
+生活简单而精粹,#genre#
 
 
 
