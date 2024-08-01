@@ -1215,6 +1215,11 @@
       "ext": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/hezi.json"
 
     },
+
+    //加验证无法爬取
+    {"key":"达达龟688**","name":"***加验证无法爬取**","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1"},
+
+    //{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
         {
       "key": "达达龟.jsd",
       "name": "🐢达达龟js-加验证无法爬取",
@@ -1234,7 +1239,7 @@
         },
         
 
-{"key":"达达龟","name":"🐢哒哒龟-加验证无法爬取","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
+
 
 {"key": "csp_XYQHiker_臭蛋蛋影视","name":"🎗臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cdd.json","jar":"./XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
 {
