@@ -4,10 +4,10 @@
         "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
         "group": 1
     },
-  //  {
-  //      "name": "X开源精粹IPV4",
-  //      "url": "https://live.fanmingming.com/tv/m3u/index.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
- //   },
+  {
+        "name": "X开源精粹IPV4",
+        "url": "https://live.fanmingming.com/tv/m3u/itv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
 
     {
         "name": "X影视4K",
