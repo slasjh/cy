@@ -444,9 +444,7 @@ X影视港澳台ipv6,#genre#
 
 X影视电影频道ipv6,#genre#
 //**fanmingming
-CHC影迷电影,https://pi.0472.org/6/chcym.m3u8
-CHC动作电影,https://pi.0472.org/6/chcdz.m3u8
-CHC家庭影院,https://pi.0472.org/6/chcjt.m3u8
+
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
