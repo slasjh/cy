@@ -2,10 +2,8 @@
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.65.179/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://121.24.98.253:8090/hls/9/index.m3u8
+CCTV1,https://live-play.cctvnews.cctv.com/cctv/merge_cctv1_mbd.m3u8?auth_key=1724446902-0-pcs0e410b4e6a68499daa82c824cee1faa6-59c655401e42120def1862b00449ccb2&yid=pcs0e410b4e6a68499daa82c824cee1faa6
 
 X影视央视ipv6,#genre#
 //**fanmingming**
