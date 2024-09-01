@@ -1,6 +1,6 @@
 var rule = {
   title: '可可影视',
-  host: 'https://keke5.app',
+  host: 'https://keke2.app',
   // url: '/show/fyclass-----2-fypage.html',
   url: '/show/fyclass-fyfilter-fypage.html',
   filter_url:'{{fl.类型}}-{{fl.地区}}-{{fl.语言}}-{{fl.年份}}-{{fl.排序}}',
