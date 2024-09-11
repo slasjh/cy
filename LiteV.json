@@ -1,6 +1,6 @@
 {
   //"spider": "./custom_spider_stable.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
-  "spider": "https://gitlab.com/mfkdy/cy/-/raw/main/custom_spider_20240407_4_0426_1XX.tms;md5;d3b4a108863dba059b08b629aefe2860",
+  "spider": "https://gitlab.com/mfkdy/cy/-/raw/main/custom_spider_20240407_4_0426_1.tms;md5;d3b4a108863dba059b08b629aefe2860",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "🔥X影视友情提示：不要相信视频中广告，谨防受骗！内容来自网络公开数据，仅供个人学习和参考。关注[X开源精粹]和[X影视仓]，获取最新[X影视]数据源。",
   "lives": [
