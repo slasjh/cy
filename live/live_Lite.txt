@@ -5,7 +5,7 @@ CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://121.24.98.253:8090/hls/9/index.m3u8
 CCTV1,https://live-play.cctvnews.cctv.com/cctv/merge_cctv1_mbd.m3u8?auth_key=1724446902-0-pcs0e410b4e6a68499daa82c824cee1faa6-59c655401e42120def1862b00449ccb2&yid=pcs0e410b4e6a68499daa82c824cee1faa6
 
-X影视央视ipv6,#genre#
+央视ipv6,#genre#
 //**fanmingming**
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -175,7 +175,7 @@ CCTV15 ,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw338630035_124
 CCTV17 ,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw338785573_-277210593/ott.mobaibox.com/PLTV/3/224/3221227639/index.m3u8?icpid=3&RTS=1674380454&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 
 
-X影视卫视ipv6,#genre#
+卫视ipv6,#genre#
 /**fanmingming**
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
@@ -423,7 +423,7 @@ X影视卫视ipv6,#genre#
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 黑龙江视,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001031/index.m3u8?love=freedom
 
-X影视港澳台ipv6,#genre#
+港澳台ipv6,#genre#
 
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -446,7 +446,7 @@ X影视港澳台ipv6,#genre#
 
 
 
-X影视电影频道ipv6,#genre#
+电影频道ipv6,#genre#
 //**fanmingming
 
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
@@ -474,7 +474,7 @@ CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
-X影视央视ipv4,#genre#
+央视ipv4,#genre#
 //**派大仙**
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -1008,7 +1008,7 @@ CCTV3,http://220.175.144.163:9000/udp/239.252.219.252:5140
 CCTV3,http://171.109.211.52:8888/udp/239.81.0.231:4056
 
 
-X影视卫视ipv4,#genre# 
+卫视ipv4,#genre# 
 //***gao list
 安徽卫视,http://39.134.66.110/PLTV/88888888/224/3221225925/index.m3u8
 北京卫视,http://39.134.66.110/PLTV/88888888/224/3221225931/index.m3u8
@@ -1890,6 +1890,6 @@ http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156398&extension=ts
 
 
 
-生活简单而精粹,#genre#
+勿商业公共场合,#genre#
 CCTV1,http://bkhlsliveali-cdn.ysp.cctv.cn/A9C00EBF6290959BDF5B86CA20688B5E3FE6A2B82C0AC6F0BF952B513D37EF02188DAE7BBF459DBF45E1C60FA98CED2C29ECC42701EE551CC806A5B998D57937281A505D55A80C03830B2A4D42D69A54E5D91F58F47AD19A0BC186C646917F3582A6B491276B6F0D7F17AA28945B7C751F0999510A832EDDFC1EC5B778B12329AB946570EA3FAB7111C388B2C3C94D059E94CE177E8E3804D843AB512E2818E13617F4620E86BED14646B1D5B23043D7/2024078203.m3u8
 东方卫视,http://hlsliveali-cdn.ysp.cctv.cn/114BF964F2161365F6A4CF13862AE8FD18E18C596EFC366910246BA5FF682B96F6FC52A3A8C30D7DD02B4800784B49C658031081788432F8495B274734C91D107283604871B019B262358D0D0F28F067015655467AB0AC8B05360D176BA0B449AD3886E4371F1E58AD0A5452274DD732B067C1E7A6038C13646F772B8773F0EA7BC45287FA745513F493C7FB37A4264C03CC276ACCBB1DA32CED3A69CD15102D7267A887999AA7F32582B63FBB7147B5/2024054501.m3u8
