@@ -1,4 +1,4 @@
-关注[X开源精粹],#genre#
+免费分享，关注[X开源精粹],#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -1687,7 +1687,7 @@ CCTV3,http://171.109.211.52:8888/udp/239.81.0.231:4056
 
 
 
-X影视港台ipv4,#genre#
+港台ipv4,#genre#
 
 
 //**其他
