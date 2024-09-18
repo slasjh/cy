@@ -15,6 +15,17 @@
     
     },
 
+                {
+        "name": "YueChan IPTV",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+                    {
+        "name": "Kimentanm IPV4&6",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+
 
 
     {
