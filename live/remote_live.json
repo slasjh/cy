@@ -5,6 +5,11 @@
         "group": 1
     },
         {
+        "name": "范明明itv",
+        "url": "https://live.fanmingming.com/tv/m3u/itv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
+        "group": 1
+    },
+        {
         "name": "大葱IPV4&6",
         "url": "https://tv.iill.top/m3u/Gather&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
