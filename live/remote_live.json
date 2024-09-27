@@ -81,6 +81,10 @@
         {
         "name": "joevess备",
         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+            {
+        "name": "CM",
+        "url": "https://gitlab.com/mfkdy/cy/-/raw/main/live/live_cm.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     }
     
    
