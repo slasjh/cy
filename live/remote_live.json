@@ -20,6 +20,11 @@
     
     },
                 {
+        "name": "多多IPV4&6",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/chengxue2020/Cat-ports/refs/heads/main/tv/ipv6.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+                {
         "name": "Guovin IPV6",
         "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
