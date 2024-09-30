@@ -4,14 +4,25 @@
    {"name":"💥X开源精粹","url":"https://gitlab.com/mfkdy/cy/-/raw/main/Lite.json"},
    {"name":"💥X影视仓","url":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/slasjh/cy/main/Lite.json"},
  {"name":"🍚动漫","url":"https://gitlab.com/mfkdy/cy/-/raw/main/dongman.json"},
- {"name":"🔘动漫城","url":"https://www.yingm.cc/dm/dm.json"},
+
 {"name":"🌙短剧","url":"https://gitlab.com/mfkdy/cy/-/raw/main/duanju.json"},
-{"name":"🌃纪录片","url":"https://gitlab.com/mfkdy/cy/-/raw/main/Jilu.json"}
+{"name":"🌃纪录片","url":"https://gitlab.com/mfkdy/cy/-/raw/main/Jilu.json"},
+
+ {"name":"🔘动漫城","url":"https://www.yingm.cc/dm/dm.json"},
+  {"name":"🍚饭太硬","url":"https://饭太硬.com/tv"},
+  {"name":"🐼肥猫","url":"https://肥猫.com"},
+  {"name":"🔘云星日记","url":"http://itvbox.cc/云星日记"},
+  {"name":"小米","url":"http://www.mpanso.com/小米/DEMO.json"},
+  {"name":"🔘开心","url":"http://ttkx.live:55/天天开心"},
+  {"name":"🔘星辰","url":"https://fmbox.cc"},
+  {"name":"🔘巧记","url":"http://cdn.qiaoji8.com/tvbox.json"},
 
 
 
 
 
+
+{"name":"🔘菜尼丝","url":"https://tv.xn--yhqu5zs87a.top"}
 
 
 ]}
