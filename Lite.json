@@ -502,7 +502,28 @@
       "api": "csp_SP360",
       "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
     },
-                   
+        {
+      "key": "XBPQ_黑木耳",
+      "name": "帅->♠️黑木耳",
+      "type": 3,
+      "api": "csp_XBPQ",
+        "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/heimuer.json"
+    },  
+        {
+      "key": "drpy_3651",
+      "name": " 帅->📡365",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/365.js"
+    },  
+        {
+      "key": "drpy_南瓜",
+      "name": "帅->🎃南瓜",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/南瓜.js"
+    },           
 
         {
             "key": "女团热舞",
