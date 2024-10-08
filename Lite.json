@@ -37,7 +37,7 @@
 
  {"key":"爱坤","name":"🔥爱坤┃切片","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧"]},
 
-       {"key":"🔥码上看RARBT","name":"🔥RARBT┃多线","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1 },     
+   //    {"key":"🔥码上看RARBT","name":"🔥RARBT┃多线","type":3,"api":"csp_Rarbt","searchable":1,"quickSearch":1,"filterable":1 },     
 
    // {"key": "yqikan","name": "👌X开源精粹","type": 3, "api": "csp_YQKAPP", "ext": "https://api-aws.ctdy.cc",
    //  "jar": "./lib/fix1170.jar"},//👩‍❤️‍💋‍👨一起看影院
@@ -217,7 +217,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "{\"主演\":\"主演：&&</div>\",\"简介\":\"<p>&&<p>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
+            "ext": "{\"主演\":\"主演：&&</div>\",\"简介\":\"<p>&&<p>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://www.6wyy.com//vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},  //导航https://www.kan80.app/ 
            
             {
             "key": "csp_XYQHiker_A8",
@@ -302,7 +302,8 @@
       "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
  "分类": "X影视$1#电视剧$2#综艺$4#动漫$3#短剧$6",
  			"主页url": "https://www.keke2.app",
-"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
+          "图片": "https+://61.147.93.252:15002+data-original=\"&&\"",
+//"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
 "搜索url": "https://www.keke2.app/search?k={wd}" }
 },
 
@@ -317,7 +318,8 @@
       "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
  "分类": "X影视$1#电视剧$2#综艺$4#动漫$3#短剧$6",
  			"主页url": "https://www.ncat3.com:51111",
-"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
+          "图片": "https+://61.147.93.252:15002+data-original=\"&&\"",
+//"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
 "搜索url": "https://www.ncat3.com:51111/search?k={wd}" }
 },
 
@@ -330,7 +332,7 @@
             "name": "🀝555┃多线",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://5scrn.com/api.php/app/", "categories": [
+            "ext": "https://wuwuweb.com/api.php/app/", "categories": [
                 "电影","连续剧","动漫","综艺","Netflix"]
         },
 
@@ -389,7 +391,9 @@
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
     },                
 
-                        
+  {"key": "hipy_js_采集之王[合]","name": "🇹采集┃大全","type": 3,"api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
+"filterable": 1,"order_num": 210,"ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/采集之王.js?type=url&params=https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/采集静态.json"},
+                       
 
         {
             "key": "女团热舞",
