@@ -1,0 +1,31 @@
+[
+                   {
+        "name": "zbds IPV4",
+        "url": "https://live.zbds.top/tv/iptv4.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+
+                        {
+        "name": "熊猫不叫猫IPV4&6",
+        "url": "https://gitlab.com/xmbjm/ck/-/raw/main/iplove.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+        
+                        {
+        "name": "ssili126 IPv4",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+                 
+        {
+        "name": "zhoujie iptv4",
+        "url": "https://live.zhoujie218.top/tv/iptv4.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+  
+            {
+        "name": "CM",
+        "url": "https://gitlab.com/mfkdy/cy/-/raw/main/live/live_cm.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    }
+    
+   
+]
