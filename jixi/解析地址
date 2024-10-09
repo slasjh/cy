@@ -1,0 +1,95 @@
+ https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8
+来之365线路
+ 战狼2
+ 
+ 
+ qiyi    圣墟
+  {
+      "name": "🌎圣墟",
+      "type": 1,
+      "url": "https://jxjson.sc1080.top?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+          "referer": "https://www.xyflv.cc/"
+        }
+      }
+    },
+
+
+qq       虾米
+ {
+      "name": "🌐虾迷",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "imgo",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/3.12.0"
+        }
+      }
+    },
+
+ youku    虾米
+
+ imgo      虾米
+
+ 乐视       虾米
+
+
+ --------------------------
+ 戴拿奥特玛
+
+ qiyi   圣墟
+ qq      8090
+     {
+      "name": "🌐8090",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url=",
+      "ext": {
+        "flag": [
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "imgo",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/3.12.0"
+        }
+youku     无
+ xigua   圣墟
+
+ ------------------------------------------------------------------------------------------------------------------------------
