@@ -15,6 +15,17 @@
     
     },
             {
+        "name": "zbds IPV6",
+        "url": "https://live.zbds.top/tv/iptv6.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+                {
+        "name": "zbds IPV4",
+        "url": "https://live.zbds.top/tv/iptv4.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+
+            {
         "name": "圆IPV4&6",
         "url": "http://175.178.251.183:6689/live.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
