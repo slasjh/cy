@@ -30,20 +30,41 @@
         "url": "http://175.178.251.183:6689/live.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
-                {
+
+                    {
+        "name": "肥猫",
+        "url": "https://我不是.肥猫.live/TV/tvzb.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+                            {
+        "name": "jundie",
+        "url": "http://home.jundie.top:81/Cat/tv/live.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+                                {
+        "name": "zouming ipv6",
+        "url": "http://ww.zouming.com/ipv6.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+                        {
+        "name": "fongmi",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    
+    },
+                    {
         "name": "多多IPV4&6",
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/chengxue2020/Cat-ports/refs/heads/main/tv/ipv6.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
                 {
         "name": "Guovin IPV6",
-        "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
 
                {
         "name": "suxuang IPV6",
-        "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
 
