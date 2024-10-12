@@ -127,7 +127,7 @@
 
      
                     {
-            "key": "厂长",
+            "key": "厂长┃秒播",
             "name": "🏭厂长┃秒播",
             "type": 3,
             "playerType": "2",
@@ -556,7 +556,7 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728569685606/fan.txt;md5;3b30e9a5547caef28ba4b5c8a246360b"
     },
         {
-      "key": "厂长",
+      "key": "饭->厂长",
       "name": "饭->📔厂长┃不卡",
       "type": 3,
       "api": "csp_NewCz",
