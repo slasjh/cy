@@ -16,6 +16,29 @@
 
   "sites": [
    {"key": "dr_看动漫", "name": "🔥看动漫┃官方", "type": 3, "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/哔哩影视.js"} ,
+     {"key":"爱坤","name":"🔥爱坤┃切片","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["国产动漫","欧美动漫","日韩动漫"]},
+     {
+            "key": "最大资源",
+            "name": "😹最大┃切片",
+            "type": 1,
+            "api": "https://api.zuidapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": ["国产动漫", "日韩动漫", "欧美动漫"]
+        },
+         {
+      "key": "鸣人资源采集",
+      "name": "🌀鸣人┃切片",
+      "type": 1,"categories": ["国产动漫", "港台动漫",  "日本动漫", "欧美动漫", "韩国动漫","其它动漫"],
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list"
+    },
+        {
+      "key": "黑木资源采集",
+      "name": "🌀木耳┃切片",
+      "type": 1,"categories": ["国产动漫", "港台动漫",  "日本动漫", "欧美动漫", "韩国动漫","其它动漫"],
+      "api": "https://heimuer.tv/api.php/provide/vod/"
+    },
+
  {
             "key": "cjzy_360资源",
             "name": "🔥360┃秒播",
@@ -51,7 +74,7 @@
 
                {"key": "csp_优质","name": "🔥优质┃切片","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
                { "key": "速博资源","name": "🔥速播┃切片","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["动漫电影","动漫","中国动漫","日本动漫","欧美动漫","港台动漫"]},
-               {"key":"爱坤","name":"🔥爱坤┃切片","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["国产动漫","欧美动漫","日韩动漫"]},
+             
 
                        {
             "key": "jszy",
