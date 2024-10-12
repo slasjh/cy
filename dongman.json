@@ -70,34 +70,10 @@
                         {"key":" 百姓 ","name":"🇹农民┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]","分类":"动漫$4"}},
          {"key": "凯奇追剧","name": "🇹凯奇┃秒播","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"简介":"+hl-content-text\">&&</span>","分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "动漫$dongman"}},
 
-          {"key": "火狐资源", "name": "🔥火狐┃切片", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0, "categories": ["动画片", "中国动漫", "日本动漫", "欧美动漫"]}, 
+        
 
                {"key": "csp_优质","name": "🔥优质┃切片","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-               { "key": "速博资源","name": "🔥速播┃切片","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["动漫电影","动漫","中国动漫","日本动漫","欧美动漫","港台动漫"]},
-             
-
-                       {
-            "key": "jszy",
-            "name": "🚄极速┃接口",
-            "type": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动画片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫"
-            ]
-        },
-
-
-
-
-  
- // {"key":"🧸樱花|JAR","name":"🧸独家动漫①","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
+                 
 
     
     {"key": "csp_Dm84_3",
@@ -289,49 +265,33 @@
       "filterable": 1,
       "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
     },
-    {
-      "key": "黑狐",
-      "name": "猫->🦊┃黑狐",
-      "type": 3,
+   {
+      "key": "米->非凡┃无广",
+      "name": "米->📺非凡┃测试",
+      "type": 0,
+      "api": "http://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+      "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
       "searchable": 1,
+      "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": "2",
-      "api": "csp_XBPQ",
-      "ext": {
-        "站名": "黑狐影院",
-        "主页url": "http://fagmn.com",
-        "数组": "class=\"stui-vodlist__box\"&&</a",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-        "过滤词": "/hls/#php",
-        "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-        "搜索模式": "1",
-        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索后缀": "/view/",
-        "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-        "线路标题": ">&&<",
-        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-        "状态": "地区：&&</p>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "简介：&&</div>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "免嗅": "0",
-        "分类": "动漫$3",
-        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-      },
-      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
-    },
+      "categories": [
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },  
+            {
+      "key": "csp_Dm84",
+      "name": "米->🎨动漫┃1080P",
+      "type": 3,
+      "api": "csp_Dm84", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728350715516/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c",
+      "playerType": 2
+    }, 
+
+
     
  
 
@@ -350,6 +310,26 @@
 // {"key": "49zy","name": "💢49动漫","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 1, "changeable": 1,"categories": ["动画片", "国产动漫","日本动漫","欧美动漫","港台动漫"]},   
      
  //{"key": "csp_无尽","name": "💢无尽动漫","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片", "国产动漫","中国动漫","日本动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动漫"]},
+ {"key": "火狐资源", "name": "🔥火狐┃切片", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 0, "quickSearch": 0, "categories": ["动画片", "中国动漫", "日本动漫", "欧美动漫"]}, 
+               { "key": "速博资源","name": "🔥速播┃切片","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["动漫电影","动漫","中国动漫","日本动漫","欧美动漫","港台动漫"]},
+             
+
+                       {
+            "key": "jszy",
+            "name": "🚄极速┃接口",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫"
+            ]
+        },
 
          {
       "key": "X开源精粹-量子",
