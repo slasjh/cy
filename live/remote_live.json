@@ -4,11 +4,7 @@
         "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
         "group": 1
     },
-        {
-        "name": "范明明itv",
-        "url": "https://live.fanmingming.com/tv/m3u/itv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
-        "group": 1
-    },
+   
         {
         "name": "大葱IPV4&6",
         "url": "https://tv.iill.top/m3u/Gather&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
@@ -24,6 +20,11 @@
         "url": "https://live.zbds.top/tv/iptv4.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
+         {
+        "name": "Guovin IPV4",
+        "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
+        "group": 1
+    },
 
             {
         "name": "圆IPV4&6",
@@ -31,11 +32,7 @@
     
     },
 
-                    {
-        "name": "肥猫",
-        "url": "https://我不是.肥猫.live/TV/tvzb.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    
-    },
+
                             {
         "name": "jundie",
         "url": "http://home.jundie.top:81/Cat/tv/live.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
@@ -46,11 +43,7 @@
         "url": "http://ww.zouming.com/ipv6.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
-                        {
-        "name": "fongmi",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    
-    },
+               
                         {
         "name": "熊猫不叫猫IPV4&6",
         "url": "https://gitlab.com/xmbjm/ck/-/raw/main/iplove.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
@@ -61,11 +54,7 @@
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/chengxue2020/Cat-ports/refs/heads/main/tv/ipv6.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
-                {
-        "name": "Guovin IPV6",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    
-    },
+             
 
                {
         "name": "suxuang IPV6",
@@ -95,12 +84,6 @@
     },
                     
 
-
-
-    {
-        "name": "摸鱼4K",
-        "url": "http://我不是.摸鱼儿.top/live.php&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
     {
         "name": "饭太硬 主",
         "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt&&&hhttp://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
