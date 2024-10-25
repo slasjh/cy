@@ -1,8 +1,11 @@
   时光机 -插兜
+  https://www.lintech.work/static/source/main.json
   "spider": "./custom_spider_20241009.tms;md5;f76d5231d72be9d1837c736ff5fc6ea7",
 
 ------------------------------------------------------------------------------------------
 
 饭太硬
+https://饭太硬.com/tv
+
 fan_20241012.txt
  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728649901533/fan.txt;md5;4e1010524e7057305efc75565c87ba0d",
