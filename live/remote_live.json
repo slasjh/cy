@@ -124,6 +124,10 @@
         "url": "http://156.238.251.122:5000/itv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
                     {
+        "name": "itv_proxy",
+        "url": "http://156.238.251.122:5000/itv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+                    {
         "name": "youtube",
         "url": "http://156.238.251.122:5000/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
