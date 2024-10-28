@@ -108,6 +108,26 @@
         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
             {
+        "name": "4gtv.m3u",
+        "url": "156.238.251.122:5000/4gtv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+                {
+        "name": "江苏移动",
+        "url": "156.238.251.122:5000/tptv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+            {
+        "name": "ysp",
+        "url": "156.238.251.122:5000/ysp.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+                {
+        "name": "iTV",
+        "url": "156.238.251.122:5000/itv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+                    {
+        "name": "youtube",
+        "url": "156.238.251.122:5000/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+            {
         "name": "CM",
         "url": "https://gitlab.com/mfkdy/cy/-/raw/main/live/live_cm.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     }
