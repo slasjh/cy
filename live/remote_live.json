@@ -143,6 +143,18 @@
         "name": "youtube",
         "url": "http://156.238.251.122:5000/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
+                        {
+        "name": "Beesport",
+        "url": "http://156.238.251.122:5000/beesport.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+                            {
+        "name": "thetv",
+        "url": "http://156.238.251.122:5000/thetv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+                               {
+        "name": "dlhd",
+        "url": "http://156.238.251.122:5000/dlhd.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
       {
         "name": "4gtv116",
         "url": "http://116.62.139.149:5000/4gtv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
