@@ -115,6 +115,10 @@
         "name": "江苏移动",
         "url": "http://156.238.251.122:5000/tptv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
+                    {
+        "name": "江苏移动_proxy.m3u",
+        "url": "http://156.238.251.122:5000/tptv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
             {
         "name": "ysp",
         "url": "http://156.238.251.122:5000/ysp.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
