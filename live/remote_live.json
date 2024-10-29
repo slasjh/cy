@@ -135,6 +135,30 @@
         "name": "youtube",
         "url": "http://156.238.251.122:5000/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
+      {
+        "name": "4gtv116",
+        "url": "http://116.62.139.149:5000/4gtv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+                {
+        "name": "江苏移动116",
+        "url": "http://116.62.139.149:5000/tptv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+                    {
+        "name": "江苏移动116_proxy.m3u",
+        "url": "http://116.62.139.149:5000/tptv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+            {
+        "name": "ysp116",
+        "url": "http://116.62.139.149:5000/ysp.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+                {
+        "name": "iTV116",
+        "url": "http://116.62.139.149:5000/itv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+                    {
+        "name": "itv116_proxy",
+        "url": "http://116.62.139.149:5000/itv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
             {
         "name": "CM",
         "url": "https://gitlab.com/mfkdy/cy/-/raw/main/live/live_cm.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
