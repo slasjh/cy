@@ -25,6 +25,11 @@
         "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
         "group": 1
     },
+             {
+        "name": "xiongjian83",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiongjian83/zubo/refs/heads/main/live.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
+        "group": 1
+    },
 
             {
         "name": "圆IPV4&6",
