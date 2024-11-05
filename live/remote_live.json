@@ -84,7 +84,7 @@
     },
                             {
         "name": "iptv-org",
-        "url": "https://iptv-org.github.io/iptv/index.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+        "url": "https://ghproxy.net/https://iptv-org.github.io/iptv/index.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
                     
@@ -116,26 +116,7 @@
         "name": "4gtv.m3u",
         "url": "http://156.238.251.122:5000/4gtv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
-                {
-        "name": "江苏移动",
-        "url": "http://156.238.251.122:5000/tptv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
-                    {
-        "name": "江苏移动_proxy.m3u",
-        "url": "http://156.238.251.122:5000/tptv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
-                       {
-        "name": "江苏移动_proxy-n.m3u",
-        "url": "http://156.238.251.122:5000/tptv_proxy.m3u?server=156.238.251.122:8000&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
-            {
-        "name": "ysp",
-        "url": "http://156.238.251.122:5000/ysp.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
-                {
-        "name": "iTV",
-        "url": "http://156.238.251.122:5000/itv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
+
                     {
         "name": "itv_proxy",
         "url": "http://156.238.251.122:5000/itv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
@@ -145,18 +126,10 @@
         "url": "http://156.238.251.122:5000/itv_proxy.m3u?server=156.238.251.122:8000&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
                             {
-        "name": "itv_5001",
+        "name": "4GTV_5001",
         "url": "http://156.238.251.122:5001/iptv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
-                        {
-        "name": "dlhd5001",
-        "url": "http://156.238.251.122:5001/dlhd.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
-         
-            {
-        "name": "thetv5001",
-        "url": "http://156.238.251.122:5001/thetv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
+                     
                         {
         "name": "Beesport",
         "url": "http://156.238.251.122:5000/beesport.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
@@ -166,26 +139,7 @@
         "url": "http://156.238.251.122:5000/thetv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
            
-      {
-        "name": "4gtv116",
-        "url": "http://116.62.139.149:5000/4gtv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
-                {
-        "name": "江苏移动116",
-        "url": "http://116.62.139.149:5000/tptv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
-                    {
-        "name": "江苏移动116_proxy.m3u",
-        "url": "http://116.62.139.149:5000/tptv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
-            {
-        "name": "ysp116",
-        "url": "http://116.62.139.149:5000/ysp.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
-                {
-        "name": "iTV116",
-        "url": "http://116.62.139.149:5000/itv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
+           
                     {
         "name": "itv116_proxy",
         "url": "http://116.62.139.149:5000/itv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
