@@ -30,13 +30,18 @@
         "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
         "group": 1
     },
-             {
+     {
         "name": "baby联通",
         "url": "https://gh.ddlc.top/raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
         "group": 1
     },
+    {
+        "name": "n3rddd汇聚",
+        "url": "https://gh.ddlc.top/raw.githubusercontent.com/n3rddd/CTVLive/refs/heads/master/live.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
+        "group": 1
+    },
 
-             {
+    {
         "name": "xiongjian83",
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiongjian83/zubo/refs/heads/main/live.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
         "group": 1
