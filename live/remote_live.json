@@ -141,8 +141,8 @@
         "url": "http://116.62.139.149:5000/itv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
             {
-        "name": "CM",
-        "url": "https://gitlab.com/mfkdy/cy/-/raw/main/live/live_cm.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+        "name": "chen-dayi1",
+        "url": "https://gitee.com/chen-dayi1/zhibo/raw/master/2024-9-192&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     }
     
    
