@@ -6,12 +6,12 @@
     },
    
         {
-        "name": "大葱IPV4&6",
+        "name": "Gather大葱IPV4&6",
         "url": "https://tv.iill.top/m3u/Gather&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
      {
-        "name": "圆IPV4&6",
+        "name": "圆汇聚IPV4&6",
         "url": "http://175.178.251.183:6689/live.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
