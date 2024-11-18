@@ -45,6 +45,11 @@
         "url": "https://cdn.jsdelivr.net/gh/maitel2020/iptv-self-use@main/iptv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
         "group": 1
     },
+            {
+        "name": "hero1898汇聚",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hero1898/tv/refs/heads/main/IPTV.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
+        "group": 1
+    },
 
     {
         "name": "xiongjian83",
