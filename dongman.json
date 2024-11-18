@@ -223,7 +223,7 @@
             "name": "🀝555┃多线",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "https://wuwuweb.com/api.php/app/", "categories": [
+            "ext": "https://wuwuwik.life/api.php/app/", "categories": [
                 "动漫"]
         },
         
@@ -270,7 +270,6 @@
       "name": "米->📺非凡┃测试",
       "type": 0,
       "api": "http://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-      "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
