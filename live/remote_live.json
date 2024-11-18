@@ -40,6 +40,11 @@
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/CTVLive/master/live.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
         "group": 1
     },
+        {
+        "name": "maitel2020汇聚",
+        "url": "https://cdn.jsdelivr.net/gh/maitel2020/iptv-self-use@main/iptv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
+        "group": 1
+    },
 
     {
         "name": "xiongjian83",
