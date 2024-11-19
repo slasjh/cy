@@ -129,20 +129,15 @@
         "name": "joevess备",
         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
-            {
-        "name": "4gtv.m3u",
-        "url": "http://156.238.251.122:5000/4gtv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
+           
 
                     {
         "name": "itv_proxy",
         "url": "http://156.238.251.122:5000/itv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
-                        {
-        "name": "itv_proxy-n",
-        "url": "http://156.238.251.122:5000/itv_proxy.m3u?server=156.238.251.122:8000&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
-    },
-                            {
+                    
+  
+          {
         "name": "4GTV_5001",
         "url": "http://156.238.251.122:5001/iptv.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
@@ -160,6 +155,11 @@
                     {
         "name": "itv116_proxy",
         "url": "http://116.62.139.149:5000/itv_proxy.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
+    },
+      
+                    {
+        "name": "xiaokai",
+        "url": "https://gitlab.com/mfkdy/cy/-/raw/main/live/xiaokai.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     },
             {
         "name": "chen-dayi1",
