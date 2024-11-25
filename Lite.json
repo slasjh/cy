@@ -639,6 +639,66 @@
       "api": "csp_Dm84", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
       "playerType": 2
     },   
+         {
+            "key": "龙伊影视",
+            "name": "龙->🇨🇳┃专线",
+            "type": 3,
+            "api": "csp_AppYsV2", "jar": "https://xn--qoqw77q.top/爬虫/spider618.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://影视.龙伊.top/api.php/app/"
+        },
+        {
+            "key": "官网采集",
+            "name": "龙->🇨🇳┃官采",
+            "type": 3,
+            "api": "csp_AppYsV2","jar": "https://xn--qoqw77q.top/爬虫/spider618.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://xn--9etx72c.xn--oor83yerjyv4a.top:30333/api.php/app/"
+        },
+         {
+            "key": "龙伊独家",
+            "name": "龙->🎬┃2K",
+            "api": "csp_Gz360",
+            "jar": "http://24.233.0.197:2025/jar/08015.jar",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0
+        },
+        {
+            "key": "huohuo",
+            "name": "龙->🔥┃火焰",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_SaoHuo",
+      "jar": "http://24.233.0.197:2025/jar/08015.jar"
+        },
+
+        {
+            "key": "影视备份",
+            "name": "龙->☁┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2","jar": "https://xn--qoqw77q.top/爬虫/spider618.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://apple.xn--9kqr9lk79c.top/api.php/app/"
+        },
+        {
+            "key": "龙伊短剧",
+            "name": "龙->┃短剧","jar": "https://xn--qoqw77q.top/爬虫/spider618.jar",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://apple.xn--kwr743m.top/api.php/app/"
+        },
 
         {
             "key": "女团热舞",
@@ -801,6 +861,124 @@
         }
       }
     },
+     {
+            "name": "高阳堂",
+            "type": 0,
+            "url": "http://jx.1ii.icu/qgg.php?url="
+        },
+        {
+            "name": "路人甲",
+            "type": 0,
+            "url": "http://61.158.166.42:90/api/?key=PtC4eRFwtPbA3IlFHC&url="
+        },
+        {
+            "name": "滴稳",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "梅花山",
+            "type": 0,
+            "url": "https://jx.xyflv.cc/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                    "referer": "https://www.xyflv.cc/"
+                }
+            }
+        },
+        {
+            "name": "清凉山",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+        {
+            "name": "客家印象",
+            "type": 0,
+            "url": "https://jx.zhanlangbu.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "ext": {
+                    "header": {
+                        "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                    }
+                }
+            }
+        },
+        {
+            "name": "南口豆干",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "仙人粄",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "腌面",
+            "type": 0,
+            "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "三及第",
+            "type": 0,
+            "url": "https://jx.quankan.app/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "南台山",
+            "type": 0,
+            "url": "https://jx.aidouer.net/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                    "referer": "https://jiejie.uk/"
+                }
+            }
+        }
       {
       "name": "-官解1-",
       "type": 0,
