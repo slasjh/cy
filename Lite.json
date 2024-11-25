@@ -569,11 +569,12 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/南瓜.js"
     },   
      {
+     {
       "key": "GUAZI",
       "name": "米->🥁瓜子┃1080",
        "type": 3,
       "api": "csp_Gz360",
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -587,48 +588,22 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_FanTuan",
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
       "playerType": 2,
       "filterable": 1,
       "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
       "ext": "https://fantuan.vip/"
     }, 
+    
        {
-      "key": "米->非凡┃无广",
-      "name": "米->📺非凡┃测试",
-      "type": 0,
-      "api": "http://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "日本剧",
-        "台湾剧",
-        "泰国剧",
-        "海外剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "大陆综艺",
-        "欧美综艺",
-        "日韩综艺",
-        "港台综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },  
+      "key": "荐片",
+      "name": "米->🎬荐片┃磁力",
+      "api": "csp_Jianpian", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
+      "type": 3,
+      "playerType": "1",
+      "ext": "http://api2.rinhome.com"
+    },
+       
         {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "米->🌞腾腾┃解析",
@@ -653,12 +628,12 @@
       "changeable": 0,
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
-     
+
         {
       "key": "csp_Dm84",
       "name": "米->🎨动漫┃1080P",
       "type": 3,
-      "api": "csp_Dm84", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728350715516/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c",
+      "api": "csp_Dm84", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
       "playerType": 2
     },   
 
