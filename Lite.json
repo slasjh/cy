@@ -146,9 +146,26 @@
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/%E5%8E%82%E9%95%BF.js"
         },
        
+{
+            "key": "APP影院",
+            "name": "✌️️App┃多线",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/APP影院.json"
 
+        },
 
-         //      {"key":"csp_XBPQ_神仙","name":"🍭神仙┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"站名":"神仙影视","作者":"天天开心","分类url":"https://ys.sxtv.top/index.php/vod/type/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}.html[https://ys.sxtv.top/index.php/vod/type/id/{cateId}.html]","分类":"电影&剧集&动漫&综艺","分类值":"1&2&4&3","简介":"<p>&&</p>","排序":"时间$time#人气$hits#评分$score","主页url":"https://ys.sxtv.top/"}},
+        {"key":"美柏","name":"❤美柏┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/美柏.json"},
+        {"key":"非凡资源","name":"🍄非凡┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/ffzy.json"},
+        {"key":"4K4K影视","name":"🔛4K4K┃秒播",
+     "type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://4k4k.live/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+      "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},	
+
    {
       "key": "🐈️ 网飞猫 | JAR",
       "name": "🐈️ 网飞猫 | JAR",
@@ -209,7 +226,13 @@
       "searchable": 1,
       "quickSearch": 1
     },
-      
+     {"key": "hipy_js_采集之王[合]","name": "🇹采集┃大全","type": 3,"api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
+"filterable": 1,"order_num": 210,"ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/采集之王.js?type=url&params=https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/采集静态.json"},
+
+    {"key":"毒舌影视","name":"🔴毒舌┃多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"醉卧东风祝您观影愉快","数组":"module-item&&</a>","副标题":"v-item-bottom\">&&</div>","图片":"https+://vres.a357899.cn+data-original=\"&&\"","导演":"导演:&&","演员":"演员:</div>&&</div>[替换:/>>空#更新>>更新]","影片年代":"首映:</div>&&</div>","简介":"class=\"detail-desc\">&&</p>","线路数组":"source-item\">&&</a>[排序:蓝光>超清]","线路标题":"<spanclass=\"source-item-label\">&&</span>+-+source-item-num\">&&</i>[替换:线路>>空]","搜索url":"https://www.dushe7.app/search?k={wd}&page={pg}","地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]","剧情":"[替换:伦理>>NETFLIX]","排序":"综合$1#最新$2#最热$3#评分$4","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$6","分类url":"https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"}},
+
+    {"key": "XBPQ_麻衣影院","name":"🌙麻衣┃多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}},   
 
        {"key":" 百姓 ","name":"🇹农民┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]","分类":"动漫$4#电影$1#电视剧$2#"}},
          
@@ -408,26 +431,7 @@
 
     },
 
- {
-            "key": "APP影院",
-            "name": "✌️️App┃多线",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/APP影院.json"
-
-        },
-
-        {"key":"美柏","name":"❤美柏┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/美柏.json"},
-        {"key":"非凡资源","name":"🍄非凡┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/ffzy.json"},
-        {"key":"4K4K影视","name":"🔛4K4K┃秒播",
-     "type":3,"api":"csp_XBPQ",
-     "searchable":1,"quickSearch":1,"filterable":1,
-      "ext":{"分类url": "https://4k4k.live/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-      "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},	
-
+ 
 
 
 
@@ -439,13 +443,7 @@
       "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/ikanbot3.js"
     },                
 
-  {"key": "hipy_js_采集之王[合]","name": "🇹采集┃大全","type": 3,"api": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
-"filterable": 1,"order_num": 210,"ext": "https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/采集之王.js?type=url&params=https://gitlab.com/mfkdy/cy/-/raw/main/drpy_libs/采集静态.json"},
 
-    {"key":"毒舌影视","name":"🔴毒舌┃多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"醉卧东风祝您观影愉快","数组":"module-item&&</a>","副标题":"v-item-bottom\">&&</div>","图片":"https+://vres.a357899.cn+data-original=\"&&\"","导演":"导演:&&","演员":"演员:</div>&&</div>[替换:/>>空#更新>>更新]","影片年代":"首映:</div>&&</div>","简介":"class=\"detail-desc\">&&</p>","线路数组":"source-item\">&&</a>[排序:蓝光>超清]","线路标题":"<spanclass=\"source-item-label\">&&</span>+-+source-item-num\">&&</i>[替换:线路>>空]","搜索url":"https://www.dushe7.app/search?k={wd}&page={pg}","地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]","剧情":"[替换:伦理>>NETFLIX]","排序":"综合$1#最新$2#最热$3#评分$4","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$6","分类url":"https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"}},
-
-    {"key": "XBPQ_麻衣影院","name":"🌙麻衣┃多线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}},
     
     {
       "key": "时光-💓在线┃多线",
