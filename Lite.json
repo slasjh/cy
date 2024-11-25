@@ -442,7 +442,7 @@
     
     {
       "key": "时光-💓在线┃多线",
-      "name": "💓在线┃多线",
+      "name": "时->💓在线┃多线",
       "type": 3,
       "api": "csp_Zxzj","jar": "https://gitlab.com/mfkdy/cy/-/raw/main/jar/custom_spider_20241009.tms;md5;f76d5231d72be9d1837c736ff5fc6ea7",
       "searchable": 1,
@@ -452,8 +452,7 @@
         "pure": false
       }
     },
-
-       
+  
         {
       "key": "饭->厂长",
       "name": "饭->📔厂长┃不卡",
@@ -464,7 +463,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzy77.com/",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728569685606/fan.txt;md5;3b30e9a5547caef28ba4b5c8a246360b"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a"
     },
  {
       "key": "萌米",
@@ -476,7 +475,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728569685606/fan.txt;md5;3b30e9a5547caef28ba4b5c8a246360b"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a"
     },
 
     {
@@ -489,7 +488,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728569685606/fan.txt;md5;3b30e9a5547caef28ba4b5c8a246360b"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a"
     }, 
     {
       "key": "可可",
@@ -500,10 +499,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728569685606/fan.txt;md5;3b30e9a5547caef28ba4b5c8a246360b"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a"
     },
        {
-      "key": "南瓜",
+      "key": "饭->南瓜",
       "name": "饭->🎃南瓜┃多线",
       "type": 3,
       "api": "csp_NanGua",
@@ -511,7 +510,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728569685606/fan.txt;md5;3b30e9a5547caef28ba4b5c8a246360b"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a"
+    },
+        {
+      "key": "饭->Dm84",
+      "name": "饭->🚌巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
           {
       "key": "csp_LiteApple",
@@ -522,16 +531,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
+      "jar": "https://gitlab.com/mfkdy/cy/-/raw/main/jar/PandaQ241023.txt;md5;671365d37009fe27a37c2c93c57e8aa3"
     },
         {
-      "key": "荐片",
+      "key": "荐片猫",
       "name": "猫->🎬荐片┃P2P",
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2",
       "ext": "http://api2.rinhome.com",
-      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
+      "jar": "https://gitlab.com/mfkdy/cy/-/raw/main/jar/PandaQ241023.txt;md5;671365d37009fe27a37c2c93c57e8aa3"
     },
      
     {
@@ -539,7 +548,7 @@
       "name": "猫->📺360┃解析",
       "type": 3,
       "api": "csp_SP360",
-      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
+      "jar": "https://gitlab.com/mfkdy/cy/-/raw/main/jar/PandaQ241023.txt;md5;671365d37009fe27a37c2c93c57e8aa3"
     },
         {
       "key": "XBPQ_黑木耳",
@@ -590,7 +599,7 @@
     }, 
     
        {
-      "key": "荐片",
+      "key": "荐片米",
       "name": "米->🎬荐片┃磁力",
       "api": "csp_Jianpian", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
       "type": 3,
