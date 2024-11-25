@@ -238,14 +238,23 @@
      "searchable":1,"quickSearch":1,"filterable":1,
       "ext":{"分类url": "https://4k4k.live/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
       "分类": "动漫$4"}},
-
+ {
+      "key": "饭->Dm84",
+      "name": "饭->🚌┃巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
           {
       "key": "csp_Anime1",
       "name": "猫->🐶┃日本",
       "type": 3,
       "playerType": "2",
       "api": "csp_Anime1",
-      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
+      "jar": "https://gitlab.com/mfkdy/cy/-/raw/main/jar/PandaQ241023.txt;md5;671365d37009fe27a37c2c93c57e8aa3"
     },
     {
       "key": "csp_Ysj",
@@ -253,7 +262,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ysj",
-      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
+      "jar": "https://gitlab.com/mfkdy/cy/-/raw/main/jar/PandaQ241023.txt;md5;671365d37009fe27a37c2c93c57e8aa3"
     },
     {
       "key": "csp_xifan",
@@ -263,25 +272,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
+      "jar": "https://gitlab.com/mfkdy/cy/-/raw/main/jar/PandaQ241023.txt;md5;671365d37009fe27a37c2c93c57e8aa3"
     },
-   {
-      "key": "米->非凡┃无广",
-      "name": "米->📺非凡┃测试",
-      "type": 0,
-      "api": "http://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },  
+   
             {
       "key": "csp_Dm84",
       "name": "米->🎨动漫┃1080P",
@@ -289,7 +282,6 @@
       "api": "csp_Dm84", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728350715516/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c",
       "playerType": 2
     }, 
-
 
     
  
