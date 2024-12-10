@@ -47,7 +47,7 @@
     },  
         {
             "key": "官网采集jx",
-            "name": "🇨🇳┃官采",
+            "name": "🇨🇳官采┃解析",
             "type": 3,
             "api": "csp_AppYsV2","jar": "https://xn--qoqw77q.top/爬虫/spider618.jar",
             "searchable": 1,
