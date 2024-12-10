@@ -16,6 +16,7 @@
 
   "sites": [
    {"key": "dr_看动漫", "name": "🔥看动漫┃官方", "type": 3, "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/哔哩影视.js"} ,
+    {"key": "csp_小土豆","name": "🔥小土豆┃自营","type": 1,"api": "http://156.238.251.122:9978/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["国产动漫","欧美动漫","日韩动漫"]}, 
      {"key":"爱坤","name":"🔥爱坤┃切片","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["国产动漫","欧美动漫","日韩动漫"]},
      {
             "key": "最大资源",
@@ -26,6 +27,33 @@
             "quickSearch": 1,
             "categories": ["国产动漫", "日韩动漫", "欧美动漫"]
         },
+         
+                 {
+      "key": "csp_SP360jx",
+      "name": "📺360┃解析",
+      "type": 3,
+      "api": "csp_SP360",
+      "jar": "https://gitlab.com/mfkdy/cy/-/raw/main/jar/PandaQ241023.txt;md5;671365d37009fe27a37c2c93c57e8aa3"
+    },
+       
+        {
+      "key": "drpy_3651jx",
+      "name": " 📡365┃解析",
+      "type": 3,
+      "api": "https://gitlab.com/mfkdy/cy/-/raw/main/jixi/drpy2.min.js",
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/jixi/365.js"
+    },  
+        {
+            "key": "官网采集jx",
+            "name": "🇨🇳官采┃解析",
+            "type": 3,
+            "api": "csp_AppYsV2","jar": "https://xn--qoqw77q.top/爬虫/spider618.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://xn--9etx72c.xn--oor83yerjyv4a.top:30333/api.php/app/"
+        },
+
          {
       "key": "鸣人资源采集",
       "name": "🌀鸣人┃切片",
@@ -39,6 +67,7 @@
       "api": "https://heimuer.tv/api.php/provide/vod/"
     },
 
+
  {
             "key": "cjzy_360资源",
             "name": "🔥360┃秒播",
@@ -51,31 +80,7 @@
                 "动漫片"
             ]
         },
-          
-
-        {
-            "key": "🔥码上看大师兄",
-            "name": "🦍师兄┃秒播",
-            "type": 3,
-            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min_dm.js",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/dsx.js"
-        },
-
-
-
-                        {"key":" 百姓 ","name":"🇹农民┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]","分类":"动漫$4"}},
-        
-
-        
-
-               {"key": "csp_优质","name": "🔥优质┃切片","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-                 
-
-    
+     
     {"key": "csp_Dm84_3",
      "name": "🤖巴士┃独家",
 
@@ -161,7 +166,31 @@
             "type": 3,
             "api": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/drpy.min.js",
             "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/怡萱动漫.js"
+        },      
+
+        {
+            "key": "🔥码上看大师兄",
+            "name": "🦍师兄┃秒播",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/merge.min_dm.js",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/dsx.js"
         },
+
+
+
+                        {"key":" 百姓 ","name":"🇹农民┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]","分类":"动漫$4"}},
+        
+
+        
+
+               {"key": "csp_优质","name": "🔥优质┃切片","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+                 
+
+   
 {"key":"drpy_js_哔哩影视","name":"哔哩┃影视","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/gaotianliuyun/gao/e36913bc2b9fa449a5ea61ff5d5257c630baf1ec/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/gaotianliuyun/gao/e36913bc2b9fa449a5ea61ff5d5257c630baf1ec/js/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86.js"},
 
  
