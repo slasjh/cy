@@ -25,6 +25,11 @@
         "url": "https://live.zbds.top/tv/iptv4.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png"
     
     },
+             {
+        "name": "aktv港澳台",
+        "url": "https://aktv.top/live.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
+          },
+      
          {
         "name": "Guovin IPV4",
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
