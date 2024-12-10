@@ -105,7 +105,36 @@
       "api": "https://heimuer.tv/api.php/provide/vod/"
     },
 
- 
+ {"key": "csp_Dm84_3",
+     "name": "🤖巴士┃独家",
+
+            "type": 3,
+
+            "api": "csp_XBPQ",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "filterable": 1,
+
+      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/Dm84.json"
+    }, 
+ {
+            "key": "动漫岛",
+            "name": "🤖动漫岛┃独家",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/drpy.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/动漫岛.js"
+        },       
+ {
+            "key": "奇米动漫",
+            "name": "🤖奇米┃独家",
+            "type": 3,
+            "api": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/drpy.min.js",
+            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/dm/奇米动漫.js"
+        },
+
 
            {
             "key": "🔥码上看大师兄",
