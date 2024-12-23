@@ -381,7 +381,7 @@
       "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
  "分类": "X影视$1#电视剧$2#综艺$4#动漫$3#短剧$6",
  			"主页url": "https://www.keke2.app","线路数组": "data-dropdown-value=&&</div>[排序:非凡>黑木耳>爱坤>暴风>360>极速>火狐>牛牛>快车>最大>索尼][不包含:天空#新浪云]",
-          "图片": "https+://61.147.93.252:15002+data-original=\"&&\"",
+          "图片": "data-original=\"&&\"",
 //"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
 "搜索url": "https://www.keke2.app/search?k={wd}" }
 },
