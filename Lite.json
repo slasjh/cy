@@ -196,18 +196,6 @@
 
         },
 
-
-
-   {
-      "key": "🐈️ 网飞猫 | JAR",
-      "name": "🐈️ 网飞猫 | JAR",
-      "type": 3,
-      "api": "csp_NCat", "jar": "./custom_spider_20241124.tms;md5;a1686e8bd43d03f470459d72d13529a8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {}
-    },
     {
       "key": "🦛 河马 | JAR",
       "name": "🦛 河马 | JAR",
