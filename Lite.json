@@ -409,41 +409,20 @@
  {"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆鸭奈┃多线","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/鸭奈飞影视.json"},
 
    {"key": "dr_码上跟剧", "name": "📺️跟剧┃多线", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/我爱跟剧.js"},
-     {
-           "key": "555一（APP）",
-            "name": "🀝555┃多线",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "https://www.ap0glj4.shop/api.php/app/", "categories": [
-                "电影","连续剧","动漫","综艺","Netflix"]
-        },
+    // {
+    //           "key": "555一（APP）",
+    //            "name": "🀝555┃多线",
+    //            "type": 3,
+    //            "api": "csp_AppYsV2",
+    //            "ext": "https://www.ap0glj4.shop/api.php/app/", "categories": [
+    //                "电影","连续剧","动漫","综艺","Netflix"]
+     //       },
 
 
 
  {"key": "csp_XYQHiker_555影视","name":"🌙555┃XYQ","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "jar": "./XYQ_0430_1.jar;md5;af4f280ec7f7dfd69c6bc110d844a649","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/lib/555影视.json"},
  {"key": "csp_XYQHiker_影视工场2","name": "🏭工场┃老站","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,  
 "changeable": 1,"filterable": 1,"ext": "./lib/影视工场2.json",  "jar":"./XYQ_0430_1_notc.jar;md5;d99218408ed4c22ed2aaf78ab798ad1a" },
- {
-
-      "key": "csp_rbzj",
-
-      "name": "⏯热播┃多线",
-
-      "type": 3,
-
-      "api": "csp_XBPQ",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 1,
-
-      "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/热播之家.json"
-
-    },
-
- 
 
 
 
