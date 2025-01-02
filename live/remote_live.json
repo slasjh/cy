@@ -1,4 +1,17 @@
-[
+[{
+            "name": "liteliveIPV4",
+                    "url": "https://ghgo.xyz/https://raw.githubusercontent.com/slasjh/n3rddd-CTVLive/refs/heads/ipv4/litelive.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
+                            "group": 1
+                                },
+                                {
+                                            "name": "liteliveIPV6",
+                                                    "url": "https://ghgo.xyz/https://raw.githubusercontent.com/slasjh/n3rddd-CTVLive/refs/heads/ipv6/litelive.txt&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
+                                                            "group": 1
+                                                                },
+
+                                
+
+
         {
         "name": "范明明IPV6",
         "url": "https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u&&&http://116.62.139.149:3000/slasjh/config/raw/branch/master/pic/X.png",
