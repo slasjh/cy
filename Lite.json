@@ -17,7 +17,28 @@
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
+     {
+             "name": "litelive4",
+                   "type": 0,
+                         "url": "https:/ghgo.xyz/https://raw.githubusercontent.com/slasjh/n3rddd-CTVLive/refs/heads/ipv4/litelive.txt",
+                               "playerType": 1,
+                                     "ua": "okhttp/3.12.13",
+                                           "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                                                     }, {
+                                                             "name": "litelive6",
+                                                                   "type": 0,
+                                                                         "url": "https://raw.githubusercontent.com/slasjh/n3rddd-CTVLive/refs/heads/ipv6/litelive.txt",
+                                                                               "playerType": 1,
+                                                                                     "ua": "okhttp/3.12.13",
+                                                                                           "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                                                                                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                                                                                                     }
+
+                                                     
+
+     
   ],
 
   "sites": [
