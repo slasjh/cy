@@ -1,0 +1,12 @@
+央视频道,#genre#
+CCTV2z.b2,http://go.bkpcp.top/mg/cctv2
+CCTV1z.b1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV1148.135,http://148.135.93.213:81/live.php?id=cctv1
+CCTV4freetv,https://www.freetv.top/migu/608807419.m3u8?migutoken=77b074e1b49cf260629d9642f9505e978eaabf572bfa1abe5f2e3ef60f5e4929c900274758111d707a7cca2a7368eb2b1af1415da7e0b2dbfcbdbeb4cb8566210f2994ffde97ad1e11a037a174
+CCTV2150158,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv2
+CCTV3,http://39.134.136.161:6610/000000001000/5000000002000020548/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000020548
+CCTV3,http://39.134.136.161:6610/000000001000/1000000001000011218/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000011218
+
+卫视频道,#genre#
+湖南卫视,http://222.134.245.16:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://222.134.245.16:9901/tsfile/live/0128_1.m3u8

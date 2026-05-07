@@ -1,0 +1,445 @@
+央视频道,#genre#
+CCTV-1,webview://https://tv.cctv.com/live/cctv1/
+
+CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
+
+CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
+
+CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
+
+CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
+
+CCTV-4 中文国际,webview://https://tv.cctv.com/live/cctv4/
+
+CCTV-4 中文国际,webview://https://yangshipin.cn/tv/home?pid=600001814
+
+CCTV-5 体育,webview://https://tv.cctv.com/live/cctv5/
+CCTV-5 体育,webview://https://yangshipin.cn/tv/home?pid=600001818
+
+CCTV-5+ 体育赛事,webview://https://tv.cctv.com/live/cctv5plus/
+CCTV-5+ 体育赛事,webview://https://yangshipin.cn/tv/home?pid=600001817
+
+CCTV-6 电影,webview://https://tv.cctv.com/live/cctv6/
+CCTV-6 电影,webview://https://yangshipin.cn/tv/home?pid=600108442
+
+CCTV-7 国防军事,webview://https://tv.cctv.com/live/cctv7/
+CCTV-7 国防军事,webview://https://yangshipin.cn/tv/home?pid=600004092
+
+CCTV-8 电视剧,webview://https://tv.cctv.com/live/cctv8/
+CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803
+
+CCTV-9 纪录,webview://https://tv.cctv.com/live/cctvjilu/
+CCTV-9 纪录,webview://https://yangshipin.cn/tv/home?pid=600004078
+
+CCTV-10 科教,webview://https://tv.cctv.com/live/cctv10/
+CCTV-10 科教,webview://https://yangshipin.cn/tv/home?pid=600001805
+
+CCTV-11 戏曲,webview://https://tv.cctv.com/live/cctv11/
+CCTV-11 戏曲,webview://https://yangshipin.cn/tv/home?pid=600001806
+
+CCTV-12 社会与法,webview://https://tv.cctv.com/live/cctv12/
+CCTV-12 社会与法,webview://https://yangshipin.cn/tv/home?pid=600001807
+
+CCTV-13 新闻,webview://https://tv.cctv.com/live/cctv13/
+CCTV-13 新闻,webview://https://yangshipin.cn/tv/home?pid=600001811
+
+CCTV-14 少儿,webview://https://tv.cctv.com/live/cctvchild/
+CCTV-14 少儿,webview://https://yangshipin.cn/tv/home?pid=600001809
+
+CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/
+CCTV-15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815
+
+CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
+CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
+
+CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
+CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
+
+CCTV-4 中文国际 (欧),webview://https://tv.cctv.com/live/cctveurope/index.shtml
+
+CCTV-4 中文国际 (美),webview://https://tv.cctv.com/live/cctvamerica/
+
+CGTN英语,webview://https://yangshipin.cn/tv/home?pid=600014550
+
+CGTN记录,webview://https://yangshipin.cn/tv/home?pid=600084781
+
+CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
+
+CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
+
+CGTN西语,webview://https://yangshipin.cn/tv/home?pid=600084744
+
+CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
+
+CCTV 风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
+
+CCTV 第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
+
+CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+#hndy
+CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV5,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
+CCTV6,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
+CCTV7,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
+CCTV9,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
+CCTV10,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
+CCTV11,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
+CCTV12,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
+CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
+CECTV-1 汉语文化,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-1 汉语文化,webview://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-2 国际旅游,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-2 国际旅游,webview://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-3 国际教育,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-3 国际教育,webview://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-4 国际健康,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CECTV-4 国际健康,webview://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+
+卫视频道,#genre#
+
+北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
+
+江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
+
+东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
+
+浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
+
+湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
+
+湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
+
+广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
+
+广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
+
+黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
+
+海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
+
+重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
+
+深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
+
+四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
+
+河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
+
+福建东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
+
+贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490
+
+江西卫视,webview://https://yangshipin.cn/tv/home?pid=600002503
+
+辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505
+
+安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532
+
+河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493
+
+山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
+
+天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137
+
+吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405
+
+陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400
+
+甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408
+
+宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737
+
+内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
+
+云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402
+
+山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
+
+青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
+
+西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
+
+#hndyjyfw
+北京卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
+浙江卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
+河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
+河南都市,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=13
+河南民生,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=15
+河南梨园,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
+康巴卫视,webview://https://www.kangbatv.com/zb_22587/
+海峡卫视,webview://https://www.fjtv.net/folder526/folder536/
+山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
+内蒙古卫视,webview://https://www.nmtv.cn/liveTv
+陕西卫视,webview://http://www.sxtvs.com/sxtvs_sxws/index.html
+新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
+佛山顺德,webview://http://xiubo.net/tv/gd/fssd.html
+佛山公共,webview://http://xiubo.net/tv/gd/fsgg.html
+佛山影视,webview://http://xiubo.net/tv/gd/fsys.html
+佛山高明,webview://http://xiubo.net/tv/gd/fsgm.html
+佛山三水,webview://http://xiubo.net/tv/gd/fsss.html
+佛山综合,webview://http://xiubo.net/tv/gd/fszh.html
+佛山南海,webview://http://xiubo.net/tv/gd/fsnh.html
+成都新闻,webview://https://www.cditv.cn/show/4845-563.html
+江苏卫视,webview://https://live.jstv.com/?channelId=534
+江苏城市,webview://https://live.jstv.com/?channelId=535
+江苏综艺,webview://https://live.jstv.com/?channelId=556
+江苏影视,webview://https://live.jstv.com/?channelId=542
+江苏新闻,webview://https://live.jstv.com/?channelId=536
+江苏教育,webview://https://live.jstv.com/?channelId=545
+江苏体育,webview://https://live.jstv.com/?channelId=537
+江苏国际,webview://https://live.jstv.com/?channelId=544
+优漫卡通,webview://https://live.jstv.com/?channelId=543
+河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
+经济生活,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
+农民频道,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
+河北都市,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
+河北影视剧,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
+少儿科教,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
+浙江卫视,webview://https://www.cztv.com/liveTV/101
+浙江钱江,webview://https://www.cztv.com/liveTV/102
+浙江经济生活,webview://https://www.cztv.com/liveTV/103
+浙江教科影视,webview://https://www.cztv.com/liveTV/104
+浙江民生休闲,webview://https://www.cztv.com/liveTV/106
+浙江新闻,webview://https://www.cztv.com/liveTV/107
+浙江少儿,webview://https://www.cztv.com/liveTV/108
+浙江国际,webview://https://www.cztv.com/liveTV/110
+浙江之江纪录,webview://https://www.cztv.com/liveTV/112
+杭州综合,webview://https://tv.hoolo.tv/hzzh/
+西湖明珠,webview://https://tv.hoolo.tv/xhmz/
+杭州生活,webview://https://tv.hoolo.tv/hzsh/
+杭州影视,webview://https://tv.hoolo.tv/utv/
+杭州青少体育,webview://https://tv.hoolo.tv/hzse/
+杭州文化,webview://https://tv.hoolo.tv/whpd/
+宁波新闻综合,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
+宁波经济生活,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
+宁波都市文体,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
+宁波影视剧,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
+绍兴新闻综合,webview://https://www.shaoxing.com.cn/app/tv/74
+绍兴新闻综合,webview://http://live.shaoxing.com.cn/webview/s10001-sxhb/index.m3u8
+绍兴公共,webview://https://www.shaoxing.com.cn/app/tv/78
+绍兴公共,webview://http://live.shaoxing.com.cn/webview/s10001-sxtv2/index.m3u8
+绍兴文化影视,webview://https://www.shaoxing.com.cn/app/tv/75
+绍兴文化影视,webview://http://live.shaoxing.com.cn/webview/s10001-sxtv3/index.m3u8
+安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
+安徽经济生活,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
+安徽综艺体育,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
+安徽影视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
+安徽公共,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
+安徽农业科教,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=5
+安徽国际,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
+安徽移动,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
+淮北新闻综合,webview://https://www.hbnews.net/tv/
+亳州综合,webview://https://www.ahbztv.com/televisi0n.html
+滁州新闻综合,webview://http://www.cztv.cc/Live/index?liveid=1
+滁州公共,webview://http://www.cztv.cc/Live/index?liveid=2
+滁州科教,webview://http://www.cztv.cc/Live/index?liveid=3
+芜湖新闻综合,webview://http://www.wuhubtv.com/folder1194/#
+贵州卫视,webview://https://www.gzstv.com/tv/ch01
+贵州公共,webview://https://www.gzstv.com/tv/ch02
+贵州影视文艺,webview://https://www.gzstv.com/tv/ch03
+贵州大众生活,webview://https://www.gzstv.com/tv/ch04
+贵州生态乡村,webview://https://www.gzstv.com/tv/ch05
+贵州科教健康,webview://https://www.gzstv.com/tv/ch06
+贵州移动,webview://https://www.gzstv.com/tv/ch13
+山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
+太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
+阳泉新闻综合,webview://https://www.yqrtv.com/folder74/folder139?id=10
+阳泉科教,webview://https://www.yqrtv.com/folder74/folder139?id=11
+吉林卫视,webview://https://www.jlntv.cn/tv?id=104
+哈尔滨新闻综合,webview://https://www.hrbtv.net/folder79/folder81/
+哈尔滨生活,webview://https://www.hrbtv.net/folder79/folder85/
+哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
+海南卫视,webview://http://tc.hnntv.cn/
+三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5
+海南新闻,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3
+海南公共,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4
+海南文旅,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6
+海南少儿,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
+海南自贸,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=1
+东南卫视,webview://https://live.fjtv.net/setv/
+海峡卫视,webview://https://www.fjtv.net/folder526/folder536/
+福建新闻,webview://https://live.fjtv.net/xwpd/
+福建旅游,webview://https://live.fjtv.net/dspd/
+福建公共,webview://https://live.fjtv.net/ggpd/
+福建经视,webview://https://live.fjtv.net/jspd/
+厦门新闻综合,webview://https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8
+厦门海峡,webview://https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8
+厦门海峡,webview://https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8
+
+
+香港,#genre#
+凤凰资讯,http://156.238.251.122/fh.php?id=fhzx
+凤凰中文,http://156.238.251.122/fh.php?id=fhzw
+凤凰香港,http://156.238.251.122/fh.php?id=fhhk
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+澳视澳门,http://r.jdshipin.com/n2YZI
+凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
+翡翠台,https://cdn6.163189.xyz/163189/fct4k
+
+🔥春晚,#genre#
+春晚1983，https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+春晚1984，https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985，https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+春晚1987,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+春晚1988,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+春晚1989,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1990,https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
+春晚1991,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+春晚1994,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+春晚1995,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+春晚1996,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+春晚2000,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+春晚2001,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+春晚2002,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+春晚2003,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+春晚2004,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+春晚2005,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+春晚2006,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+春晚2007,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+春晚2008,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+春晚2009,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+春晚2010,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+春晚2011,https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+春晚2012,https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
+春晚2013,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+春晚2014,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+春晚2015,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+春晚2016,https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
+春晚2017,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+春晚2018,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+春晚2019,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+春晚2020,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4 
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4 
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8 
+春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
+春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+
+音乐,#genre#
+周杰伦MV,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+抖音神曲1,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/2022%E6%8A%96%E9%9F%B3%E7%A5%9E%E6%9B%B245%E9%A6%96.mp4
+抖音神曲2,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/2022.06%E6%AD%8C%E6%9B%B2%E7%BB%BC%E5%90%88.mp4
+抖音综合,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/2021%E6%8A%96%E9%9F%B3%E7%BB%BC%E5%90%88.mp4
+程响歌曲1,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/%E7%A8%8B%E5%93%8D%E6%AD%8C%E6%9B%B2.mp4
+程响歌曲2,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/%E7%A8%8B%E5%93%8D%E6%AD%8C%E6%9B%B22.mp4
+韩曲综合,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/%E9%9F%A9%E6%9B%B2%E7%BB%BC%E5%90%88.mp4
+林忆莲30首经典金曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
+周杰伦精选120首(8小时),https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
+林俊杰精选81首(5小时),https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
+潘玮柏精选28首(1小时),https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
+SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3MzAxOTEyNDhfODI4NTk1NTQ0XzEwOTI2ODgxNTQyOF8yXzM=_b_B1770e5ac950c20cda3df1678ded64cbc.mp4
+徐良精选30首(1小时),https://alimov2.a.kwimgs.com/upic/2024/05/08/20/BMjAyNDA1MDgyMDAyMjFfMTg1NzcxNTYxOF8xMzE5MDIyNTY0NzNfMl8z_b_B62cb1e50d6a0dea4efc3e6da93662aa4.mp4
+许嵩精选30首(2小时),https://alimov2.a.kwimgs.com/upic/2020/09/14/21/BMjAyMDA5MTQyMTMzMDdfODI4NTk1NTQ0XzM2MDUzMTE1NjM5XzJfMw==_b_B789c6ea6a87d1b67019f19f16c9f71f7.mp4
+汪苏泷精选20首(1小时),https://txmov2.a.kwimgs.com/upic/2020/09/30/22/BMjAyMDA5MzAyMjA3NDNfODI4NTk1NTQ0XzM2ODY2MzQxNzg4XzJfMw==_b_Bb726df27e24fda5e4d31b724d84ab8d4.mp4
+陶喆精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzEzMzhfODM0NDUzMTQ2XzEwOTgxMDA2NzAyNF8wXzM=_b_B5e5a6bf1ef67081a9a226a2f6145ea2d.mp4
+陈奕迅精选34首(2小时),https://txmov2.a.kwimgs.com/upic/2022/12/22/17/BMjAyMjEyMjIxNzM3NDNfMTg1NzcxNTYxOF85MTcyMjE1NDQzNV8yXzM=_b_B16479ab3769c6fcfed15a06b75c2656e.mp4
+邓紫棋精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2023/05/08/12/BMjAyMzA1MDgxMjIwNTNfMzQ4MzI0MjA1OF8xMDI1NjYyMjM5MDZfMF8z_b_B0675fa55fe8ce0583fb05fa02330e9f1.mp4
+薛之谦精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/28/13/BMjAyMzA3MjgxMzUwMzRfODM0NDUzMTQ2XzEwOTA3NjA4NDU2Nl8wXzM=_b_B480250201ec7378867d92e4d29f7a644.mp4
+五月天精选37首(2小时),https://txmov2.a.kwimgs.com/upic/2021/12/07/23/BMjAyMTEyMDcyMzU2MzBfMjgwMTM4ODFfNjIzMTcwNTU3MTlfMl8z_b_Bd70a16353267a52b31d11f2cb77c6c5b.mp4
+蔡依林精选102首(6小时),https://txmov2.a.kwimgs.com/upic/2025/06/12/20/BMjAyNTA2MTIyMDUzMjFfNDQzMTI2Mjg0XzE2NjY1MzM5MjYxMV8yXzM=_b_B3bed4c7c1a80388966791d398e318edd.mp4
+任然精选20首(1小时),https://txmov2.a.kwimgs.com/upic/2020/09/23/14/BMjAyMDA5MjMxNDA1MjFfMTc4NDYxNDcyNl8zNjQ5NDI4NzI1Nl8yXzM=_b_B0f6d5151ab2c346816996328a0b66b78.mp4
+张韶涵精选96首(6小时),https://txmov2.a.kwimgs.com/upic/2023/04/24/02/BMjAyMzA0MjQwMjA4MDlfMjE0OTExOTI2N18xMDEzNTM2NjA5OTFfMF8z_b_Baa658d527c452cd09e6dc0e9684c1bed.mp4
+王心凌精选69首(4小时),https://txmov2.a.kwimgs.com/upic/2023/07/26/22/BMjAyMzA3MjYyMjExNTNfMzYxMjUyNDA3MV8xMDg5NTQ4NjE1ODlfMF8z_b_Bdded2693ce6f7de089cfd7030b45bef7.mp4
+莫文蔚精选72首(5小时),https://txmov2.a.kwimgs.com/upic/2023/07/27/21/BMjAyMzA3MjcyMTQ2MjdfMzYxMjUyNDA3MV8xMDkwMzM1MjA2NTJfMF8z_b_B144de29e473911c6e9187c9d591b8943.mp4
+陈慧琳精选30首(1小时),https://txmov2.a.kwimgs.com/upic/2025/02/09/20/BMjAyNTAyMDkyMDIzNTVfMTg1NzcxNTYxOF8xNTY0NDk2NjMzNTZfMl8z_b_Bd072695cb8d3a79a9d1ac8cdb5b3b3bc.mp4
+蔡健雅精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2023/08/18/21/BMjAyMzA4MTgyMTA4MzZfODM0NDUzMTQ2XzExMDgyNTA1MjcwM18wXzM=_b_B0d509c2419313652932c68153a65e4ed.mp4
+王杰精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2020/09/06/17/BMjAyMDA5MDYxNzU1MjJfMTc4NDYxNDcyNl8zNTYyMjQ2ODIxNl8yXzM=_b_Bc35f6a28c8cf25ea947bc122c176b034.mp4
+乔洋精选20首(1小时),https://txmov2.a.kwimgs.com/upic/2024/01/05/17/BMjAyNDAxMDUxNzEwMTJfNDQzMTI2Mjg0XzEyMTM5OTg3NTU2MV8yXzM=_b_Bf81e0b3d32a3fe727949531d0929868e.mp4
+庄心妍精选44首(2小时),https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
+梁静茹精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzA3MTVfODM0NDUzMTQ2XzEwOTgwOTYwMjQ1OV8wXzM=_b_Bd9c215cb7ac961de3d5db54cb7bffed6.mp4
+王力宏精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2020/09/30/21/BMjAyMDA5MzAyMTU2NTNfODI4NTk1NTQ0XzM2ODY1NDA2MDM3XzJfMw==_b_Bf61393cb3ef5f8ab4b687ae367ed1211.mp4
+孙燕姿精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
+周深精选72首(5小时),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
+飞轮海精选30首(2小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cra24sfog65t497nn1o0&ratio=720p&line=0
+颜人中精选36首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0
+张惠妹精选10首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstjqpn0&ratio=720p&line=0
+刘若英精选50首(3小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csi2q17og65ogriq3jv0&ratio=720p&line=0
+Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cvt3q87og65l7fblbmog&ratio=720p&line=0
+杨丞琳精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0XzM2MzcyMzIwMzYzXzJfMw==_b_B8aa481540d89fe5ec2b3507f8209c663.mp4?tag=1-1750931214-std-1-wz3snqjkat-8298da1fe959ffc7&clientCacheKey=3x8t5k75nb5mzyc_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
+南拳妈妈精选13首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cqfnlknog65p5u0cnn9g&ratio=720p&line=0
+王心凌经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946351305777158_hlsb.m3u8
+林俊杰经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5231212549905475206_hlsb.m3u8
+陶喆经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239938277375381611_hlsb.m3u8
+许嵩经典合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
+音乐_AT_KroneHit,http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
+音乐_捷克_Ocko,https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+音乐_捷克_Ocko Star,https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+音乐_捷克_Ocko Expres,https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+Muzzik Jeka Serbia.rs,https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+Muzzik ZZ Serbia.rs,https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+Muzzik TikTak Serbia.rs,https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+Muzzik MOBA Serbia.rs,https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+Muzzik RockRoll Serbia,https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+Muzzik TV Serbia.rs,https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+Muzzik Worldwide Serbia.rs,https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+Muzzik PopStar Serbia.rs,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+Muzzik Sense Serbia.rs,https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+Muzzik Mts Serbia.rs,https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
+Muzzik Flashback Serbia.rs,https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+Radio S TV,https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
+静心系列《水晶冰川湾》,https://vd3.bdstatic.com/mda-rmc4iydm1hcz0pae/360p/h264/1765596390753990565/mda-rmc4iydm1hcz0pae.mp4
+静心系列《热带泻湖大桥上-I》,https://vd3.bdstatic.com/mda-rmd27rnn3sp593bm/360p/h264/1765676274352870381/mda-rmd27rnn3sp593bm.mp4
+静心系列《热带泻湖大桥上-II》,https://vd3.bdstatic.com/mda-rmd2xi05rbcxzkdc/360p/h264/1765678346984587087/mda-rmd2xi05rbcxzkdc.mp4
+静心系列《舒适的冬季氛围》,https://vd3.bdstatic.com/mda-rmc4iygt5f2x1ymm/360p/h264/1765596390826681602/mda-rmc4iygt5f2x1ymm.mp4
+静心系列《宁静的冬季旋律》,https://vd3.bdstatic.com/mda-rmc4iy91yc1patnp/360p/h264/1765596385896725263/mda-rmc4iy91yc1patnp.mp4
+静心系列《河畔的大提琴和钢琴》,https://vd3.bdstatic.com/mda-rmc4iydw2bzdy3xj/360p/h264/1765596380252732035/mda-rmc4iydw2bzdy3xj.mp4
+静心系列《拥抱冬天》,https://vd3.bdstatic.com/mda-rmc4iy8bq5jgi38u/360p/h264/1765596374077809105/mda-rmc4iy8bq5jgi38u.mp4
+
+

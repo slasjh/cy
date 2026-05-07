@@ -1,0 +1,110 @@
+[
+
+              {
+      "name": "live",
+      "url": "http://545211.xyz:888/live/dalao/live.txt"
+    },
+    
+
+
+            {
+      "name": "tv",
+      "url": "http://545211.xyz:7000/txt"
+    },
+    
+    
+    
+                
+    {
+        "name": "Guovin IPV4",
+        "url": "http://156.238.251.122:888/live/dalao/result-Guovin.m3u",
+        "group": 1
+    },
+       
+   
+
+                            {
+        "name": "my migu",
+        "url": "http://545211.xyz:888/live/dalao/interface.txt",
+        "group":1
+    
+    },
+
+
+              
+        {
+        "name": "凤凰",
+        "url": "http://156.238.251.122:888/live/fh.txt",
+        "group": 1
+    },
+        
+         {
+        "name": "webvideo",
+        "url": "http://156.238.251.122:888/live/webvideo.txt",
+        "group": 1
+    },
+        
+                {
+        "name": "yulu",
+        "url": "https://d.kstore.dev/download/5227/yuluzb1.txt"
+    
+    },
+        
+    {
+      "name": "Kimentanm",
+      "type": 0,
+       "url": "http://545211.xyz:888/live/dalao/iptv-Kimentanm.m3u",
+      "playerType": 2,
+      "ua": "AptvPlayer-UA",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+   },
+   
+
+    {
+        "name": "all migu",
+        "url": "http://545211.xyz:888/live/migu.txt",
+        "group": 1
+    },
+
+           
+
+
+                            {
+        "name": "娱乐",
+        "url": "http://545211.xyz:888/live/live.txt"
+    
+    },
+               
+     {
+      "name": "🍵冰茶直播",
+      "type": 0,
+      "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+   },
+   
+        
+
+        {
+        "name": "飛扬直播.",
+        "url": "https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt"
+    },
+        {
+        "name": "喜欢",
+        "url": "http://156.238.251.122:8089/system/get-favourite-channel?channel_type=like"
+    },
+     
+          
+           
+
+                
+            {
+        "name": "googdian",
+        "url": "https://gongdian.top/tv/develop202"
+    }
+    
+   
+]

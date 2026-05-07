@@ -1,0 +1,271 @@
+央视频道,#genre#
+CCTV-1,webview://https://tv.cctv.com/live/cctv1/
+
+CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
+
+CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
+
+CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
+
+CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
+
+CCTV-4 中文国际,webview://https://tv.cctv.com/live/cctv4/
+
+CCTV-4 中文国际,webview://https://yangshipin.cn/tv/home?pid=600001814
+
+CCTV-5 体育,webview://https://tv.cctv.com/live/cctv5/
+CCTV-5 体育,webview://https://yangshipin.cn/tv/home?pid=600001818
+
+CCTV-5+ 体育赛事,webview://https://tv.cctv.com/live/cctv5plus/
+CCTV-5+ 体育赛事,webview://https://yangshipin.cn/tv/home?pid=600001817
+
+CCTV-6 电影,webview://https://tv.cctv.com/live/cctv6/
+CCTV-6 电影,webview://https://yangshipin.cn/tv/home?pid=600108442
+
+CCTV-7 国防军事,webview://https://tv.cctv.com/live/cctv7/
+CCTV-7 国防军事,webview://https://yangshipin.cn/tv/home?pid=600004092
+
+CCTV-8 电视剧,webview://https://tv.cctv.com/live/cctv8/
+CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803
+
+CCTV-9 纪录,webview://https://tv.cctv.com/live/cctvjilu/
+CCTV-9 纪录,webview://https://yangshipin.cn/tv/home?pid=600004078
+
+CCTV-10 科教,webview://https://tv.cctv.com/live/cctv10/
+CCTV-10 科教,webview://https://yangshipin.cn/tv/home?pid=600001805
+
+CCTV-11 戏曲,webview://https://tv.cctv.com/live/cctv11/
+CCTV-11 戏曲,webview://https://yangshipin.cn/tv/home?pid=600001806
+
+CCTV-12 社会与法,webview://https://tv.cctv.com/live/cctv12/
+CCTV-12 社会与法,webview://https://yangshipin.cn/tv/home?pid=600001807
+
+CCTV-13 新闻,webview://https://tv.cctv.com/live/cctv13/
+CCTV-13 新闻,webview://https://yangshipin.cn/tv/home?pid=600001811
+
+CCTV-14 少儿,webview://https://tv.cctv.com/live/cctvchild/
+CCTV-14 少儿,webview://https://yangshipin.cn/tv/home?pid=600001809
+
+CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/
+CCTV-15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815
+
+CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
+CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
+
+CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
+CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
+
+CCTV-4 中文国际 (欧),webview://https://tv.cctv.com/live/cctveurope/index.shtml
+
+CCTV-4 中文国际 (美),webview://https://tv.cctv.com/live/cctvamerica/
+
+CGTN英语,webview://https://yangshipin.cn/tv/home?pid=600014550
+
+CGTN记录,webview://https://yangshipin.cn/tv/home?pid=600084781
+
+CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
+
+CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
+
+CGTN西语,webview://https://yangshipin.cn/tv/home?pid=600084744
+
+CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
+
+CCTV 风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
+
+CCTV 第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
+
+CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+#hndy
+CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV5,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
+CCTV6,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
+CCTV7,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
+CCTV9,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
+CCTV10,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
+CCTV11,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
+CCTV12,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
+CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
+CECTV-1 汉语文化,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-1 汉语文化,webview://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-2 国际旅游,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-2 国际旅游,webview://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-3 国际教育,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-3 国际教育,webview://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-4 国际健康,webview://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CECTV-4 国际健康,webview://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+
+卫视频道,#genre#
+
+北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
+
+江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
+
+东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
+
+浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
+
+湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
+
+湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
+
+广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
+
+广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
+
+黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
+
+海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
+
+重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
+
+深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
+
+四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
+
+河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
+
+福建东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
+
+贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490
+
+江西卫视,webview://https://yangshipin.cn/tv/home?pid=600002503
+
+辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505
+
+安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532
+
+河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493
+
+山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
+
+天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137
+
+吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405
+
+陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400
+
+甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408
+
+宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737
+
+内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
+
+云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402
+
+山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
+
+青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
+
+西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
+
+#hndyjyfw
+北京卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
+浙江卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
+河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
+河南都市,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=13
+河南民生,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=15
+河南梨园,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
+康巴卫视,webview://https://www.kangbatv.com/zb_22587/
+海峡卫视,webview://https://www.fjtv.net/folder526/folder536/
+山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
+内蒙古卫视,webview://https://www.nmtv.cn/liveTv
+陕西卫视,webview://http://www.sxtvs.com/sxtvs_sxws/index.html
+新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
+佛山顺德,webview://http://xiubo.net/tv/gd/fssd.html
+佛山公共,webview://http://xiubo.net/tv/gd/fsgg.html
+佛山影视,webview://http://xiubo.net/tv/gd/fsys.html
+佛山高明,webview://http://xiubo.net/tv/gd/fsgm.html
+佛山三水,webview://http://xiubo.net/tv/gd/fsss.html
+佛山综合,webview://http://xiubo.net/tv/gd/fszh.html
+佛山南海,webview://http://xiubo.net/tv/gd/fsnh.html
+成都新闻,webview://https://www.cditv.cn/show/4845-563.html
+江苏卫视,webview://https://live.jstv.com/?channelId=534
+江苏城市,webview://https://live.jstv.com/?channelId=535
+江苏综艺,webview://https://live.jstv.com/?channelId=556
+江苏影视,webview://https://live.jstv.com/?channelId=542
+江苏新闻,webview://https://live.jstv.com/?channelId=536
+江苏教育,webview://https://live.jstv.com/?channelId=545
+江苏体育,webview://https://live.jstv.com/?channelId=537
+江苏国际,webview://https://live.jstv.com/?channelId=544
+优漫卡通,webview://https://live.jstv.com/?channelId=543
+河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
+经济生活,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
+农民频道,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
+河北都市,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
+河北影视剧,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
+少儿科教,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
+浙江卫视,webview://https://www.cztv.com/liveTV/101
+浙江钱江,webview://https://www.cztv.com/liveTV/102
+浙江经济生活,webview://https://www.cztv.com/liveTV/103
+浙江教科影视,webview://https://www.cztv.com/liveTV/104
+浙江民生休闲,webview://https://www.cztv.com/liveTV/106
+浙江新闻,webview://https://www.cztv.com/liveTV/107
+浙江少儿,webview://https://www.cztv.com/liveTV/108
+浙江国际,webview://https://www.cztv.com/liveTV/110
+浙江之江纪录,webview://https://www.cztv.com/liveTV/112
+杭州综合,webview://https://tv.hoolo.tv/hzzh/
+西湖明珠,webview://https://tv.hoolo.tv/xhmz/
+杭州生活,webview://https://tv.hoolo.tv/hzsh/
+杭州影视,webview://https://tv.hoolo.tv/utv/
+杭州青少体育,webview://https://tv.hoolo.tv/hzse/
+杭州文化,webview://https://tv.hoolo.tv/whpd/
+宁波新闻综合,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
+宁波经济生活,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
+宁波都市文体,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
+宁波影视剧,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
+绍兴新闻综合,webview://https://www.shaoxing.com.cn/app/tv/74
+绍兴新闻综合,webview://http://live.shaoxing.com.cn/webview/s10001-sxhb/index.m3u8
+绍兴公共,webview://https://www.shaoxing.com.cn/app/tv/78
+绍兴公共,webview://http://live.shaoxing.com.cn/webview/s10001-sxtv2/index.m3u8
+绍兴文化影视,webview://https://www.shaoxing.com.cn/app/tv/75
+绍兴文化影视,webview://http://live.shaoxing.com.cn/webview/s10001-sxtv3/index.m3u8
+安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
+安徽经济生活,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
+安徽综艺体育,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
+安徽影视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
+安徽公共,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
+安徽农业科教,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=5
+安徽国际,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
+安徽移动,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
+淮北新闻综合,webview://https://www.hbnews.net/tv/
+亳州综合,webview://https://www.ahbztv.com/televisi0n.html
+滁州新闻综合,webview://http://www.cztv.cc/Live/index?liveid=1
+滁州公共,webview://http://www.cztv.cc/Live/index?liveid=2
+滁州科教,webview://http://www.cztv.cc/Live/index?liveid=3
+芜湖新闻综合,webview://http://www.wuhubtv.com/folder1194/#
+贵州卫视,webview://https://www.gzstv.com/tv/ch01
+贵州公共,webview://https://www.gzstv.com/tv/ch02
+贵州影视文艺,webview://https://www.gzstv.com/tv/ch03
+贵州大众生活,webview://https://www.gzstv.com/tv/ch04
+贵州生态乡村,webview://https://www.gzstv.com/tv/ch05
+贵州科教健康,webview://https://www.gzstv.com/tv/ch06
+贵州移动,webview://https://www.gzstv.com/tv/ch13
+山西卫视,webview://https://www.sxrtv.com/tv/index.shtml
+太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
+阳泉新闻综合,webview://https://www.yqrtv.com/folder74/folder139?id=10
+阳泉科教,webview://https://www.yqrtv.com/folder74/folder139?id=11
+吉林卫视,webview://https://www.jlntv.cn/tv?id=104
+哈尔滨新闻综合,webview://https://www.hrbtv.net/folder79/folder81/
+哈尔滨生活,webview://https://www.hrbtv.net/folder79/folder85/
+哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
+海南卫视,webview://http://tc.hnntv.cn/
+三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5
+海南新闻,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3
+海南公共,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4
+海南文旅,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6
+海南少儿,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
+海南自贸,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=1
+东南卫视,webview://https://live.fjtv.net/setv/
+海峡卫视,webview://https://www.fjtv.net/folder526/folder536/
+福建新闻,webview://https://live.fjtv.net/xwpd/
+福建旅游,webview://https://live.fjtv.net/dspd/
+福建公共,webview://https://live.fjtv.net/ggpd/
+福建经视,webview://https://live.fjtv.net/jspd/
+厦门新闻综合,webview://https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8
+厦门海峡,webview://https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8
+厦门海峡,webview://https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8
+
+
+其他频道,#genre#

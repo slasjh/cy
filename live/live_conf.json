@@ -1,0 +1,234 @@
+{
+  "version": "V1.0",
+  "syncAt": 1735473496607,
+  "syncFrom": "您的设备",
+  "description": null,
+  "configs": {
+    "appBootLaunch": true,
+    "appPipEnable": false,
+    "appLastLatestVersion": "",
+    "appAgreementAgreed": true,
+    "appStartupScreen": "Live",
+    "debugDeveloperMode": false,
+    "debugShowFps": false,
+    "debugShowVideoPlayerMetadata": false,
+    "debugShowLayoutGrids": false,
+    "iptvSourceCacheTime": 0,
+    "iptvSourceCurrent": {
+     "name": "默认直播源 小土豆",
+          "url": "http://156.238.251.122:888/live/live_Lite.txt",
+          "isLocal": false,
+          "transformJs": null 
+    },
+    "iptvSourceList": {
+      "value": [
+          {
+          "name": "默认直播源 小土豆",
+          "url": "http://156.238.251.122:888/live/live_Lite.txt",
+          "isLocal": false,
+          "transformJs": null
+        },
+                         {
+          "name": "tv",
+          "url": "https://slink.ltd/https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/live.txt",
+          "isLocal": false,
+          "transformJs": null
+        },
+                          {
+          "name": "iptv",
+          "url": "http://156.238.251.122:7000",
+          "isLocal": false,
+          "transformJs": null
+        },
+                                        {
+          "name": "webview-all",
+          "url": "http://156.238.251.122:888/live/webview-all.txt",
+          "isLocal": false,
+          "transformJs": null
+        },
+        
+                                  {
+          "name": "webview",
+          "url": "http://156.238.251.122:888/live/webview.txt",
+          "isLocal": false,
+          "transformJs": null
+        },
+        
+                {
+          "name": "Guovin",
+          "url": "http://156.238.251.122:888/live/dalao/result-Guovin.m3u",
+          "isLocal": false,
+          "transformJs": null
+        },
+         {
+          "name": "Kimentanm",
+          "url": "http://156.238.251.122:888/live/dalao/iptv-Kimentanm.m3u",
+          "isLocal": false,
+          "transformJs": null
+        },
+         {
+          "name": "xmbjm",
+          "url": "https://slink.ltd/https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt",
+          "isLocal": false,
+          "transformJs": null
+        }, 
+         {
+          "name": "fanmingming",
+          "url": "http://156.238.251.122:888/live/dalao/ipv6-fanmingming.m3u",
+          "isLocal": false,
+          "transformJs": null
+        },
+
+        
+         {
+          "name": "zwc456baby",
+          "url": "http://156.238.251.122:888/live/dalao/live-zwc456baby.m3u",
+          "isLocal": false,
+          "transformJs": null
+        },
+            
+        {
+          "name": "肥羊电视直播",
+          "url": "http://127.0.0.1:35455/tv.m3u?url=http://127.0.0.1:35455",
+          "isLocal": false,
+          "transformJs": "function transformGroupNames(channelList, mapping) {\n    return channelList.map(function (channel) {\n        var newGroupName = mapping[channel.groupName] || channel.groupName;\n        return Object.assign({}, channel, { groupName: newGroupName });\n    });\n}\n\nfunction sortChannelsByGroupName(channelList, sort) {\n    return channelList.map(function (channel, index) {\n            return { channel: channel, originalIndex: index };\n        }).sort(function (a, b) {\n            var indexA = sort.indexOf(a.channel.groupName);\n            var indexB = sort.indexOf(b.channel.groupName);\n            indexA = indexA === -1? sort.length : indexA;\n            indexB = indexB === -1? sort.length : indexB;\n            return indexA - indexB || a.originalIndex - b.originalIndex;\n        }).map(function (item) {\n            return item.channel;\n        });\n}\n\nfunction transformChannelList(channelList, func) {\n    return channelList.map(function (channel) {\n        var transformedChannel = func(channel);\n        return Object.assign({}, channel, transformedChannel);\n    });\n}\n\nfunction filterOutChannels(channelList, filterOutChannelNameList) {\n    return channelList.filter(function (channel) {\n        return filterOutChannelNameList.indexOf(channel.name) === -1;\n    });\n}\n\nfunction main(channelList) {\n    var groupNameMapping = {\n        '北京': '卫视',\n        '安徽': '卫视',\n        '甘肃': '卫视',\n        '广东': '卫视',\n        '贵州': '卫视',\n        '海南': '卫视',\n        '河北': '卫视',\n        '河南': '卫视',\n        '黑龙江': '卫视',\n        '湖北': '卫视',\n        '湖南': '卫视',\n        '吉林': '卫视',\n        '江苏': '卫视',\n        '江西': '卫视',\n        '辽宁': '卫视',\n        '青海': '卫视',\n        '山东': '卫视',\n        '上海': '卫视',\n        '四川': '卫视',\n        '云南': '卫视',\n        '浙江': '卫视',\n        '重庆': '卫视',\n        '香港': '卫视',\n        '4K频道': '央视',\n        '8K频道': '央视'\n    };\n    var groupNameSort = ['央视', '卫视', '4K 8K', 'NEWTV', 'IHOT', '咪咕体育', '其他'];\n    var filterOutChannelNameList = [\"4K60PSDR-H264-AAC测试\", \"4K60PHLG-HEVC-EAC3测试\", \"北京纪实科教8K\", \"重温经典\", \"Love Nature 4K\", \"Loupe 4K\", \"Fashion 4K\"];\n    var unwantedGroupNames = [\"列表更新时间\"];\n\n    function transformChannel(channel) {}\n\n    channelList = channelList.filter(function (channel) {\n        // 增加过滤逻辑，如果播放链接中有/itv/就过滤掉该频道\n        return unwantedGroupNames.indexOf(channel.groupName) === -1 && (!channel.url || channel.url.indexOf('/itv/') === -1);\n    });\n\n    return sortChannelsByGroupName(transformGroupNames(transformChannelList(filterOutChannels(channelList, filterOutChannelNameList), transformChannel), groupNameMapping), groupNameSort);\n}"
+        },
+        {
+          "name": "肥羊抖音直播",
+          "url": "/data/user/0/top.yogiczy.slcs.tv/files/iptv_source_local_1735471699352.txt",
+          "isLocal": true,
+          "transformJs": null
+        },
+        {
+          "name": "肥羊哔哩哔哩生活直播",
+          "url": "http://127.0.0.1:35455/bililive.m3u?url=http://127.0.0.1:35455",
+          "isLocal": false,
+          "transformJs": "\nfunction transformGroupNames(channelList, mapping) {\n    return channelList.map(function (channel) {\n        var newGroupName = mapping[channel.groupName] || channel.groupName;\n        return Object.assign({}, channel, { groupName: newGroupName });\n    });\n}\nfunction sortChannelsByGroupName(channelList, sort) {\n    return channelList.map(function (channel, index) {\n            return { channel: channel, originalIndex: index };\n        }).sort(function (a, b) {\n            var indexA = sort.indexOf(a.channel.groupName);\n            var indexB = sort.indexOf(b.channel.groupName);\n            indexA = indexA === -1? sort.length : indexA;\n            indexB = indexB === -1? sort.length : indexB;\n            return indexA - indexB || a.originalIndex - b.originalIndex;\n        }).map(function (item) {\n            return item.channel;\n        });\n}\nfunction transformChannelList(channelList, func) {\n    return channelList.map(function (channel) {\n        var transformedChannel = func(channel);\n        return Object.assign({}, channel, transformedChannel);\n    });\n}\nfunction filterOutChannels(channelList, filterOutChannelNameList) {\n    return channelList.filter(function (channel) {\n        return filterOutChannelNameList.indexOf(channel.name) === -1;\n    });\n}\nfunction main(channelList) {\n    var groupNameMapping = {\n        '北京': '卫视',\n        '安徽': '卫视',\n        '甘肃': '卫视',\n        '广东': '卫视',\n        '贵州': '卫视',\n        '海南': '卫视',\n        '河北': '卫视',\n        '河南': '卫视',\n        '黑龙江': '卫视',\n        '湖北': '卫视',\n        '湖南': '卫视',\n        '吉林': '卫视',\n        '江苏': '卫视',\n        '江西': '卫视',\n        '辽宁': '卫视',\n        '青海': '卫视',\n        '山东': '卫视',\n        '上海': '卫视',\n        '四川': '卫视',\n        '云南': '卫视',\n        '浙江': '卫视',\n        '重庆': '卫视',\n        '香港': '卫视',\n        '4K频道': '4K 8K',\n        '8K频道': '4K 8K'\n    };\n    var groupNameSort = ['央视', '卫视', '4K 8K', 'NEWTV', 'IHOT', '咪咕体育', '其他'];\n    var filterOutChannelNameList = [\"4K60PSDR-H264-AAC测试\", \"4K60PHLG-HEVC-EAC3测试\", \"北京纪实科教8K\", \"重温经典\"];\n    var unwantedGroupNames = [\"列表更新时间\"];\n    function transformChannel(channel) {}\n    channelList = channelList.filter(function (channel) {\n        return unwantedGroupNames.indexOf(channel.groupName) === -1;\n    });\n    return sortChannelsByGroupName(transformGroupNames(transformChannelList(filterOutChannels(channelList, filterOutChannelNameList), transformChannel), groupNameMapping), groupNameSort);\n}\n"
+        },
+        {
+          "name": "肥羊斗鱼一起看直播",
+          "url": "http://127.0.0.1:35455/douyuyqk.m3u?url=http://127.0.0.1:35455",
+          "isLocal": false,
+          "transformJs": "\nfunction transformGroupNames(channelList, mapping) {\n    return channelList.map(function (channel) {\n        var newGroupName = mapping[channel.groupName] || channel.groupName;\n        return Object.assign({}, channel, { groupName: newGroupName });\n    });\n}\nfunction sortChannelsByGroupName(channelList, sort) {\n    return channelList.map(function (channel, index) {\n            return { channel: channel, originalIndex: index };\n        }).sort(function (a, b) {\n            var indexA = sort.indexOf(a.channel.groupName);\n            var indexB = sort.indexOf(b.channel.groupName);\n            indexA = indexA === -1? sort.length : indexA;\n            indexB = indexB === -1? sort.length : indexB;\n            return indexA - indexB || a.originalIndex - b.originalIndex;\n        }).map(function (item) {\n            return item.channel;\n        });\n}\nfunction transformChannelList(channelList, func) {\n    return channelList.map(function (channel) {\n        var transformedChannel = func(channel);\n        return Object.assign({}, channel, transformedChannel);\n    });\n}\nfunction filterOutChannels(channelList, filterOutChannelNameList) {\n    return channelList.filter(function (channel) {\n        return filterOutChannelNameList.indexOf(channel.name) === -1;\n    });\n}\nfunction main(channelList) {\n    var groupNameMapping = {\n        '北京': '卫视',\n        '安徽': '卫视',\n        '甘肃': '卫视',\n        '广东': '卫视',\n        '贵州': '卫视',\n        '海南': '卫视',\n        '河北': '卫视',\n        '河南': '卫视',\n        '黑龙江': '卫视',\n        '湖北': '卫视',\n        '湖南': '卫视',\n        '吉林': '卫视',\n        '江苏': '卫视',\n        '江西': '卫视',\n        '辽宁': '卫视',\n        '青海': '卫视',\n        '山东': '卫视',\n        '上海': '卫视',\n        '四川': '卫视',\n        '云南': '卫视',\n        '浙江': '卫视',\n        '重庆': '卫视',\n        '香港': '卫视',\n        '4K频道': '4K 8K',\n        '8K频道': '4K 8K'\n    };\n    var groupNameSort = ['央视', '卫视', '4K 8K', 'NEWTV', 'IHOT', '咪咕体育', '其他'];\n    var filterOutChannelNameList = [\"4K60PSDR-H264-AAC测试\", \"4K60PHLG-HEVC-EAC3测试\", \"北京纪实科教8K\", \"重温经典\"];\n    var unwantedGroupNames = [\"列表更新时间\"];\n    function transformChannel(channel) {}\n    channelList = channelList.filter(function (channel) {\n        return unwantedGroupNames.indexOf(channel.groupName) === -1;\n    });\n    return sortChannelsByGroupName(transformGroupNames(transformChannelList(filterOutChannels(channelList, filterOutChannelNameList), transformChannel), groupNameMapping), groupNameSort);\n}\n"
+        },
+        {
+          "name": "肥羊虎牙一起看直播",
+          "url": "http://127.0.0.1:35455/huyayqk.m3u?url=http://127.0.0.1:35455",
+          "isLocal": false,
+          "transformJs": "\nfunction transformGroupNames(channelList, mapping) {\n    return channelList.map(function (channel) {\n        var newGroupName = mapping[channel.groupName] || channel.groupName;\n        return Object.assign({}, channel, { groupName: newGroupName });\n    });\n}\nfunction sortChannelsByGroupName(channelList, sort) {\n    return channelList.map(function (channel, index) {\n            return { channel: channel, originalIndex: index };\n        }).sort(function (a, b) {\n            var indexA = sort.indexOf(a.channel.groupName);\n            var indexB = sort.indexOf(b.channel.groupName);\n            indexA = indexA === -1? sort.length : indexA;\n            indexB = indexB === -1? sort.length : indexB;\n            return indexA - indexB || a.originalIndex - b.originalIndex;\n        }).map(function (item) {\n            return item.channel;\n        });\n}\nfunction transformChannelList(channelList, func) {\n    return channelList.map(function (channel) {\n        var transformedChannel = func(channel);\n        return Object.assign({}, channel, transformedChannel);\n    });\n}\nfunction filterOutChannels(channelList, filterOutChannelNameList) {\n    return channelList.filter(function (channel) {\n        return filterOutChannelNameList.indexOf(channel.name) === -1;\n    });\n}\nfunction main(channelList) {\n    var groupNameMapping = {\n        '北京': '卫视',\n        '安徽': '卫视',\n        '甘肃': '卫视',\n        '广东': '卫视',\n        '贵州': '卫视',\n        '海南': '卫视',\n        '河北': '卫视',\n        '河南': '卫视',\n        '黑龙江': '卫视',\n        '湖北': '卫视',\n        '湖南': '卫视',\n        '吉林': '卫视',\n        '江苏': '卫视',\n        '江西': '卫视',\n        '辽宁': '卫视',\n        '青海': '卫视',\n        '山东': '卫视',\n        '上海': '卫视',\n        '四川': '卫视',\n        '云南': '卫视',\n        '浙江': '卫视',\n        '重庆': '卫视',\n        '香港': '卫视',\n        '4K频道': '4K 8K',\n        '8K频道': '4K 8K'\n    };\n    var groupNameSort = ['央视', '卫视', '4K 8K', 'NEWTV', 'IHOT', '咪咕体育', '其他'];\n    var filterOutChannelNameList = [\"4K60PSDR-H264-AAC测试\", \"4K60PHLG-HEVC-EAC3测试\", \"北京纪实科教8K\", \"重温经典\"];\n    var unwantedGroupNames = [\"列表更新时间\"];\n    function transformChannel(channel) {}\n    channelList = channelList.filter(function (channel) {\n        return unwantedGroupNames.indexOf(channel.groupName) === -1;\n    });\n    return sortChannelsByGroupName(transformGroupNames(transformChannelList(filterOutChannels(channelList, filterOutChannelNameList), transformChannel), groupNameMapping), groupNameSort);\n}\n"
+        },
+        {
+          "name": "肥羊YY轮播直播",
+          "url": "http://127.0.0.1:35455/yylunbo.m3u?url=http://127.0.0.1:35455",
+          "isLocal": false,
+          "transformJs": "\nfunction transformGroupNames(channelList, mapping) {\n    return channelList.map(function (channel) {\n        var newGroupName = mapping[channel.groupName] || channel.groupName;\n        return Object.assign({}, channel, { groupName: newGroupName });\n    });\n}\nfunction sortChannelsByGroupName(channelList, sort) {\n    return channelList.map(function (channel, index) {\n            return { channel: channel, originalIndex: index };\n        }).sort(function (a, b) {\n            var indexA = sort.indexOf(a.channel.groupName);\n            var indexB = sort.indexOf(b.channel.groupName);\n            indexA = indexA === -1? sort.length : indexA;\n            indexB = indexB === -1? sort.length : indexB;\n            return indexA - indexB || a.originalIndex - b.originalIndex;\n        }).map(function (item) {\n            return item.channel;\n        });\n}\nfunction transformChannelList(channelList, func) {\n    return channelList.map(function (channel) {\n        var transformedChannel = func(channel);\n        return Object.assign({}, channel, transformedChannel);\n    });\n}\nfunction filterOutChannels(channelList, filterOutChannelNameList) {\n    return channelList.filter(function (channel) {\n        return filterOutChannelNameList.indexOf(channel.name) === -1;\n    });\n}\nfunction main(channelList) {\n    var groupNameMapping = {\n        '北京': '卫视',\n        '安徽': '卫视',\n        '甘肃': '卫视',\n        '广东': '卫视',\n        '贵州': '卫视',\n        '海南': '卫视',\n        '河北': '卫视',\n        '河南': '卫视',\n        '黑龙江': '卫视',\n        '湖北': '卫视',\n        '湖南': '卫视',\n        '吉林': '卫视',\n        '江苏': '卫视',\n        '江西': '卫视',\n        '辽宁': '卫视',\n        '青海': '卫视',\n        '山东': '卫视',\n        '上海': '卫视',\n        '四川': '卫视',\n        '云南': '卫视',\n        '浙江': '卫视',\n        '重庆': '卫视',\n        '香港': '卫视',\n        '4K频道': '4K 8K',\n        '8K频道': '4K 8K'\n    };\n    var groupNameSort = ['央视', '卫视', '4K 8K', 'NEWTV', 'IHOT', '咪咕体育', '其他'];\n    var filterOutChannelNameList = [\"4K60PSDR-H264-AAC测试\", \"4K60PHLG-HEVC-EAC3测试\", \"北京纪实科教8K\", \"重温经典\"];\n    var unwantedGroupNames = [\"列表更新时间\"];\n    function transformChannel(channel) {}\n    channelList = channelList.filter(function (channel) {\n        return unwantedGroupNames.indexOf(channel.groupName) === -1;\n    });\n    return sortChannelsByGroupName(transformGroupNames(transformChannelList(filterOutChannels(channelList, filterOutChannelNameList), transformChannel), groupNameMapping), groupNameSort);\n}\n"
+        },
+        {
+          "name": "肥羊咪咕电视直播",
+          "url": "http://127.0.0.1:35455/migu.m3u?userid=你的userid&usertoken=你的usertoken&url=http://127.0.0.1:35455",
+          "isLocal": false,
+          "transformJs": "\nfunction transformGroupNames(channelList, mapping) {\n    return channelList.map(function (channel) {\n        var newGroupName = mapping[channel.groupName] || channel.groupName;\n        return Object.assign({}, channel, { groupName: newGroupName });\n    });\n}\nfunction sortChannelsByGroupName(channelList, sort) {\n    return channelList.map(function (channel, index) {\n            return { channel: channel, originalIndex: index };\n        }).sort(function (a, b) {\n            var indexA = sort.indexOf(a.channel.groupName);\n            var indexB = sort.indexOf(b.channel.groupName);\n            indexA = indexA === -1? sort.length : indexA;\n            indexB = indexB === -1? sort.length : indexB;\n            return indexA - indexB || a.originalIndex - b.originalIndex;\n        }).map(function (item) {\n            return item.channel;\n        });\n}\nfunction transformChannelList(channelList, func) {\n    return channelList.map(function (channel) {\n        var transformedChannel = func(channel);\n        return Object.assign({}, channel, transformedChannel);\n    });\n}\nfunction filterOutChannels(channelList, filterOutChannelNameList) {\n    return channelList.filter(function (channel) {\n        return filterOutChannelNameList.indexOf(channel.name) === -1;\n    });\n}\nfunction main(channelList) {\n    var groupNameMapping = {\n        '北京': '卫视',\n        '安徽': '卫视',\n        '甘肃': '卫视',\n        '广东': '卫视',\n        '贵州': '卫视',\n        '海南': '卫视',\n        '河北': '卫视',\n        '河南': '卫视',\n        '黑龙江': '卫视',\n        '湖北': '卫视',\n        '湖南': '卫视',\n        '吉林': '卫视',\n        '江苏': '卫视',\n        '江西': '卫视',\n        '辽宁': '卫视',\n        '青海': '卫视',\n        '山东': '卫视',\n        '上海': '卫视',\n        '四川': '卫视',\n        '云南': '卫视',\n        '浙江': '卫视',\n        '重庆': '卫视',\n        '香港': '卫视',\n        '4K频道': '4K 8K',\n        '8K频道': '4K 8K'\n    };\n    var groupNameSort = ['央视', '卫视', '4K 8K', 'NEWTV', 'IHOT', '咪咕体育', '其他'];\n    var filterOutChannelNameList = [\"4K60PSDR-H264-AAC测试\", \"4K60PHLG-HEVC-EAC3测试\", \"北京纪实科教8K\", \"重温经典\"];\n    var unwantedGroupNames = [\"列表更新时间\"];\n    function transformChannel(channel) {}\n    channelList = channelList.filter(function (channel) {\n        return unwantedGroupNames.indexOf(channel.groupName) === -1;\n    });\n    return sortChannelsByGroupName(transformGroupNames(transformChannelList(filterOutChannels(channelList, filterOutChannelNameList), transformChannel), groupNameMapping), groupNameSort);\n}\n"
+        },
+        {
+          "name": "肥羊咪咕赛事",
+          "url": "http://127.0.0.1:35455/miguevent.m3u?userid=你的userid&usertoken=你的usertoken&url=http://127.0.0.1:35455",
+          "isLocal": false,
+          "transformJs": "\nfunction transformGroupNames(channelList, mapping) {\n    return channelList.map(function (channel) {\n        var newGroupName = mapping[channel.groupName] || channel.groupName;\n        return Object.assign({}, channel, { groupName: newGroupName });\n    });\n}\nfunction sortChannelsByGroupName(channelList, sort) {\n    return channelList.map(function (channel, index) {\n            return { channel: channel, originalIndex: index };\n        }).sort(function (a, b) {\n            var indexA = sort.indexOf(a.channel.groupName);\n            var indexB = sort.indexOf(b.channel.groupName);\n            indexA = indexA === -1? sort.length : indexA;\n            indexB = indexB === -1? sort.length : indexB;\n            return indexA - indexB || a.originalIndex - b.originalIndex;\n        }).map(function (item) {\n            return item.channel;\n        });\n}\nfunction transformChannelList(channelList, func) {\n    return channelList.map(function (channel) {\n        var transformedChannel = func(channel);\n        return Object.assign({}, channel, transformedChannel);\n    });\n}\nfunction filterOutChannels(channelList, filterOutChannelNameList) {\n    return channelList.filter(function (channel) {\n        return filterOutChannelNameList.indexOf(channel.name) === -1;\n    });\n}\nfunction main(channelList) {\n    var groupNameMapping = {\n        '北京': '卫视',\n        '安徽': '卫视',\n        '甘肃': '卫视',\n        '广东': '卫视',\n        '贵州': '卫视',\n        '海南': '卫视',\n        '河北': '卫视',\n        '河南': '卫视',\n        '黑龙江': '卫视',\n        '湖北': '卫视',\n        '湖南': '卫视',\n        '吉林': '卫视',\n        '江苏': '卫视',\n        '江西': '卫视',\n        '辽宁': '卫视',\n        '青海': '卫视',\n        '山东': '卫视',\n        '上海': '卫视',\n        '四川': '卫视',\n        '云南': '卫视',\n        '浙江': '卫视',\n        '重庆': '卫视',\n        '香港': '卫视',\n        '4K频道': '4K 8K',\n        '8K频道': '4K 8K'\n    };\n    var groupNameSort = ['央视', '卫视', '4K 8K', 'NEWTV', 'IHOT', '咪咕体育', '其他'];\n    var filterOutChannelNameList = [\"4K60PSDR-H264-AAC测试\", \"4K60PHLG-HEVC-EAC3测试\", \"北京纪实科教8K\", \"重温经典\"];\n    var unwantedGroupNames = [\"列表更新时间\"];\n    function transformChannel(channel) {}\n    channelList = channelList.filter(function (channel) {\n        return unwantedGroupNames.indexOf(channel.groupName) === -1;\n    });\n    return sortChannelsByGroupName(transformGroupNames(transformChannelList(filterOutChannels(channelList, filterOutChannelNameList), transformChannel), groupNameMapping), groupNameSort);\n}\n"
+        },
+        {
+          "name": "肥羊爱奇艺赛事",
+          "url": "http://127.0.0.1:35455/iqyevent.m3u?uid=你的uid&userid=你的userid&usertoken=你的usertoken&url=http://127.0.0.1:35455",
+          "isLocal": false,
+          "transformJs": "\nfunction transformGroupNames(channelList, mapping) {\n    return channelList.map(function (channel) {\n        var newGroupName = mapping[channel.groupName] || channel.groupName;\n        return Object.assign({}, channel, { groupName: newGroupName });\n    });\n}\nfunction sortChannelsByGroupName(channelList, sort) {\n    return channelList.map(function (channel, index) {\n            return { channel: channel, originalIndex: index };\n        }).sort(function (a, b) {\n            var indexA = sort.indexOf(a.channel.groupName);\n            var indexB = sort.indexOf(b.channel.groupName);\n            indexA = indexA === -1? sort.length : indexA;\n            indexB = indexB === -1? sort.length : indexB;\n            return indexA - indexB || a.originalIndex - b.originalIndex;\n        }).map(function (item) {\n            return item.channel;\n        });\n}\nfunction transformChannelList(channelList, func) {\n    return channelList.map(function (channel) {\n        var transformedChannel = func(channel);\n        return Object.assign({}, channel, transformedChannel);\n    });\n}\nfunction filterOutChannels(channelList, filterOutChannelNameList) {\n    return channelList.filter(function (channel) {\n        return filterOutChannelNameList.indexOf(channel.name) === -1;\n    });\n}\nfunction main(channelList) {\n    var groupNameMapping = {\n        '北京': '卫视',\n        '安徽': '卫视',\n        '甘肃': '卫视',\n        '广东': '卫视',\n        '贵州': '卫视',\n        '海南': '卫视',\n        '河北': '卫视',\n        '河南': '卫视',\n        '黑龙江': '卫视',\n        '湖北': '卫视',\n        '湖南': '卫视',\n        '吉林': '卫视',\n        '江苏': '卫视',\n        '江西': '卫视',\n        '辽宁': '卫视',\n        '青海': '卫视',\n        '山东': '卫视',\n        '上海': '卫视',\n        '四川': '卫视',\n        '云南': '卫视',\n        '浙江': '卫视',\n        '重庆': '卫视',\n        '香港': '卫视',\n        '4K频道': '4K 8K',\n        '8K频道': '4K 8K'\n    };\n    var groupNameSort = ['央视', '卫视', '4K 8K', 'NEWTV', 'IHOT', '咪咕体育', '其他'];\n    var filterOutChannelNameList = [\"4K60PSDR-H264-AAC测试\", \"4K60PHLG-HEVC-EAC3测试\", \"北京纪实科教8K\", \"重温经典\"];\n    var unwantedGroupNames = [\"列表更新时间\"];\n    function transformChannel(channel) {}\n    channelList = channelList.filter(function (channel) {\n        return unwantedGroupNames.indexOf(channel.groupName) === -1;\n    });\n    return sortChannelsByGroupName(transformGroupNames(transformChannelList(filterOutChannels(channelList, filterOutChannelNameList), transformChannel), groupNameMapping), groupNameSort);\n}\n"
+        },
+        {
+          "name": "肥羊腾讯赛事QQ",
+          "url": "http://127.0.0.1:35455/txevent.m3u?main_login=具体mainLogin&vqq_appid=vqqAppId值&vqq_openid=vqqOpenId值&vqq_access_token=vqqAccessToken值&url=http://127.0.0.1:35455",
+          "isLocal": false,
+          "transformJs": "\nfunction transformGroupNames(channelList, mapping) {\n    return channelList.map(function (channel) {\n        var newGroupName = mapping[channel.groupName] || channel.groupName;\n        return Object.assign({}, channel, { groupName: newGroupName });\n    });\n}\nfunction sortChannelsByGroupName(channelList, sort) {\n    return channelList.map(function (channel, index) {\n            return { channel: channel, originalIndex: index };\n        }).sort(function (a, b) {\n            var indexA = sort.indexOf(a.channel.groupName);\n            var indexB = sort.indexOf(b.channel.groupName);\n            indexA = indexA === -1? sort.length : indexA;\n            indexB = indexB === -1? sort.length : indexB;\n            return indexA - indexB || a.originalIndex - b.originalIndex;\n        }).map(function (item) {\n            return item.channel;\n        });\n}\nfunction transformChannelList(channelList, func) {\n    return channelList.map(function (channel) {\n        var transformedChannel = func(channel);\n        return Object.assign({}, channel, transformedChannel);\n    });\n}\nfunction filterOutChannels(channelList, filterOutChannelNameList) {\n    return channelList.filter(function (channel) {\n        return filterOutChannelNameList.indexOf(channel.name) === -1;\n    });\n}\nfunction main(channelList) {\n    var groupNameMapping = {\n        '北京': '卫视',\n        '安徽': '卫视',\n        '甘肃': '卫视',\n        '广东': '卫视',\n        '贵州': '卫视',\n        '海南': '卫视',\n        '河北': '卫视',\n        '河南': '卫视',\n        '黑龙江': '卫视',\n        '湖北': '卫视',\n        '湖南': '卫视',\n        '吉林': '卫视',\n        '江苏': '卫视',\n        '江西': '卫视',\n        '辽宁': '卫视',\n        '青海': '卫视',\n        '山东': '卫视',\n        '上海': '卫视',\n        '四川': '卫视',\n        '云南': '卫视',\n        '浙江': '卫视',\n        '重庆': '卫视',\n        '香港': '卫视',\n        '4K频道': '4K 8K',\n        '8K频道': '4K 8K'\n    };\n    var groupNameSort = ['央视', '卫视', '4K 8K', 'NEWTV', 'IHOT', '咪咕体育', '其他'];\n    var filterOutChannelNameList = [\"4K60PSDR-H264-AAC测试\", \"4K60PHLG-HEVC-EAC3测试\", \"北京纪实科教8K\", \"重温经典\"];\n    var unwantedGroupNames = [\"列表更新时间\"];\n    function transformChannel(channel) {}\n    channelList = channelList.filter(function (channel) {\n        return unwantedGroupNames.indexOf(channel.groupName) === -1;\n    });\n    return sortChannelsByGroupName(transformGroupNames(transformChannelList(filterOutChannels(channelList, filterOutChannelNameList), transformChannel), groupNameMapping), groupNameSort);\n}\n"
+        },
+        {
+          "name": "肥羊腾讯赛事微信",
+          "url": "http://127.0.0.1:35455/txevent.m3u?main_login=mainLogin值&appid=appId值&openid=openId值&access_token=accessToken值&vuserid=vUserId值&refresh_token=refreshToken值&url=http://127.0.0.1:35455",
+          "isLocal": false,
+          "transformJs": "\nfunction transformGroupNames(channelList, mapping) {\n    return channelList.map(function (channel) {\n        var newGroupName = mapping[channel.groupName] || channel.groupName;\n        return Object.assign({}, channel, { groupName: newGroupName });\n    });\n}\nfunction sortChannelsByGroupName(channelList, sort) {\n    return channelList.map(function (channel, index) {\n            return { channel: channel, originalIndex: index };\n        }).sort(function (a, b) {\n            var indexA = sort.indexOf(a.channel.groupName);\n            var indexB = sort.indexOf(b.channel.groupName);\n            indexA = indexA === -1? sort.length : indexA;\n            indexB = indexB === -1? sort.length : indexB;\n            return indexA - indexB || a.originalIndex - b.originalIndex;\n        }).map(function (item) {\n            return item.channel;\n        });\n}\nfunction transformChannelList(channelList, func) {\n    return channelList.map(function (channel) {\n        var transformedChannel = func(channel);\n        return Object.assign({}, channel, transformedChannel);\n    });\n}\nfunction filterOutChannels(channelList, filterOutChannelNameList) {\n    return channelList.filter(function (channel) {\n        return filterOutChannelNameList.indexOf(channel.name) === -1;\n    });\n}\nfunction main(channelList) {\n    var groupNameMapping = {\n        '北京': '卫视',\n        '安徽': '卫视',\n        '甘肃': '卫视',\n        '广东': '卫视',\n        '贵州': '卫视',\n        '海南': '卫视',\n        '河北': '卫视',\n        '河南': '卫视',\n        '黑龙江': '卫视',\n        '湖北': '卫视',\n        '湖南': '卫视',\n        '吉林': '卫视',\n        '江苏': '卫视',\n        '江西': '卫视',\n        '辽宁': '卫视',\n        '青海': '卫视',\n        '山东': '卫视',\n        '上海': '卫视',\n        '四川': '卫视',\n        '云南': '卫视',\n        '浙江': '卫视',\n        '重庆': '卫视',\n        '香港': '卫视',\n        '4K频道': '4K 8K',\n        '8K频道': '4K 8K'\n    };\n    var groupNameSort = ['央视', '卫视', '4K 8K', 'NEWTV', 'IHOT', '咪咕体育', '其他'];\n    var filterOutChannelNameList = [\"4K60PSDR-H264-AAC测试\", \"4K60PHLG-HEVC-EAC3测试\", \"北京纪实科教8K\", \"重温经典\"];\n    var unwantedGroupNames = [\"列表更新时间\"];\n    function transformChannel(channel) {}\n    channelList = channelList.filter(function (channel) {\n        return unwantedGroupNames.indexOf(channel.groupName) === -1;\n    });\n    return sortChannelsByGroupName(transformGroupNames(transformChannelList(filterOutChannels(channelList, filterOutChannelNameList), transformChannel), groupNameMapping), groupNameSort);\n}\n"
+        }
+      ]
+    },
+    "iptvChannelGroupHiddenList": [],
+    "iptvHybridMode": "HYBRID_FIRST",
+    "iptvSimilarChannelMerge": true,
+    "iptvChannelLogoProvider": "https://epg.v1.mk/logo/{name|uppercase}.png",
+    "iptvChannelLogoOverride": true,
+    "iptvChannelFavoriteEnable": true,
+    "iptvChannelFavoriteListVisible": false,
+    "iptvChannelFavoriteList": {
+      "value": []
+    },
+    "iptvChannelLastPlay": null,
+    "iptvChannelLinePlayableHostList": null,
+    "iptvChannelLinePlayableUrlList": null,
+    "iptvChannelChangeFlip": true,
+    "iptvChannelNoSelectEnable": true,
+    "iptvChannelChangeListLoop": false,
+    "epgEnable": true,
+    "epgSourceCurrent": {
+      "name": "肥羊EPGxml",
+      "url": "https://epg.v1.mk/fy.xml"
+    },
+    "epgSourceList": {
+      "value": [
+        {
+          "name": "肥羊EPGxml",
+          "url": "https://epg.v1.mk/fy.xml"
+        },
+        {
+          "name": "肥羊EPGgz",
+          "url": "https://epg.v1.mk/fy.xml.gz"
+        }
+      ]
+    },
+    "epgRefreshTimeThreshold": 0,
+    "epgSourceFollowIptv": false,
+    "epgChannelReserveList": {
+      "value": []
+    },
+    "uiShowEpgProgrammeProgress": true,
+    "uiShowEpgProgrammePermanentProgress": false,
+    "uiShowChannelLogo": true,
+    "uiShowChannelPreview": false,
+    "uiUseClassicPanelScreen": true,
+    "uiDensityScaleRatio": 0,
+    "uiFontScaleRatio": 1,
+    "uiTimeShowMode": "HIDDEN",
+    "uiFocusOptimize": false,
+    "uiScreenAutoCloseDelay": 15000,
+    "updateForceRemind": false,
+    "updateChannel": "stable",
+    "videoPlayerCore": "MEDIA3",
+    "videoPlayerRenderMode": "SURFACE_VIEW",
+    "videoPlayerUserAgent": "okhttp",
+    "videoPlayerHeaders": "",
+    "videoPlayerLoadTimeout": 15000,
+    "videoPlayerDisplayMode": "ORIGINAL",
+    "videoPlayerForceAudioSoftDecode": true,
+    "videoPlayerStopPreviousMediaItem": true,
+    "themeAppCurrent": null,
+    "cloudSyncAutoPull": null,
+    "cloudSyncProvider": null,
+    "cloudSyncGithubGistId": null,
+    "cloudSyncGithubGistToken": null,
+    "cloudSyncGiteeGistId": null,
+    "cloudSyncGiteeGistToken": null,
+    "cloudSyncNetworkUrl": null,
+    "cloudSyncLocalFilePath": null,
+    "cloudSyncWebDavUrl": null,
+    "cloudSyncWebDavUsername": null,
+    "cloudSyncWebDavPassword": null,
+    "feiyangAllInOneFilePath": "/data/user/0/top.yogiczy.slcs.tv/files/uploads/allinone"
+  },
+  "extraLocalIptvSourceList": {
+    "/data/user/0/top.yogiczy.slcs.tv/files/iptv_source_local_1735471699352.txt": "#EXTM3U\n#EXTINF:-1,group-title=\"抖音\" tvg-logo=\"https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_da2ee7c366382cd8f4ae64dbc0e5dced.jpeg\" ,电影频道央影传媒\nhttp://127.0.0.1:35455/douyin/208823316033$FLV\nhttp://127.0.0.1:35455/douyin/208823316033?stream=hls$HLS\n#EXTINF:-1,group-title=\"抖音\" tvg-logo=\"https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_ef6cf0f075834fdd9c93ec08a08cfa4e.jpeg\" ,六娃6哇\nhttp://127.0.0.1:35455/douyin/58913257631$FLV\nhttp://127.0.0.1:35455/douyin/58913257631?stream=hls$HLS\n#EXTINF:-1,group-title=\"抖音\" tvg-logo=\"https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_bee6cf9f9ebfe933b3608792144c51db.jpeg\" ,气人主播QQQ\nhttp://127.0.0.1:35455/douyin/427652269946$FLV\nhttp://127.0.0.1:35455/douyin/427652269946?stream=hls$HLS\n#EXTINF:-1,group-title=\"抖音\" tvg-logo=\"https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_5140b9c37f217666ae5c25b849146ffb.jpeg\" ,汐月同学🎀\nhttp://127.0.0.1:35455/douyin/447584845941$FLV\nhttp://127.0.0.1:35455/douyin/447584845941?stream=hls$HLS\n#EXTINF:-1,group-title=\"抖音\" tvg-logo=\"https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/mosaic-legacy_2f6680005d00417d356c2.jpeg\" ,电竞讲师胖森\nhttp://127.0.0.1:35455/douyin/566388326775$FLV\nhttp://127.0.0.1:35455/douyin/566388326775?stream=hls$HLS"
+  },
+  "extraChannelNameAlias": ""
+}
